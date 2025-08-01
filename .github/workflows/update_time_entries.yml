@@ -29,6 +29,9 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas requests
 
+    - name: Set up DB folder
+      run: |
+        mkdir -p DB
       
     - name: Run scripts
       run: |
@@ -41,7 +44,7 @@ jobs:
         python scripts/all_time_entries.py
         python scripts/time_entries_all.py
 
-      - name: Upload DB files
+    - name: Upload DB files
       uses: actions/upload-artifact@v4
       with:
         name: sqlite-databases

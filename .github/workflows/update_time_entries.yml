@@ -61,3 +61,16 @@ jobs:
         name: all_time_entries_csv
         path: DB/all_time_entries.csv
 
+     - name: Set up Git user
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit CSV to repo
+      run: |
+        mkdir -p exports
+        cp DB/all_time_entries.csv exports/all_time_entries.csv
+        git add exports/all_time_entries.csv
+        git commit -m "Auto-update all_time_entries.csv [skip ci]" || echo "No changes to commit"
+        git push origin main
+

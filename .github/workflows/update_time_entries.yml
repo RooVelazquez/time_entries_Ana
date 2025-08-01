@@ -61,8 +61,8 @@ jobs:
         name: all_time_entries_csv
         path: DB/all_time_entries.csv
 
-     - name: Set up Git user
-        run: |
+    - name: Set up Git user
+      run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
 

@@ -31,13 +31,13 @@ jobs:
 
     - name: Run scripts
       run: |
+        python scripts/tasks.py
         python scripts/clients_time_entries.py
         python scripts/content_time_entries.py
         python scripts/dev_time_entries.py
         python scripts/non_billable_time_entries.py
         python scripts/off_page_content_time_entries.py
         python scripts/all_time_entries.py
-        python scripts/tasks.py
         python scripts/time_entries_all.py
 
     - name: Upload final database as artifact (optional)

@@ -29,9 +29,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install pandas requests
 
-    - name: Set up DB folder
-      run: |
-        mkdir -p DB
       
     - name: Run scripts
       run: |

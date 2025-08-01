@@ -37,6 +37,7 @@ def get_time_entries(user_id):
     return r.json().get("data", [])
 
 def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
     if os.path.exists(db_path):
         os.remove(db_path)
 

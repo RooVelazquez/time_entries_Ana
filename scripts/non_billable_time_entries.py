@@ -41,6 +41,7 @@ def get_time_entries(user_id):
 
 # 📌 Guardar en base de datos SQLite
 def save_entries_to_db(entries, db_path="DB/non_billable_time_entries.db"):
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
     if os.path.exists(db_path):
         os.remove(db_path)
 

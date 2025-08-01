@@ -42,6 +42,7 @@ def get_time_entries(user_id):
 
 # 📌 Guardar en base de datos SQLite
 def save_entries_to_db(entries, db_path="DB/off_page_content_time_entries.db"):
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
     if os.path.exists("DB/off_page_content_time_entries.db"):
         os.remove("DB/off_page_content_time_entries.db")
 

@@ -9,7 +9,7 @@ SPACE_ID = "90060060754"
 TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
 HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
-DB_PATH = "DB/clients_table.db"
+DB_PATH = "DB/clients_time_entries.db"
 TASKS_DB_PATH = "DB/tasks_table.db"
 
 START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
@@ -42,6 +42,7 @@ def load_task_mapping():
     return mapping
 
 def save_clients_to_db(entries, task_mapping):
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)  # 👈 Asegura que DB/ existe
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
 

@@ -36,6 +36,7 @@ merged_df = pd.concat(all_entries, ignore_index=True)
 
 # Guardar
 output_db = "DB/all_time_entries.db"
+os.makedirs(os.path.dirname(output_db), exist_ok=True)
 conn_out = sqlite3.connect(output_db)
 
 # 👇 Borra tabla si ya existe

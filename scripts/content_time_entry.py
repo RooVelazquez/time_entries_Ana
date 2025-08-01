@@ -41,6 +41,7 @@ def get_time_entries(user_id):
 
 # 📌 Guardar en base de datos SQLite
 def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
 

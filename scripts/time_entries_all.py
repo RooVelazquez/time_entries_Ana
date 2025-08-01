@@ -38,6 +38,7 @@ def get_time_entries(user_id):
 
 # 📌 Guardar entradas en SQLite
 def save_entries_to_db(entries, db_path="DB/time_entries_all.db"):
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)
     if os.path.exists("DB/time_entries_all.db"):
         os.remove("DB/time_entries_all.db")
     conn = sqlite3.connect(db_path)

@@ -1,6 +1,10 @@
 import sqlite3
 import pandas as pd
 import os
+import pandas as pd
+
+DB_PATH = "DB/all_time_entries.db"
+CSV_PATH = "DB/all_time_entries.csv"
 
 # Archivos a unir
 db_files = [
@@ -47,3 +51,12 @@ merged_df.to_sql("all_time_entries", conn_out, if_exists="replace", index=False)
 conn_out.close()
 
 print(f"\n📦 Merge completo: {len(merged_df)} registros guardados en {output_db}")
+
+# Leer la tabla desde SQLite
+conn = sqlite3.connect(DB_PATH)
+df = pd.read_sql_query("SELECT * FROM all_time_entries", conn)
+conn.close()
+
+# Guardar como CSV
+df.to_csv(CSV_PATH, index=False)
+print("✅ CSV guardado en:", CSV_PATH)

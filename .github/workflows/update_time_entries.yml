@@ -54,4 +54,10 @@ jobs:
       with:
         name: all_time_entries
         path: DB/all_time_entries.db
+    
+    - name: Upload CSV artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: all_time_entries_csv
+        path: DB/all_time_entries.csv
 

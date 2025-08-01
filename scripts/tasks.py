@@ -43,6 +43,7 @@ def convert_timestamp(ts):
 
 # 📌 Guardar en SQLite
 def save_tasks_to_db(tasks, db_path="DB/tasks_table.db"):
+    os.makedirs(os.path.dirname(db_path), exist_ok=True)  # 👈 Asegura que DB/ existe
     if os.path.exists("DB/tasks_table.db"):
         os.remove("DB/tasks_table.db")
 

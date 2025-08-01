@@ -42,7 +42,6 @@ jobs:
         python scripts/non_billable_time_entries.py
         python scripts/off_page_content_time_entries.py
         python scripts/all_time_entries.py
-        python scripts/time_entries_all.py
 
     - name: Upload DB files
       uses: actions/upload-artifact@v4

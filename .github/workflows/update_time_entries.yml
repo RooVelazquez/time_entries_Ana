@@ -72,5 +72,9 @@ jobs:
         cp DB/all_time_entries.csv exports/all_time_entries.csv
         git add exports/all_time_entries.csv
         git commit -m "Auto-update all_time_entries.csv [skip ci]" || echo "No changes to commit"
+
+    - name: Push changes
+      run: |
+        git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
         git push origin main
 

@@ -44,6 +44,8 @@ jobs:
         python scripts/non_billable_time_entries.py
         python scripts/off_page_content_time_entries.py
         python scripts/all_time_entries.py
+        python scripts/private_time_entries.py
+        
 
     - name: Upload DB files
       uses: actions/upload-artifact@v4
@@ -69,7 +71,7 @@ jobs:
         git config --global user.email "action@github.com"
         git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
         git pull origin main
-        git add DB/all_time_entries.csv
+        git add DB/all_time_entries.csv DB/time_entries_all_priv.csv
         git commit -m "Auto-update CSV file [skip ci]" || echo "No changes to commit"
         git push origin main
 

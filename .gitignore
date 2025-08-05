@@ -1,0 +1,4 @@
+# Ignorar bases de datos locales
+*.db
+
+archived.py

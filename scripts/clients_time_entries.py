@@ -7,6 +7,7 @@ import os
 TEAM_ID = "9009011702"
 SPACE_ID = "90060060754"
 TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
+#TOKEN =  os.getenv("CLICKUP_TOKEN")
 HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
 DB_PATH = "DB/clients_time_entries.db"

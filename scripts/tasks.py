@@ -1,14 +1,14 @@
 import requests
-import sqlite3
+import pandas as pd
 from datetime import datetime
 import os
 
 # Parámetros
 TEAM_ID = "9009011702"
 TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
-#TOKEN =  os.getenv("CLICKUP_TOKEN")
 HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
+CSV_PATH = "DB/tasks_table.csv"
 
 # 📌 Obtener miembros del equipo
 def get_assignees(team_id):
@@ -35,51 +35,34 @@ def get_tasks_for_user(user_id):
     r = requests.get(url, headers=HEADERS, params=params)
     return r.json().get("tasks", [])
 
-# 📌 Convertir timestamp (ms) a date
-def convert_timestamp(ts):
-    if ts is None:
-        return None
-    return datetime.fromtimestamp(int(ts) / 1000).date()
+# 📌 Guardar en CSV
+def save_tasks_to_csv(tasks, csv_path=CSV_PATH):
+    os.makedirs(os.path.dirname(csv_path), exist_ok=True)
+    rows = []
 
-# 📌 Guardar en SQLite
-def save_tasks_to_db(tasks, db_path="DB/tasks_table.db"):
-    os.makedirs(os.path.dirname(db_path), exist_ok=True)  # 👈 Asegura que DB/ existe
-    if os.path.exists("DB/tasks_table.db"):
-        os.remove("DB/tasks_table.db")
-
-    conn = sqlite3.connect(db_path)
-    cur = conn.cursor()
-
-    # Crear tabla
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS tasks_table (
-            task_id TEXT PRIMARY KEY,
-            tasks_project_id TEXT,
-            tasks_project_name TEXT
-        )
-    """)
-    
     for task in tasks:
         task_id = task.get("id")
         project = task.get("project", {})
         tasks_project_id = project.get("id")
         tasks_project_name = project.get("name")
 
-        cur.execute("""
-            INSERT OR REPLACE INTO tasks_table (task_id, tasks_project_id, tasks_project_name)
-            VALUES (?, ?, ?)
-        """, (task_id, tasks_project_id, tasks_project_name))
+        rows.append({
+            "task_id": task_id,
+            "tasks_project_id": tasks_project_id,
+            "tasks_project_name": tasks_project_name
+        })
 
-    conn.commit()
-    conn.close()
+    df = pd.DataFrame(rows).drop_duplicates(subset="task_id")
+    df.to_csv(csv_path, index=False)
+    print(f"✅ Tareas guardadas como CSV en {csv_path}")
 
 # 🧠 Pipeline principal
 if __name__ == "__main__":
     print("Obteniendo miembros...")
     users = get_assignees(TEAM_ID)
-    #users=users[:10]  # Limitar a los primeros 10 usuarios para evitar demasiadas solicitudes
-    
+    #users = users[:10]  # Limitar a los primeros 10 usuarios para pruebas
     print(f"Obteniendo tareas para {len(set(users))} usuarios...")
+
     all_tasks = []
     for i, uid in enumerate(users, 1):
         tasks = get_tasks_for_user(uid)
@@ -87,8 +70,5 @@ if __name__ == "__main__":
         print(f"→ Usuario {i}/{len(users)}: {len(tasks)} tareas recuperadas (acumuladas: {len(all_tasks)})")
 
     print(f"Total de tareas recuperadas: {len(all_tasks)}")
-    
     print("Guardando tareas únicas por proyecto...")
-    save_tasks_to_db(all_tasks)
-    
-    print("✅ Tareas guardadas en tasks_table.db")
+    save_tasks_to_csv(all_tasks)

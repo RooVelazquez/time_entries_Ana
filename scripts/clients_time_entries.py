@@ -1,5 +1,6 @@
 import requests
 import sqlite3
+import pandas as pd
 from datetime import datetime
 import time
 import os
@@ -11,7 +12,7 @@ TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
 HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
 DB_PATH = "DB/clients_time_entries.db"
-TASKS_DB_PATH = "DB/tasks_table.db"
+TASKS_DB_PATH = "DB/tasks_table.csv"
 
 START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
 END_DATE = int(datetime.now().timestamp() * 1000)
@@ -34,12 +35,18 @@ def get_time_entries(user_id):
     r = requests.get(url, headers=HEADERS, params=params)
     return r.json().get("data", [])
 
-def load_task_mapping():
+def load_task_mapping_db():
     conn = sqlite3.connect(TASKS_DB_PATH)
     cur = conn.cursor()
     cur.execute("SELECT task_id, tasks_project_id, tasks_project_name FROM tasks_table")
     mapping = {task_id: project_name for task_id, _, project_name in cur.fetchall()}
     conn.close()
+    return mapping
+
+def load_task_mapping():
+    df = pd.read_csv(TASKS_DB_PATH)
+    df['tasks_project_id'] = df['tasks_project_id'].astype(str)  # 👈 Asegura que sean strings
+    mapping = dict(zip(df['tasks_project_id'], df['tasks_project_name']))
     return mapping
 
 def save_clients_to_db(entries, task_mapping):
@@ -88,7 +95,8 @@ def save_clients_to_db(entries, task_mapping):
         folder_id = location.get("folder_id", "")
         space_id = location.get("space_id", "")
         task_url = entry.get("task_url", "")
-        client = task_mapping.get(task_id, "Unknown")
+        #print(f"folder_id: {folder_id} → client: {task_mapping.get(str(folder_id))}")
+        client = task_mapping.get(str(folder_id), "Unknown")
 
         cur.execute("""
             INSERT OR REPLACE INTO clients 
@@ -104,7 +112,7 @@ def save_clients_to_db(entries, task_mapping):
 if __name__ == "__main__":
     print("🔍 Obteniendo usuarios...")
     users = get_assignees(TEAM_ID)
-
+    #users = users[:10]  # Limitar a los primeros 10 usuarios para pruebas
     print("🕒 Descargando time entries...")
     all_entries = []
     for i, user_id in enumerate(users, 1):

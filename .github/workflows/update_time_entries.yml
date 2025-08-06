@@ -65,13 +65,19 @@ jobs:
         name: all_time_entries_csv
         path: DB/all_time_entries.csv
 
+    - name: Upload CSV artifact 2
+      uses: actions/upload-artifact@v4
+      with:
+        name: task_table_csv
+        path: DB/tasks_table.csv
+
     - name: Commit and push CSV to repo
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/${{ github.repository }}
         git pull origin main
-        git add DB/all_time_entries.csv DB/private.csv DB/task_table.csv
+        git add DB/all_time_entries.csv DB/private.csv DB/tasks_table.csv
         git commit -m "Auto-update CSV file [skip ci]" || echo "No changes to commit"
         git push origin main
 

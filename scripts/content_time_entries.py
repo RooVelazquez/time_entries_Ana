@@ -13,9 +13,7 @@ TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
 HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
 TASKS_DB_PATH = "DB/tasks_table.csv"
-
-# 🧠 Diccionario para cachear task_id → client
-task_client_cache = {}
+CLIENT_CACHE_PATH = "DB/client_names.csv"
 
 # Rango de fechas (1 enero 2024 → hoy)
 START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
@@ -38,6 +36,29 @@ def load_task_mapping():
     df['tasks_project_id'] = df['tasks_project_id'].astype(str)  # Asegura que sean strings
     mapping = dict(zip(df['tasks_project_id'], df['tasks_project_name']))
     return mapping
+# 📌 Cargar diccionario desde CSV (task_id → client_name)
+
+def load_client_cache():
+    if os.path.exists(CLIENT_CACHE_PATH):
+        df = pd.read_csv(CLIENT_CACHE_PATH)
+        return dict(zip(df["task_id"].astype(str), df["client_name"]))
+    return {}
+
+# 📌 Guardar nuevo mapeo en el CSV
+def update_client_cache(task_id, client_name):
+    if not os.path.exists(CLIENT_CACHE_PATH):
+        df = pd.DataFrame(columns=["task_id", "client_name"])
+    else:
+        df = pd.read_csv(CLIENT_CACHE_PATH)
+    
+    # Solo si no existe ya
+    if task_id not in df["task_id"].astype(str).values:
+        new_row = pd.DataFrame([{"task_id": task_id, "client_name": client_name}])
+        df = pd.concat([df, new_row], ignore_index=True)
+        df.to_csv(CLIENT_CACHE_PATH, index=False)
+
+# 🧠 Diccionario global precargado
+task_client_cache = load_client_cache()
 
 # 📌 Obtener time entries por usuario
 def get_time_entries(user_id):
@@ -61,6 +82,7 @@ def get_client_from_task(task_id):
     if r.status_code != 200:
         print(f"⚠️ Error al obtener task {task_id}: {r.status_code}")
         task_client_cache[task_id] = "Unknown"
+        update_client_cache(task_id, "Unknown")
         return "Unknown"
 
     data = r.json()
@@ -74,9 +96,11 @@ def get_client_from_task(task_id):
                 if option.get("id") == value or option.get("orderindex") == value:
                     name = option.get("name")
                     task_client_cache[task_id] = name
+                    update_client_cache(task_id, name)
                     return name
 
     task_client_cache[task_id] = "Unknown"
+    update_client_cache(task_id, "Unknown")
     return "Unknown"
 
 # 📌 Guardar en base de datos SQLite
@@ -147,7 +171,7 @@ def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
 if __name__ == "__main__":
     print("Obteniendo usuarios...")
     users = get_assignees(TEAM_ID)
-    #users = users[:20]  # Limitar a los primeros 10 usuarios para pruebas
+    #users = users[:10]  # Limitar a los primeros 10 usuarios para pruebas
     print(f"Procesando {len(users)} usuarios...")
     all_entries = []
     for i, uid in enumerate(users, 1):

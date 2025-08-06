@@ -147,7 +147,7 @@ def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
 if __name__ == "__main__":
     print("Obteniendo usuarios...")
     users = get_assignees(TEAM_ID)
-    users = users[:20]  # Limitar a los primeros 10 usuarios para pruebas
+    #users = users[:20]  # Limitar a los primeros 10 usuarios para pruebas
     print(f"Procesando {len(users)} usuarios...")
     all_entries = []
     for i, uid in enumerate(users, 1):

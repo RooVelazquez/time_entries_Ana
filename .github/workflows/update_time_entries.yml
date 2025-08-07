@@ -38,11 +38,11 @@ jobs:
     - name: Set system timezone to Toronto
       run: |
         sudo timedatectl set-timezone America/Toronto
-        
+
     - name: Print current time
       run: date
-        - name: Run scripts
-
+    
+    - name: Run scripts
       run: |
         python scripts/tasks.py
         python scripts/clients_time_entries.py

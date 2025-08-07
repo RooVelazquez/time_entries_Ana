@@ -4,6 +4,7 @@ from datetime import datetime
 import time
 import os
 import pandas as pd
+import pytz
 
 # Parámetros
 TEAM_ID = "9009011702"
@@ -16,19 +17,25 @@ TASKS_DB_PATH = "DB/tasks_table.csv"
 CLIENT_CACHE_PATH = "DB/client_names.csv"
 
 # Rango de fechas (1 enero 2024 → hoy)
-START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
-END_DATE = int(datetime.now().timestamp() * 1000)
+toronto_tz = pytz.timezone("America/Toronto")
+start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))  
+end_dt = datetime.now(toronto_tz)                             
+START_DATE = int(start_dt.timestamp() * 1000)                   
+END_DATE = int(end_dt.timestamp() * 1000)      
 
 # 📌 Obtener miembros del equipo
 def get_assignees(team_id):
     url = f"{BASE_URL}/team/{team_id}"
     r = requests.get(url, headers=HEADERS)
+    r.raise_for_status()
     data = r.json()
-    team = data.get("team", data)
-    members = team.get("members") or team.get("memberships")
-    if not members:
-        raise Exception("No se encontraron miembros.")
-    return [str(m['user']['id']) for m in members]
+    members = data.get("team", data).get("members", [])
+    
+    return [
+        str(m['user']['id']) 
+        for m in members 
+        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
+    ]
 
 # 📌 Cargar mapeo de folder_id a client
 def load_task_mapping():
@@ -143,8 +150,8 @@ def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
         user = entry.get("user", {})
         user_id = user.get("id", "")
         username = user.get("username", "")
-        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000).isoformat()
-        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000).isoformat()
+        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()  #changed
+        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()     #changed
         duration_hours = int(entry["duration"]) / 1000 / 3600 if entry.get("duration") else 0
         Billable = str(entry.get("billable", False))  
         WorkspaceID = entry.get("wid", "")

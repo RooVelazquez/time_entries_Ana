@@ -3,35 +3,44 @@ import pandas as pd
 from datetime import datetime
 import time
 import os
+import pytz
 
 # Parámetros de conexión
 TEAM_ID = "9009011702"
 TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
 HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
-START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
-END_DATE = int(datetime.now().timestamp() * 1000)
 
+# Rango de fechas (1 enero 2024 → hoy)
+toronto_tz = pytz.timezone("America/Toronto")
+start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))  
+end_dt = datetime.now(toronto_tz)                             
+START_DATE = int(start_dt.timestamp() * 1000)                   
+END_DATE = int(end_dt.timestamp() * 1000)      
 # Rutas
 CSV_PATH = "DB/private.csv"
 EXISTING_CSV_PATH = "DB/all_time_entries.csv"
 
-# 🔁 Convertir timestamp a formato legible
+# 🔁 Convertir timestamp a formato legible (UTC → Toronto)
 def convert_timestamp(ms):
     if not ms:
         return None
-    return datetime.fromtimestamp(int(ms) / 1000).isoformat()
+    dt_utc = datetime.fromtimestamp(int(ms) / 1000, tz=pytz.utc)
+    return dt_utc.astimezone(toronto_tz).isoformat()
 
 # 📌 Obtener IDs de usuarios
 def get_assignees(team_id):
     url = f"{BASE_URL}/team/{team_id}"
     r = requests.get(url, headers=HEADERS)
+    r.raise_for_status()
     data = r.json()
-    team = data.get("team", data)
-    members = team.get("members") or team.get("memberships")
-    if not members:
-        raise Exception("No se encontraron miembros.")
-    return [str(m['user']['id']) for m in members]
+    members = data.get("team", data).get("members", [])
+    
+    return [
+        str(m['user']['id']) 
+        for m in members 
+        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
+    ]
 
 # 📌 Obtener time entries por usuario
 def get_time_entries(user_id):

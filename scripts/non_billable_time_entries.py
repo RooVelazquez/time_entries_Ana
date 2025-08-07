@@ -24,12 +24,15 @@ END_DATE = int(end_dt.timestamp() * 1000)
 def get_assignees(team_id):
     url = f"{BASE_URL}/team/{team_id}"
     r = requests.get(url, headers=HEADERS)
+    r.raise_for_status()
     data = r.json()
-    team = data.get("team", data)
-    members = team.get("members") or team.get("memberships")
-    if not members:
-        raise Exception("No se encontraron miembros.")
-    return [str(m['user']['id']) for m in members]
+    members = data.get("team", data).get("members", [])
+    
+    return [
+        str(m['user']['id']) 
+        for m in members 
+        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
+    ]
 
 # 📌 Obtener time entries por usuario
 def get_time_entries(user_id):

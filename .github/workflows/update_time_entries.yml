@@ -34,8 +34,15 @@ jobs:
     - name: Set up DB folder
       run: |
         mkdir -p DB
-      
-    - name: Run scripts
+
+    - name: Set system timezone to Toronto
+      run: |
+        sudo timedatectl set-timezone America/Toronto
+        
+    - name: Print current time
+      run: date
+        - name: Run scripts
+
       run: |
         python scripts/tasks.py
         python scripts/clients_time_entries.py

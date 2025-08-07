@@ -3,6 +3,7 @@ import sqlite3
 from datetime import datetime
 import time
 import os
+import pytz
 
 # Parámetros
 TEAM_ID = "9009011702"
@@ -13,8 +14,11 @@ HEADERS = {"Authorization": TOKEN}
 BASE_URL = "https://api.clickup.com/api/v2"
 
 # Rango de fechas (1 enero 2024 → hoy)
-START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
-END_DATE = int(datetime.now().timestamp() * 1000)
+toronto_tz = pytz.timezone("America/Toronto")
+start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))  
+end_dt = datetime.now(toronto_tz)                             
+START_DATE = int(start_dt.timestamp() * 1000)                   
+END_DATE = int(end_dt.timestamp() * 1000)      
 
 # 📌 Obtener miembros del equipo
 def get_assignees(team_id):
@@ -78,8 +82,8 @@ def save_entries_to_db(entries, db_path="DB/non_billable_time_entries.db"):
         user = entry.get("user", {})
         user_id = user.get("id", "")
         username = user.get("username", "")
-        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000).isoformat()
-        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000).isoformat()
+        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()  #changed
+        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()     #changed
         duration_hours = int(entry["duration"]) / 1000 / 3600 if entry.get("duration") else 0
         Billable = str(entry.get("billable", False))  
         WorkspaceID = entry.get("wid", "")

@@ -14,14 +14,15 @@ CSV_PATH = "DB/tasks_table.csv"
 def get_assignees(team_id):
     url = f"{BASE_URL}/team/{team_id}"
     r = requests.get(url, headers=HEADERS)
+    r.raise_for_status()
     data = r.json()
+    members = data.get("team", data).get("members", [])
     
-    team = data.get("team", data)
-    members = team.get("members") or team.get("memberships")
-    if not members:
-        raise Exception("No se encontraron miembros.")
-    
-    return [str(m['user']['id']) for m in members]
+    return [
+        str(m['user']['id']) 
+        for m in members 
+        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
+    ]
 
 # 📌 Obtener tareas para un usuario
 def get_tasks_for_user(user_id):

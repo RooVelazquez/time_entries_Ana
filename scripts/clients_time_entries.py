@@ -4,6 +4,7 @@ import pandas as pd
 from datetime import datetime
 import time
 import os
+import pytz
 
 TEAM_ID = "9009011702"
 SPACE_ID = "90060060754"
@@ -14,15 +15,25 @@ BASE_URL = "https://api.clickup.com/api/v2"
 DB_PATH = "DB/clients_time_entries.db"
 TASKS_DB_PATH = "DB/tasks_table.csv"
 
-START_DATE = int(datetime(2024, 1, 1).timestamp() * 1000)
-END_DATE = int(datetime.now().timestamp() * 1000)
+# Rango de fechas (1 enero 2024 → hoy)
+toronto_tz = pytz.timezone("America/Toronto")
+start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))  
+end_dt = datetime.now(toronto_tz)                             
+START_DATE = int(start_dt.timestamp() * 1000)                   
+END_DATE = int(end_dt.timestamp() * 1000)      
 
 def get_assignees(team_id):
     url = f"{BASE_URL}/team/{team_id}"
     r = requests.get(url, headers=HEADERS)
+    r.raise_for_status()
     data = r.json()
     members = data.get("team", data).get("members", [])
-    return [str(m['user']['id']) for m in members]
+    
+    return [
+        str(m['user']['id']) 
+        for m in members 
+        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
+    ]
 
 def get_time_entries(user_id):
     url = f"{BASE_URL}/team/{TEAM_ID}/time_entries"
@@ -84,8 +95,8 @@ def save_clients_to_db(entries, task_mapping):
         user = entry.get("user", {})
         user_id = user.get("id", "")
         username = user.get("username", "")
-        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000).isoformat()
-        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000).isoformat()
+        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()  #changed
+        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()     #changed
         duration_hours = int(entry["duration"]) / 1000 / 3600 if entry.get("duration") else 0
         billable = str(entry.get("billable", False))
         wid = entry.get("wid", "")

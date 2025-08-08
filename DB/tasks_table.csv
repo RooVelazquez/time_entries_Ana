@@ -1153,8 +1153,8 @@ task_id,tasks_project_id,tasks_project_name
 868ehp0xt,90113305932,hidden
 868ehp0x5,90113305932,hidden
 868ehp0wx,90113305932,hidden
-868ehp0wj,90113305932,hidden
 868ehp0wk,90113305932,hidden
+868ehp0wj,90113305932,hidden
 868ehp0ve,90113305932,hidden
 868ehp0ua,90113305932,hidden
 868ehp0u3,90113305932,hidden
@@ -1219,6 +1219,8 @@ task_id,tasks_project_id,tasks_project_name
 868e8w1pt,90113305932,hidden
 868e8w1pg,90113305932,hidden
 868e8w1p0,90113305932,hidden
+868f3ue46,90080566579,Detroit Signs & Graphics
+868f3ue45,90080566579,Detroit Signs & Graphics
 868f1h8xw,90080576862,Priority Signs & Graphics
 868f1h8xu,90080576862,Priority Signs & Graphics
 868f1h8vp,90080576862,Priority Signs & Graphics
@@ -1303,8 +1305,9 @@ task_id,tasks_project_id,tasks_project_name
 868e800hm,90112081421,Victory Sign Company
 868e8005m,90030741299,Major League Signs (Miami Signs)
 868e7pqkr,90030740856,Genesis Signs & Graphics
-868e7f91x,90080576601,Saltwater Signworks
-868e6318v,90080576750,Quad City
+868f35xa5,90030627235,Caliber Signs & Imaging
+868f35xa4,90030627235,Caliber Signs & Imaging
+868f35xa3,90030627235,Caliber Signs & Imaging
 868f0fb1q,90030635199,Celco/Celcook
 868f0f9d1,90030635199,Celco/Celcook
 868f0f8q7,90030635199,Celco/Celcook
@@ -1390,9 +1393,6 @@ task_id,tasks_project_id,tasks_project_name
 868e3qnhz,90030635199,Celco/Celcook
 868e2rm71,90030635199,Celco/Celcook
 868e2rcr1,90080576656,Rent a Son
-868e2nuxx,90080576656,Rent a Son
-868e290pg,90080576656,Rent a Son
-868e290b5,90080576656,Rent a Son
 868f06e68,90116556625,SpeedPro - Dallas
 868f06e4h,90116556625,SpeedPro - Dallas
 868eyy97f,90110014029,Busology
@@ -2216,6 +2216,9 @@ task_id,tasks_project_id,tasks_project_name
 868dxaq7t,90031065561,Champlin Park Pet Hospital
 868dwk8cu,90080570794,Fresh Coast Signs | Muskegon Signs
 868dwjxyj,90111375408,Total SignWorks Ltd
+868f3uuw0,90080570794,Fresh Coast Signs | Muskegon Signs
+868f3uuvz,90080570794,Fresh Coast Signs | Muskegon Signs
+868f3uuvy,90080570794,Fresh Coast Signs | Muskegon Signs
 868ey16tm,90080627999,SSK Signs
 868ey16tk,90080627999,SSK Signs
 868ey16tj,90080627999,SSK Signs
@@ -2243,10 +2246,6 @@ task_id,tasks_project_id,tasks_project_name
 868eb3khz,90031017619,Artisan Signworks
 868e7f8kg,90080576601,Saltwater Signworks
 868e6e0n3,90030757487,Horizon Sign Solutions
-868e6318r,90080576750,Quad City
-868e62x48,90080576862,Priority Signs & Graphics
-868e62x46,90080576862,Priority Signs & Graphics
-868e5h8hr,90116277682,Kingdom Signs and Graphics
 868ew6uum,90116368871,hidden
 868ew5kpe,90116368871,hidden
 868ew4z53,90116368871,hidden
@@ -2280,6 +2279,7 @@ task_id,tasks_project_id,tasks_project_name
 868f2nr48,90080576656,Rent a Son
 868ezwub5,90110014029,Busology
 868ezwt9w,90110014029,Busology
+868ezfpqg,90116277682,Kingdom Signs and Graphics
 868eyzwmu,90031028143,Vibrant Sign Studio
 868ewczv8,90080576656,Rent a Son
 868ew468z,90080572326,Super Custom Sign
@@ -2317,7 +2317,6 @@ task_id,tasks_project_id,tasks_project_name
 868e5rjam,90080623332,VizComm Signage Group
 868e5puhb,90080623332,VizComm Signage Group
 868e5n4bc,90080623332,VizComm Signage Group
-868e4c1md,90080623332,VizComm Signage Group
 868ezhr38,90116237874,Alemba
 868ex3a1f,90110014029,Busology
 868evb09d,90080576656,Rent a Son
@@ -2655,107 +2654,66 @@ task_id,tasks_project_id,tasks_project_name
 868ejvxfc,90113842485,hidden
 868eemqty,90116237874,Alemba
 868ee2nz4,90116049321,hidden
-868edf0x9,90080621916,Louisville Custom Signs
-85zrym034,90020241714,hidden
-85zt4pqrz,90080566916,Georgetown Signs
-860qqfp5c,90080576750,Quad City
-860qqx5vy,90080621916,Louisville Custom Signs
-860qy764m,90080621916,Louisville Custom Signs
-860qzq4jp,90080570794,Fresh Coast Signs | Muskegon Signs
-8684rzcpq,90080566916,Georgetown Signs
-8684t3r2c,90080575592,SignScapes
-8684t3rq6,90030741299,Major League Signs (Miami Signs)
-8684t9tpg,90080576750,Quad City
-8684unx8u,90080621916,Louisville Custom Signs
-8684za18n,90080621916,Louisville Custom Signs
-8684zgeu5,90031017619,Artisan Signworks
-8684ztdza,90080621393,Dragon Taekwondo
-8684ztdzd,90080621393,Dragon Taekwondo
-8684ztdzp,90080621393,Dragon Taekwondo
-8684ztdzt,90080621393,Dragon Taekwondo
-8684ztfu7,90080570794,Fresh Coast Signs | Muskegon Signs
-8684ztg2y,90080566916,Georgetown Signs
-8684ztjqq,90080621916,Louisville Custom Signs
-8684ztjqv,90080621916,Louisville Custom Signs
-8684ztjr3,90080621916,Louisville Custom Signs
-8684ztjr9,90080621916,Louisville Custom Signs
-8684ztjwz,90080622232,Majestic Sign Studio
-8684ztq84,90080576750,Quad City
-8684ztq85,90080576750,Quad City
-8684ztrbv,90080575851,Signs Unlimited
-8684ztrbw,90080575851,Signs Unlimited
-8684ztrc2,90080575851,Signs Unlimited
-8684ztrc4,90080575851,Signs Unlimited
-8684ztryb,90080627999,SSK Signs
-8684ztryy,90080627999,SSK Signs
-8684ztrz0,90080627999,SSK Signs
-8684ztt42,90080575514,Street Style Sign Studio
-8684ztt45,90080575514,Street Style Sign Studio
-8684zwxwb,90080566916,Georgetown Signs
-86850zkr3,90080621393,Dragon Taekwondo
-86850zkra,90080621393,Dragon Taekwondo
-8685307pz,90031017619,Artisan Signworks
-868537uqn,90080621916,Louisville Custom Signs
-868537uqr,90080621916,Louisville Custom Signs
-86857x4qc,90080621393,Dragon Taekwondo
-86857x4qf,90080621393,Dragon Taekwondo
-86858pyux,90080570794,Fresh Coast Signs | Muskegon Signs
-86859tjyg,90080575514,Street Style Sign Studio
-86859v5qa,90080570794,Fresh Coast Signs | Muskegon Signs
-8685c0zcq,90030741299,Major League Signs (Miami Signs)
-8685ewx7d,90031017619,Artisan Signworks
-8685j16p1,90080621916,Louisville Custom Signs
-8685j55km,90110082839,Southlake Signs Tampa
-8685jenay,90031017619,Artisan Signworks
-8685jenaz,90031017619,Artisan Signworks
-8685jxyep,90080570794,Fresh Coast Signs | Muskegon Signs
-8685khc1y,90080576750,Quad City
-8685khc2d,90080576750,Quad City
-8685m8pwa,90080576750,Quad City
-8685mrkhn,90080621916,Louisville Custom Signs
-8685mrkhp,90080621916,Louisville Custom Signs
-8685pb8kj,90080575851,Signs Unlimited
-8685pb8ku,90080575851,Signs Unlimited
-8685rde98,90080566916,Georgetown Signs
-8685rde9g,90080566916,Georgetown Signs
-8685xt3dv,90080621916,Louisville Custom Signs
-8685z732m,90080621916,Louisville Custom Signs
-8685z732q,90080621916,Louisville Custom Signs
-8685z7347,90080621916,Louisville Custom Signs
-8685z734b,90080621916,Louisville Custom Signs
-8685zd580,90080575851,Signs Unlimited
-8685zd58c,90080575851,Signs Unlimited
-8685zd5ba,90080575851,Signs Unlimited
-8685zd5bk,90080575851,Signs Unlimited
-86861kdkq,90030741299,Major League Signs (Miami Signs)
-868637xyw,90031017619,Artisan Signworks
-868637xz3,90031017619,Artisan Signworks
-868638pnr,90080627999,SSK Signs
-86863wm3t,90080627999,SSK Signs
-86863wm46,90080627999,SSK Signs
-86864dabv,90080566916,Georgetown Signs
-86864dac2,90080566916,Georgetown Signs
-86864daca,90080566916,Georgetown Signs
-86864dacy,90080566916,Georgetown Signs
-86869nccm,90110082839,Southlake Signs Tampa
-8686abc3q,90080621916,Louisville Custom Signs
-8686awuaw,90080621393,Dragon Taekwondo
-8686awub4,90080621393,Dragon Taekwondo
-8686c7zqx,90080575514,Street Style Sign Studio
-8686er39h,90080621393,Dragon Taekwondo
-8686er39p,90080621393,Dragon Taekwondo
-8686frn8v,90080566916,Georgetown Signs
-8686frn90,90080566916,Georgetown Signs
-8686ktk1d,90031017619,Artisan Signworks
-8686ktk1p,90031017619,Artisan Signworks
-8686pffjw,90080576750,Quad City
-8686pfznt,90080627999,SSK Signs
-8686puxcj,90080566916,Georgetown Signs
-8686pv9pg,90080575514,Street Style Sign Studio
-8686pv9pr,90080575514,Street Style Sign Studio
-8686pxkgp,90080576862,Priority Signs & Graphics
-8686pynb6,90110082839,Southlake Signs Tampa
-8686q2gxm,90080570794,Fresh Coast Signs | Muskegon Signs
+868f3b95v,90115099209,Oregon Custom Sign Group
+868f3b880,90031028143,Vibrant Sign Studio
+868f3b7p4,90030620259,Blue Ocean Custom Signs
+868f2q3q5,90116205597,SKY Custom Signs
+868f2q3q3,90116205597,SKY Custom Signs
+868f1bxg2,90080570794,Fresh Coast Signs | Muskegon Signs
+868f1bxg1,90080570794,Fresh Coast Signs | Muskegon Signs
+868eytur0,90030821638,Northeast Sign Company
+868ey7vdg,90031028143,Vibrant Sign Studio
+868etn11d,90080576408,Sign Source Solution Inc.
+868etn117,90080576408,Sign Source Solution Inc.
+868etn10z,90080576408,Sign Source Solution Inc.
+868etn10u,90080576408,Sign Source Solution Inc.
+868etn10q,90080576408,Sign Source Solution Inc.
+868etmt90,90030620259,Blue Ocean Custom Signs
+868etmt8z,90030620259,Blue Ocean Custom Signs
+868etmt8y,90030620259,Blue Ocean Custom Signs
+868etmt8r,90030620259,Blue Ocean Custom Signs
+868etmt8p,90030620259,Blue Ocean Custom Signs
+868etmt87,90030620259,Blue Ocean Custom Signs
+868etmt86,90030620259,Blue Ocean Custom Signs
+868etmrx9,90030821638,Northeast Sign Company
+868etmrwv,90030821638,Northeast Sign Company
+868etmrwt,90030821638,Northeast Sign Company
+868etmrwq,90030821638,Northeast Sign Company
+868etmrwp,90030821638,Northeast Sign Company
+868etmrwj,90030821638,Northeast Sign Company
+868etmrmq,90080571664,Touchstone Signs and Graphics
+868etmrmd,90080571664,Touchstone Signs and Graphics
+868etmrma,90080571664,Touchstone Signs and Graphics
+868etmrm9,90080571664,Touchstone Signs and Graphics
+868etmrm1,90080571664,Touchstone Signs and Graphics
+868etmrff,90080627999,SSK Signs
+868etmrey,90080627999,SSK Signs
+868etmrem,90080627999,SSK Signs
+868etmrek,90080627999,SSK Signs
+868etmrej,90080627999,SSK Signs
+868etmred,90080627999,SSK Signs
+868etmr19,90080570794,Fresh Coast Signs | Muskegon Signs
+868etmr0y,90080570794,Fresh Coast Signs | Muskegon Signs
+868etmr0b,90080570794,Fresh Coast Signs | Muskegon Signs
+868eq9grc,90031028143,Vibrant Sign Studio
+868eq9gpn,90031028143,Vibrant Sign Studio
+868eq9gpm,90031028143,Vibrant Sign Studio
+868eq9gpk,90031028143,Vibrant Sign Studio
+868eq9gpf,90031028143,Vibrant Sign Studio
+868eq9gnz,90031028143,Vibrant Sign Studio
+868eq9gnr,90031028143,Vibrant Sign Studio
+868ep4uk6,90111375408,Total SignWorks Ltd
+868ep4ujt,90111375408,Total SignWorks Ltd
+868ep4ujr,90111375408,Total SignWorks Ltd
+868ep4ujq,90111375408,Total SignWorks Ltd
+868ep4ujm,90111375408,Total SignWorks Ltd
+868ep4ujf,90111375408,Total SignWorks Ltd
+868ep4ujd,90111375408,Total SignWorks Ltd
+868ep4dex,90115099209,Oregon Custom Sign Group
+868ep4de7,90115099209,Oregon Custom Sign Group
+868ep4de6,90115099209,Oregon Custom Sign Group
+868ep4de5,90115099209,Oregon Custom Sign Group
+868ep4de4,90115099209,Oregon Custom Sign Group
 868eytrre,90115541760,Red Robin Masonry
 868ejr40r,90115541760,Red Robin Masonry
 868ej12k4,90115541760,Red Robin Masonry
@@ -2840,6 +2798,8 @@ task_id,tasks_project_id,tasks_project_name
 868bn8jq0,90080575514,Street Style Sign Studio
 868ewcbgz,90030740856,Genesis Signs & Graphics
 868evyn6c,90112826860,Toronto Digital Marketing Agency
+868e6318v,90080576750,Quad City
+868e6318r,90080576750,Quad City
 868e5que1,90111672509,Sign Resources NC Inc.
 868e2t5am,90080576750,Quad City
 868e2phmh,90080576750,Quad City
@@ -2923,7 +2883,6 @@ task_id,tasks_project_id,tasks_project_name
 868f244qn,90110423486,Excel SignWorks
 868f244qf,90110423486,Excel SignWorks
 868f244qc,90110423486,Excel SignWorks
-868ezfpqg,90116277682,Kingdom Signs and Graphics
 868ey5z8k,90113419805,Space Age Closets
 868ey5hv8,90110082839,Southlake Signs Tampa
 868ey3ypc,90030608671,Baltimore Signsmiths
@@ -2968,6 +2927,7 @@ task_id,tasks_project_id,tasks_project_name
 868e9j3mu,90030635031,Captivating Signs
 868e9j3e4,90031017619,Artisan Signworks
 868e9j3dm,90031017619,Artisan Signworks
+868e9j3dh,90031017619,Artisan Signworks
 868f3gyd3,90080570857,Windy City Signs and Graphics
 868f2jnbc,90115543201,Collaborative Sign and Design Inc
 868f0vqk0,90114073615,SpeedPro - Raleigh Clayton
@@ -3016,8 +2976,6 @@ task_id,tasks_project_id,tasks_project_name
 868f3b7nt,90030620259,Blue Ocean Custom Signs
 868f3b7np,90030620259,Blue Ocean Custom Signs
 868ey3v5g,90115099209,Oregon Custom Sign Group
-868etn10q,90080576408,Sign Source Solution Inc.
-868etmt8p,90030620259,Blue Ocean Custom Signs
 868etbvhw,90030620259,Blue Ocean Custom Signs
 868etbvhv,90030620259,Blue Ocean Custom Signs
 868etbvhq,90030620259,Blue Ocean Custom Signs
@@ -3025,8 +2983,6 @@ task_id,tasks_project_id,tasks_project_name
 868et3pkr,90030651194,City Beautiful Signs and Graphics
 868et3pkp,90030651194,City Beautiful Signs and Graphics
 868erj34d,90030740953,Gold Media
-868eq9gnr,90031028143,Vibrant Sign Studio
-868ep4ujd,90111375408,Total SignWorks Ltd
 868ep4ddz,90115099209,Oregon Custom Sign Group
 868en4pdm,90115543201,Collaborative Sign and Design Inc
 868ejr557,90030509579,Elite Custom Signs
@@ -3051,106 +3007,35 @@ task_id,tasks_project_id,tasks_project_name
 868eg7ynp,90030651194,City Beautiful Signs and Graphics
 868ef4qvt,90116496944,hidden
 868ef1h1b,90030651194,City Beautiful Signs and Graphics
-85zrrcv5f,90030509579,Elite Custom Signs
-85zrtwakf,90030509579,Elite Custom Signs
-85zruvxrc,90030509579,Elite Custom Signs
-85zrv5nak,90030627235,Caliber Signs & Imaging
-85zrv6u6z,90030627235,Caliber Signs & Imaging
-85zrwt8tb,90030740856,Genesis Signs & Graphics
-85zrxbc7k,90030740856,Genesis Signs & Graphics
-85zrxj53b,90080566981,Igna Signs and Graphics
-85zrxjftx,90030740856,Genesis Signs & Graphics
-85zrxry6x,90080623332,VizComm Signage Group
-85zrxrym9,90030740856,Genesis Signs & Graphics
-85zrxtd8y,90080627837,Momentm
-85zrxx13x,90030608532,Amazing Signs
-85zrxz9vh,90080571664,Touchstone Signs and Graphics
-85zryc1hm,90080576785,QC Signs
-85zryj5pm,90080571664,Touchstone Signs and Graphics
-85zryk0kj,90080576656,Rent a Son
-85zrykr8a,90030758400,Lancaster Chown & Welch LLP (LCW)
-85zrymhqm,90030821638,Northeast Sign Company
-85zrymqc2,90080571269,Vital Sign Solutions
-85zryztua,90080575514,Street Style Sign Studio
-85zrz038y,90080576862,Priority Signs & Graphics
-85zrz0nu3,90080575514,Street Style Sign Studio
-85zrz1cdy,90030635199,Celco/Celcook
-85zrz1grn,90030821638,Northeast Sign Company
-85zrz1hfw,90080566916,Georgetown Signs
-85zrzpm6t,90030757487,Horizon Sign Solutions
-85zrzvgw6,90030651194,City Beautiful Signs and Graphics
-85zrzy6zz,90080575592,SignScapes
-85zt0414w,90030821638,Northeast Sign Company
-85zt042pf,90030740856,Genesis Signs & Graphics
-85zt04b1a,90030740856,Genesis Signs & Graphics
-85zt05g8a,90080576656,Rent a Son
-85zt0a5ux,90030627235,Caliber Signs & Imaging
-85zt0bthv,90030627235,Caliber Signs & Imaging
-85zt0qrhb,90080623332,VizComm Signage Group
-85zt0x7y2,90030740953,Gold Media
-85zt12n4a,90031028143,Vibrant Sign Studio
-85zt14j3n,90030608671,Baltimore Signsmiths
-85zt14qu0,90030889406,Paragon Signs and Graphics
-85zt14rwx,90031019543,Pure Image Signs and Graphics
-85zt170g7,90080570857,Windy City Signs and Graphics
-85zt170ra,90080575592,SignScapes
-85zt1735d,90080576750,Quad City
-85zt1bm7x,90030889406,Paragon Signs and Graphics
-85zt1ckdz,90030560008,LA Sign Studio
-85zt1cy6d,90030620259,Blue Ocean Custom Signs
-85zt1dehy,90080566981,Igna Signs and Graphics
-85zt1dj9n,90030627235,Caliber Signs & Imaging
-85zt1pjdm,90080571766,Toronto Custom Signs
-85zt1pug1,90030758400,Lancaster Chown & Welch LLP (LCW)
-85zt1q3my,90030627235,Caliber Signs & Imaging
-85zt1vpcz,90030488968,MMR
-85zt23qub,90080575514,Street Style Sign Studio
-85zt2aavy,90080575514,Street Style Sign Studio
-85zt2b2w1,90080575514,Street Style Sign Studio
-85zt2cfju,90080570857,Windy City Signs and Graphics
-85zt2te5k,90080571664,Touchstone Signs and Graphics
-85zt36crg,90030740856,Genesis Signs & Graphics
-85zt37w5x,90030627235,Caliber Signs & Imaging
-85zt3a0em,90080575514,Street Style Sign Studio
-85zt41a1q,90080575514,Street Style Sign Studio
-85zt4h2wb,90080576656,Rent a Son
-85zt50njd,90080575514,Street Style Sign Studio
-85zt51hxr,90030620259,Blue Ocean Custom Signs
-85zt53cpv,90080575514,Street Style Sign Studio
-85zt5a6h7,90080566786,First Impression Signs
-85zt5akpq,90080566786,First Impression Signs
-85zt5apbn,90030740856,Genesis Signs & Graphics
-85zt5atbe,90080571269,Vital Sign Solutions
-85zt5bmet,90030560008,LA Sign Studio
-85zt5bn1e,90030560008,LA Sign Studio
-85zt5tgpk,90080575514,Street Style Sign Studio
-85zt61u6k,90080575514,Street Style Sign Studio
-85zt62xcf,90031028143,Vibrant Sign Studio
-85zt6420z,90031020362,Livita
-860q2h789,90030509579,Elite Custom Signs
-860q4pcct,90030560008,LA Sign Studio
-860q4pfbw,90030560008,LA Sign Studio
-860q4pgcg,90030560008,LA Sign Studio
-860q4pm7x,90030560008,LA Sign Studio
-860q539j1,90030509579,Elite Custom Signs
-860q6cc94,90030560008,LA Sign Studio
-860q6zkwv,90030509579,Elite Custom Signs
-860q7wb4n,90030509579,Elite Custom Signs
-860qa7d4h,90030509579,Elite Custom Signs
-860qaan61,90030627235,Caliber Signs & Imaging
-860qbptn1,90030757487,Horizon Sign Solutions
-860qbpv7z,90030757487,Horizon Sign Solutions
-860qetdut,90030740856,Genesis Signs & Graphics
-860qf4t89,90030509579,Elite Custom Signs
-860qfgt5k,90030627235,Caliber Signs & Imaging
-860qfgvpj,90080566981,Igna Signs and Graphics
-860qg4d6c,90030855816,All American Signs and Graphics
-860qg4d6r,90030855816,All American Signs and Graphics
-860qg4d6y,90030855816,All American Signs and Graphics
-860qg4d7p,90030855816,All American Signs and Graphics
-860qg4d84,90030855816,All American Signs and Graphics
-860qg6b2v,90030509579,Elite Custom Signs
-860qg6d0e,90030509579,Elite Custom Signs
+868f2qbbk,90030855816,All American Signs and Graphics
+868f224vd,90030740856,Genesis Signs & Graphics
+868ezkb37,90030855816,All American Signs and Graphics
+868ezdzx2,90030855816,All American Signs and Graphics
+868eyvdew,90080566693,Envision Orlando
+868eytrqd,90115541760,Red Robin Masonry
+868euvv27,90030608532,Amazing Signs
+868etnzkq,90080627999,SSK Signs
+868eqqv66,90031017619,Artisan Signworks
+868epz2q1,90116004561,"LGL Sign Company, LLC"
+868en1d1u,90080566786,First Impression Signs
+868emn9m3,90111238917,Boston Signs and Graphics
+868em3j40,90116004561,"LGL Sign Company, LLC"
+868ekgzpk,90080621916,Louisville Custom Signs
+868ejyytf,90080621393,Dragon Taekwondo
+868ejr7ap,90115541760,Red Robin Masonry
+868ejr4n1,90115541760,Red Robin Masonry
+868ejb5y5,90116004561,"LGL Sign Company, LLC"
+868ehcvg5,90031020362,Livita
+868eguf2h,90030608532,Amazing Signs
+868egc8d7,90030618451,Blackfire Signs
+868efk5ku,90080571664,Touchstone Signs and Graphics
+868efhvr4,90116361634,InceptionPoint Signworks
+868ef2n87,90080621916,Louisville Custom Signs
+868ebayc3,90030608065,99signs
+868e9j4bm,90113419805,Space Age Closets
+868e9j3e2,90031017619,Artisan Signworks
+868e9j343,90030618451,Blackfire Signs
+868e9j2x6,90030608671,Baltimore Signsmiths
 868ex479z,90080622232,Majestic Sign Studio
 868epqfpp,90112081421,Victory Sign Company
 868enwu1k,90116449801,The Auto Boutique
@@ -3176,7 +3061,6 @@ task_id,tasks_project_id,tasks_project_name
 868dyruee,90116468367,hidden
 868dyrue3,90116468367,hidden
 868dyruda,90116468367,hidden
-868f2q3q5,90116205597,SKY Custom Signs
 868f2960n,90115631465,Tadera
 868f24pdj,90080572326,Super Custom Sign
 868f06g7x,90030488968,MMR

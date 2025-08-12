@@ -1849,6 +1849,12 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4683019616170698463,,,81314879,Christina Bloise,2025-08-11T11:14:19.944000-04:00,2025-08-11T11:24:19.944000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4683083427992989557,,,81314879,Christina Bloise,2025-08-11T12:17:42.968000-04:00,2025-08-11T12:27:42.968000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4683084088260325257,,,81314879,Christina Bloise,2025-08-11T11:58:22.760000-04:00,2025-08-11T12:28:22.760000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4683103074867900985,,,81314879,Christina Bloise,2025-08-11T12:42:14.413000-04:00,2025-08-11T12:47:14.413000-04:00,0.08,False,NA,,NA,NA,NA,,NA,Private
+4683103541643604549,,,81314879,Christina Bloise,2025-08-11T12:02:42.189000-04:00,2025-08-11T12:47:42.189000-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
+4683125829201982760,,,81314879,Christina Bloise,2025-08-11T12:49:50.730000-04:00,2025-08-11T13:09:50.730000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
+4683135900078208595,,,81314879,Christina Bloise,2025-08-11T12:59:50.947000-04:00,2025-08-11T13:19:50.947000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
+4683271935231675435,,,81314879,Christina Bloise,2025-08-11T15:04:59.308000-04:00,2025-08-11T15:34:59.308000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4683287040631655892,,,81314879,Christina Bloise,2025-08-11T15:29:59.744000-04:00,2025-08-11T15:49:59.744000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 4545316189148703708,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T11:28:13.817000-04:00,2025-05-08T13:34:50.891000-04:00,2.11,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
 4545443608346130949,868du6dt7,"Busology, Tadera, and Majestic Logo Animation",75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:34:48.600000-04:00,2025-05-08T13:42:24.639000-04:00,0.13,False,NA,,NA,NA,NA,https://app.clickup.com/t/868du6dt7,NA,Private
 4545451321167870745,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:42:28.743000-04:00,2025-05-08T14:52:14.072000-04:00,1.16,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
@@ -3759,6 +3765,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4674620819166099690,868f27vhf,(August) MMR Blog to be augmented - The Digital World is Always Changing: Here’s What You Need to Know About Google’s Algorithm & SEO Updates,75468400,Trisha Advincula,2025-08-04T13:20:45.044000-04:00,2025-08-04T16:20:45.044000-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f27vhf,NA,Private
 4674621549495089409,868f280j2,(August) MMR Blog - Instagram in Search,75468400,Trisha Advincula,2025-08-04T13:06:29.808000-04:00,2025-08-04T16:51:29.808000-04:00,3.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f280j2,NA,Private
 4678883904164887128,868em743a,Website page updates (August) - Creative Strategy + CRO Services for B2B SaaS Growth,75468400,Trisha Advincula,2025-08-07T12:45:46.464000-04:00,2025-08-07T14:55:46.464000-04:00,2.17,False,NA,,NA,NA,NA,https://app.clickup.com/t/868em743a,NA,Private
+4683305243424477209,868f27vhf,(August) MMR Blog to be augmented - The Digital World is Always Changing: Here’s What You Need to Know About Google’s Algorithm & SEO Updates,75468400,Trisha Advincula,2025-08-10T14:18:58.044000-04:00,2025-08-10T16:07:58.044000-04:00,1.82,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f27vhf,NA,Private
 4003202081200171880,8687u9g0w,Major League Signs,75463178,Denise Bautista,2024-04-29T09:46:08.188000-04:00,2024-04-29T11:46:08.188000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9g0w,NA,Private
 4003204336460655515,8687u9gx7,Street Style Sign Studio,75463178,Denise Bautista,2024-04-29T10:18:28.951000-04:00,2024-04-29T11:48:28.951000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gx7,NA,Private
 4004971708724956780,8687u96gm,Detroit MI Signs and Graphics,75463178,Denise Bautista,2024-04-30T15:03:20.775000-04:00,2024-04-30T17:03:20.775000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u96gm,NA,Private
@@ -9024,6 +9031,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4658423162546578341,,,75388252,Vasundhra Tyagi,2025-07-01T09:45:00-04:00,2025-07-01T11:37:00-04:00,1.87,False,NA,VizComm Content Writing,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4678526831640070664,,,75388252,Vasundhra Tyagi,2025-08-08T02:30:00-04:00,2025-08-08T06:00:00-04:00,3.5,False,NA,Vibrant Sign Studio Guest Post Content,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4682468694508074498,,,75388252,Vasundhra Tyagi,2025-08-11T02:17:02.221000-04:00,2025-08-11T11:34:14.469000-04:00,9.29,False,NA,"Kingdom Signs, Touchstone, Igna Signs, Priority Signs, First impressions, Super Custom Signs, Total Signwords Blogs and GMB Decriptions - write, edit, finalize. + Townhall meeting.",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+4683752375105253588,,,75388252,Vasundhra Tyagi,2025-08-11T23:32:17.512000-04:00,2025-08-12T00:54:01.431000-04:00,1.36,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 3833833236439122501,8686r7242,Update Twitter Logo,75343567,Kumar Raushan,2024-01-03T10:17:00-05:00,2024-01-03T13:55:00-05:00,3.63,False,NA,,NA,NA,NA,https://app.clickup.com/t/8686r7242,NA,Private
 3835290989124810028,8686r7242,Update Twitter Logo,75343567,Kumar Raushan,2024-01-04T12:36:35.561000-05:00,2024-01-04T14:41:35.561000-05:00,2.08,False,NA,,NA,NA,NA,https://app.clickup.com/t/8686r7242,NA,Private
 3836741800606459247,8686r7242,Update Twitter Logo,75343567,Kumar Raushan,2024-01-05T13:09:49.733000-05:00,2024-01-05T14:42:49.733000-05:00,1.55,False,NA,,NA,NA,NA,https://app.clickup.com/t/8686r7242,NA,Private

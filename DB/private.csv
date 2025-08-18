@@ -1918,6 +1918,11 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4687650156274416872,,,81314879,Christina Bloise,2025-08-14T15:44:21.662000-04:00,2025-08-14T16:04:21.662000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 4687650665681026305,,,81314879,Christina Bloise,2025-08-14T15:54:52.018000-04:00,2025-08-14T16:04:52.018000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4687653890429713794,,,81314879,Christina Bloise,2025-08-14T16:01:04.187000-04:00,2025-08-14T16:08:04.187000-04:00,0.12,False,NA,,NA,NA,NA,,NA,Private
+4688704930851741983,,,81314879,Christina Bloise,2025-08-15T08:40:00-04:00,2025-08-15T09:10:00-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4688878724773999122,,,81314879,Christina Bloise,2025-08-15T10:00:00-04:00,2025-08-15T12:30:00-04:00,2.5,False,NA,,NA,NA,NA,,NA,Private
+4688878926218031636,,,81314879,Christina Bloise,2025-08-15T12:15:01.923000-04:00,2025-08-15T12:25:01.923000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
+4689036921908380306,,,81314879,Christina Bloise,2025-08-15T13:00:00-04:00,2025-08-15T15:00:00-04:00,2.0,False,NA,,NA,NA,NA,,NA,Private
+4689047497795584935,,,81314879,Christina Bloise,2025-08-15T15:02:29.668000-04:00,2025-08-15T15:12:29.668000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4545316189148703708,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T11:28:13.817000-04:00,2025-05-08T13:34:50.891000-04:00,2.11,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
 4545443608346130949,868du6dt7,"Busology, Tadera, and Majestic Logo Animation",75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:34:48.600000-04:00,2025-05-08T13:42:24.639000-04:00,0.13,False,NA,,NA,NA,NA,https://app.clickup.com/t/868du6dt7,NA,Private
 4545451321167870745,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:42:28.743000-04:00,2025-05-08T14:52:14.072000-04:00,1.16,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
@@ -3834,6 +3839,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4674621549495089409,868f280j2,(August) MMR Blog - Instagram in Search,75468400,Trisha Advincula,2025-08-04T13:06:29.808000-04:00,2025-08-04T16:51:29.808000-04:00,3.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f280j2,NA,Private
 4678883904164887128,868em743a,Website page updates (August) - Creative Strategy + CRO Services for B2B SaaS Growth,75468400,Trisha Advincula,2025-08-07T12:45:46.464000-04:00,2025-08-07T14:55:46.464000-04:00,2.17,False,NA,,NA,NA,NA,https://app.clickup.com/t/868em743a,NA,Private
 4683305243424477209,868f27vhf,(August) MMR Blog to be augmented - The Digital World is Always Changing: Here’s What You Need to Know About Google’s Algorithm & SEO Updates,75468400,Trisha Advincula,2025-08-10T14:18:58.044000-04:00,2025-08-10T16:07:58.044000-04:00,1.82,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f27vhf,NA,Private
+4689618555640634662,868f280j2,(August) MMR Blog - Instagram in Search,75468400,Trisha Advincula,2025-08-11T23:24:38.712000-04:00,2025-08-12T00:39:38.712000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f280j2,NA,Private
 4003202081200171880,8687u9g0w,Major League Signs,75463178,Denise Bautista,2024-04-29T09:46:08.188000-04:00,2024-04-29T11:46:08.188000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9g0w,NA,Private
 4003204336460655515,8687u9gx7,Street Style Sign Studio,75463178,Denise Bautista,2024-04-29T10:18:28.951000-04:00,2024-04-29T11:48:28.951000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gx7,NA,Private
 4004971708724956780,8687u96gm,Detroit MI Signs and Graphics,75463178,Denise Bautista,2024-04-30T15:03:20.775000-04:00,2024-04-30T17:03:20.775000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u96gm,NA,Private
@@ -6171,6 +6177,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4547130832796150309,8689un8vn,Content Review,75418362,Ana,2025-05-09T17:30:56.578000-04:00,2025-05-09T17:34:03.681000-04:00,0.05,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4553898768525318461,,,75418362,Ana,2025-05-14T09:34:16.026000-04:00,2025-05-14T09:34:19.740000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4662654249133040769,,,75418362,Ana,2025-07-28T10:13:09.615000-04:00,2025-07-28T10:13:17.726000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+4688788186813065654,868f67fme,Prachi ,75418362,Ana,2025-08-15T10:54:52.546000-04:00,2025-08-15T10:54:56.512000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f67fme,NA,Private
 3926336961673577468,8687g9953,Artisan Signworks - Need New Content,75418361,Anuja Dwivedi,2024-03-07T10:07:39.430000-05:00,2024-03-07T12:36:23.815000-05:00,2.48,False,NA,Webpage writing: Window Film,NA,NA,NA,https://app.clickup.com/t/8687g9953,NA,Private
 3926497724295958365,8687g9953,Artisan Signworks - Need New Content,75418361,Anuja Dwivedi,2024-03-07T12:47:21.640000-05:00,2024-03-07T15:27:29.592000-05:00,2.67,False,NA,Webpage Writing-Wall Graphics,NA,NA,NA,https://app.clickup.com/t/8687g9953,NA,Private
 3927692493734966058,8687g9953,Artisan Signworks - Need New Content,75418361,Anuja Dwivedi,2024-03-08T08:34:15.442000-05:00,2024-03-08T11:23:26.446000-05:00,2.82,False,NA,Writing for Floor Graphics,NA,NA,NA,https://app.clickup.com/t/8687g9953,NA,Private

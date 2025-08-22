@@ -31,6 +31,12 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4695571235693293208,868f8dvf6,GMB Posting-Livita,81597989,Yukti Gautam,2025-08-19T02:43:10.061000-04:00,2025-08-19T03:13:10.061000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f8dvf6,NA,Private
 4695742445068644664,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-08-20T05:13:17.892000-04:00,2025-08-20T06:03:17.892000-04:00,0.83,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4697006626765948023,868f9garx,offpage task- SpeedPro Orlando,81597989,Yukti Gautam,2025-08-20T02:58:00-04:00,2025-08-20T04:58:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f9garx,NA,Private
+4697161365948352125,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-08-21T04:42:51.290000-04:00,2025-08-21T05:32:51.290000-04:00,0.83,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
+4697488975534383012,868f5nhf5,Calls,81597989,Yukti Gautam,2025-08-21T09:56:47.489000-04:00,2025-08-21T10:56:47.489000-04:00,1.0,False,NA,"call with sandeep for livita discussion, call with garima for off page,  call with madhav for speedpro, call with iftekhar for project",NA,NA,NA,https://app.clickup.com/t/868f5nhf5,NA,Private
+4697533297013188390,868f5nhf5,Calls,81597989,Yukti Gautam,2025-08-21T10:57:21.152000-04:00,2025-08-21T11:42:21.152000-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f5nhf5,NA,Private
+4697560400672746059,868f9naud,Offpage Task- Speed Pro North Boston,81597989,Yukti Gautam,2025-08-21T09:39:14.753000-04:00,2025-08-21T12:09:14.753000-04:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f9naud,NA,Private
+4697780340294041970,868f9tv8x,off page task- Livita Oshawa / Centennial,81597989,Yukti Gautam,2025-08-21T14:17:45.440000-04:00,2025-08-21T15:47:45.440000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f9tv8x,NA,Private
+4697781015375659402,868f9tv8x,off page task- Livita Oshawa / Centennial,81597989,Yukti Gautam,2025-08-21T14:18:26.102000-04:00,2025-08-21T15:48:26.102000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f9tv8x,NA,Private
 4668466465971270177,,,81597988,Marisa Mehnke,2025-08-01T10:27:04.618000-04:00,2025-08-01T10:35:04.563000-04:00,0.13,False,NA,,NA,NA,NA,,NA,Private
 4668476342969987923,,,81597988,Marisa Mehnke,2025-08-01T10:36:53.170000-04:00,2025-08-01T10:46:54.077000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4668490069651911943,,,81597988,Marisa Mehnke,2025-08-01T10:50:31.479000-04:00,2025-08-01T11:02:17.570000-04:00,0.2,False,NA,,NA,NA,NA,,NA,Private
@@ -47,6 +53,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4677481565650569867,,,81597988,Marisa Mehnke,2025-08-07T15:27:46.374000-04:00,2025-08-07T15:42:46.374000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
 4678783522155686971,,,81597988,Marisa Mehnke,2025-08-08T13:01:09.122000-04:00,2025-08-08T13:16:09.122000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
 4678831619128848829,,,81597988,Marisa Mehnke,2025-08-08T13:53:55.846000-04:00,2025-08-08T14:03:55.846000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
+4697804771091432511,,,81597988,Marisa Mehnke,2025-08-19T15:11:58.264000-04:00,2025-08-19T16:11:58.264000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
+4697804893648995394,,,81597988,Marisa Mehnke,2025-08-18T15:12:08.446000-04:00,2025-08-18T16:12:08.446000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 3832243442701453718,,,60764851,Samantha Ballard,2024-01-02T12:00:00-05:00,2024-01-02T12:15:00-05:00,0.25,False,NA,Time Checking ,NA,NA,NA,,NA,Private
 3872728583970123388,868638aah,Quad City 2024 plan,60764851,Samantha Ballard,2024-01-30T10:02:20.136000-05:00,2024-01-30T10:32:20.136000-05:00,0.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/868638aah,NA,Private
 4646715225562313222,,,81579611,Garv Aggarwal,2025-07-17T10:19:09.409000-04:00,2025-07-17T11:10:50.453000-04:00,0.86,False,NA,Sigange Pod - Design and Tools Report,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -77,6 +85,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4687379490002328950,,,81579611,Garv Aggarwal,2025-08-14T11:35:26.523000-04:00,2025-08-18T10:04:00.489000-04:00,94.48,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4693085723942341440,,,81579611,Garv Aggarwal,2025-08-18T10:04:06.596000-04:00,2025-08-19T04:26:39.788000-04:00,18.38,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4694539591461005739,,,81579611,Garv Aggarwal,2025-08-19T10:08:23.879000-04:00,2025-08-20T10:02:01.520000-04:00,23.89,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+4695982723591454960,,,81579611,Garv Aggarwal,2025-08-20T10:02:01.054000-04:00,2025-08-21T09:59:07.546000-04:00,23.95,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4584424242619765189,,,81565408,Priyanka  Shah,2025-06-04T10:33:35.901000-04:00,2025-06-04T10:58:35.901000-04:00,0.42,False,NA,,NA,NA,NA,,NA,Private
 4607353730433182216,,,81565408,Priyanka  Shah,2025-06-20T05:37:00.488000-04:00,2025-06-20T06:37:00.488000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 4617733898796431893,868e28nd9,Due May 30th - Add how-to guide to pipeline calculator page,81565408,Priyanka  Shah,2025-06-27T10:28:47.603000-04:00,2025-06-27T11:05:07.112000-04:00,0.61,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e28nd9,NA,Private
@@ -1968,6 +1977,15 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4696343426722589289,,,81314879,Christina Bloise,2025-08-20T15:30:20.729000-04:00,2025-08-20T16:00:20.729000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
 4696343761025395317,,,81314879,Christina Bloise,2025-08-20T15:40:40.900000-04:00,2025-08-20T16:00:40.900000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 4696344089288403590,,,81314879,Christina Bloise,2025-08-20T15:56:00.379000-04:00,2025-08-20T16:01:00.379000-04:00,0.08,False,NA,,NA,NA,NA,,NA,Private
+4697412662236697353,,,81314879,Christina Bloise,2025-08-21T09:17:32.283000-04:00,2025-08-21T09:42:32.283000-04:00,0.42,False,NA,,NA,NA,NA,,NA,Private
+4697412819573429004,,,81314879,Christina Bloise,2025-08-21T09:37:41.799000-04:00,2025-08-21T09:42:41.799000-04:00,0.08,False,NA,,NA,NA,NA,,NA,Private
+4697417986100319118,,,81314879,Christina Bloise,2025-08-21T11:30:00-04:00,2025-08-21T12:00:00-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4697421550738625520,,,81314879,Christina Bloise,2025-08-21T09:31:22.232000-04:00,2025-08-21T09:51:22.232000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
+4697576504870726654,,,81314879,Christina Bloise,2025-08-21T10:55:18.153000-04:00,2025-08-21T12:25:18.153000-04:00,1.5,False,NA,,NA,NA,NA,,NA,Private
+4697716986422655627,,,81314879,Christina Bloise,2025-08-21T14:29:51.413000-04:00,2025-08-21T14:44:51.413000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
+4697760368108928818,,,81314879,Christina Bloise,2025-08-21T14:27:57.263000-04:00,2025-08-21T15:27:57.263000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
+4697776503680286975,,,81314879,Christina Bloise,2025-08-21T15:33:58.989000-04:00,2025-08-21T15:43:58.989000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
+4697776780454019334,,,81314879,Christina Bloise,2025-08-21T15:34:15.517000-04:00,2025-08-21T15:44:15.517000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4545316189148703708,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T11:28:13.817000-04:00,2025-05-08T13:34:50.891000-04:00,2.11,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
 4545443608346130949,868du6dt7,"Busology, Tadera, and Majestic Logo Animation",75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:34:48.600000-04:00,2025-05-08T13:42:24.639000-04:00,0.13,False,NA,,NA,NA,NA,https://app.clickup.com/t/868du6dt7,NA,Private
 4545451321167870745,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:42:28.743000-04:00,2025-05-08T14:52:14.072000-04:00,1.16,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
@@ -4042,6 +4060,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4290758635820840282,8687u96bt,City Beautiful Signs & Graphics,75463178,Denise Bautista,2024-11-12T11:47:00-05:00,2024-11-12T19:47:00-05:00,8.0,True,NA,,NA,NA,NA,https://app.clickup.com/t/8687u96bt,NA,Private
 4290758999097898334,8688xbqv1,Indy Sign Factory,75463178,Denise Bautista,2024-11-13T11:48:00-05:00,2024-11-13T19:48:00-05:00,8.0,True,NA,,NA,NA,NA,https://app.clickup.com/t/8688xbqv1,NA,Private
 4444816298232936821,8687u95gw,3Sixty Sign Solutions,75463178,Denise Bautista,2025-02-27T18:30:00-05:00,2025-02-28T02:30:00-05:00,8.0,True,NA,,NA,NA,NA,https://app.clickup.com/t/8687u95gw,NA,Private
+4697186929157490380,868f72gu1,Signary Custom Signs And Graphics,75463178,Denise Bautista,2025-08-21T02:43:16.048000-04:00,2025-08-21T05:58:16.048000-04:00,3.25,True,NA,,NA,NA,NA,https://app.clickup.com/t/868f72gu1,NA,Private
 4045290005747890274,,,75463177,Nicolle Chegwin,2024-05-28T10:35:52.875000-04:00,2024-05-28T12:35:52.875000-04:00,2.0,False,NA,,NA,NA,NA,,NA,Private
 4049682670060991135,8688dyxxf,CarePatrol West MI-Lakeshore,75463177,Nicolle Chegwin,2024-05-29T11:50:00-04:00,2024-05-29T13:20:00-04:00,1.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/8688dyxxf,NA,Private
 4049683144705209003,8688dyxxf,CarePatrol West MI-Lakeshore,75463177,Nicolle Chegwin,2024-05-30T12:50:00-04:00,2024-05-30T13:20:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8688dyxxf,NA,Private
@@ -4940,6 +4959,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4693174559418505345,,,75420920,Kumar Gaurav,2025-08-18T02:45:00-04:00,2025-08-18T03:15:00-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
 4693176413938407609,,,75420920,Kumar Gaurav,2025-08-18T04:00:00-04:00,2025-08-18T04:45:00-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
 4693177043268557004,,,75420920,Kumar Gaurav,2025-08-18T04:45:00-04:00,2025-08-18T07:45:00-04:00,3.0,False,NA,,NA,NA,NA,,NA,Private
+4697548083159525558,,,75420920,Kumar Gaurav,2025-08-21T11:00:00-04:00,2025-08-21T12:00:00-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 3850676476303789063,860qmre73,Calls,75420487,Swati Rajput,2024-01-15T04:39:50.427000-05:00,2024-01-15T05:24:50.427000-05:00,0.75,False,NA,Call with Sandeep Sir,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
 3850746705478307202,86850x742,Miscellaneous Task,75420487,Swati Rajput,2024-01-15T05:32:30.364000-05:00,2024-01-15T06:32:30.364000-05:00,1.0,False,NA,Data Collect- Vision Visual Custom Sign and Graphics,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 3850789815860219542,85zryj520,GMBs Posts and Image Update,75420487,Swati Rajput,2024-01-15T05:47:57.319000-05:00,2024-01-15T07:17:57.319000-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
@@ -6222,6 +6242,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4686905556534444141,85zrydjhy,GMB Post,75420487,Swati Rajput,2025-08-14T02:45:04.806000-04:00,2025-08-14T04:15:04.806000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 4692776114178389461,85zryj520,GMBs Posts and Image Update,75420487,Swati Rajput,2025-08-18T03:45:25.746000-04:00,2025-08-18T05:00:25.746000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 4692776429606827478,85zrv6gfm,Update Variance,75420487,Swati Rajput,2025-08-18T02:45:45.152000-04:00,2025-08-18T03:30:45.152000-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
+4697071764139296126,85zryj520,GMBs Posts and Image Update,75420487,Swati Rajput,2025-08-21T05:20:23.494000-04:00,2025-08-21T06:35:23.494000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 4221895973112799812,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:10.641000-04:00,2024-09-27T08:39:14.738000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896495555306060,8689un8vn,Content Review,75418362,Ana,2024-09-27T07:59:39.028000-04:00,2024-09-27T08:39:39.028000-04:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896578266980941,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:46.769000-04:00,2024-09-27T08:39:47.734000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
@@ -8574,6 +8595,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4693095055161445670,85zrv6gfm,Update Variance,75405712,Garima Batra,2025-08-18T08:10:43.179000-04:00,2025-08-18T08:40:43.179000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 4693095551884479818,86850x742,Miscellaneous Task,75405712,Garima Batra,2025-08-18T08:40:21.835000-04:00,2025-08-18T09:00:21.835000-04:00,0.33,False,NA,Campaign review for POD,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 4693192221347437218,860qmre73,Calls,75405712,Garima Batra,2025-08-18T11:25:04.025000-04:00,2025-08-18T11:42:04.025000-04:00,0.28,False,NA,Call with Yukti for some variance sheet doubt,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
+4697300186371344863,85zryj520,GMBs Posts and Image Update,75405712,Garima Batra,2025-08-21T02:50:44.604000-04:00,2025-08-21T03:35:44.604000-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 3963655131849447240,,,75334893,Pallavi,2024-04-02T02:50:00-04:00,2024-04-02T02:57:00-04:00,0.12,False,NA,,NA,NA,NA,,NA,Private
 4099937312904465031,,,75400980,Abhishek Dwivedi,2024-07-01T06:30:45.206000-04:00,2024-07-01T08:30:45.206000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4099969571246197450,,,75400980,Abhishek Dwivedi,2024-07-02T09:00:40.152000-04:00,2024-07-02T10:00:40.152000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
@@ -12344,6 +12366,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4694531777975969954,860qmre73,Calls,60765308,Harish Kewat,2025-08-19T09:30:36.045000-04:00,2025-08-19T10:00:36.045000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
 4694559929355889633,85zrv6gfm,Update Variance,60765308,Harish Kewat,2025-08-19T09:28:33.517000-04:00,2025-08-19T10:28:33.517000-04:00,1.0,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 4695884354948855593,85zryj520,GMBs Posts and Image Update,60765308,Harish Kewat,2025-08-20T06:54:00-04:00,2025-08-20T08:24:00-04:00,1.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
+4697301092307454452,860qmre73,Calls,60765308,Harish Kewat,2025-08-21T07:31:00-04:00,2025-08-21T07:51:00-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
 3942612539452048844,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:35:59.453000-04:00,2024-03-18T16:36:04.612000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612646926894544,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:05.867000-04:00,2024-03-18T16:36:08.131000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612755962021332,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:12.359000-04:00,2024-03-18T16:36:45.104000-04:00,0.01,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
@@ -14126,6 +14149,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4677193763566279443,868d4810n,Veronique's POD,60762089,Veronique Deshaies,2025-08-07T10:03:43.195000-04:00,2025-08-07T10:56:43.195000-04:00,0.88,False,NA,,NA,NA,NA,https://app.clickup.com/t/868d4810n,NA,Private
 4683045601846913626,868d4810n,Veronique's POD,60762089,Veronique Deshaies,2025-08-11T11:12:42.017000-04:00,2025-08-11T11:49:42.017000-04:00,0.62,False,NA,Growth POD,NA,NA,NA,https://app.clickup.com/t/868d4810n,NA,Private
 4687446432671229026,868d4810n,Veronique's POD,60762089,Veronique Deshaies,2025-08-14T11:40:50.143000-04:00,2025-08-14T12:41:50.143000-04:00,1.02,False,NA,,NA,NA,NA,https://app.clickup.com/t/868d4810n,NA,Private
+4697503496516822076,868d4810n,Veronique's POD,60762089,Veronique Deshaies,2025-08-21T10:37:45.008000-04:00,2025-08-21T11:12:45.008000-04:00,0.58,False,NA,,NA,NA,NA,https://app.clickup.com/t/868d4810n,NA,Private
 3895955030922647689,8686h4wh1,Saltwater: Industry Pages,60761416,Kanika,2024-02-14T04:00:00-05:00,2024-02-14T04:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8686h4wh1,NA,Private
 3895955304726812818,8686h4wh1,Saltwater: Industry Pages,60761416,Kanika,2024-02-14T05:30:00-05:00,2024-02-14T06:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8686h4wh1,NA,Private
 4013370148928513258,8686vb91j,Boston Signs and Graphics - Location Pages (10),60761416,Kanika,2024-05-06T07:00:00-04:00,2024-05-06T07:15:00-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/8686vb91j,NA,Private

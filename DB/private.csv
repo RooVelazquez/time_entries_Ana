@@ -2,7 +2,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4718085889225021297,868ffe886,Measure Marketing Indexing API,87315869,Swapnil Bhatnagar,2025-09-04T15:00:38.717000-04:00,2025-09-04T16:15:38.717000-04:00,1.25,True,NA,,NA,NA,NA,https://app.clickup.com/t/868ffe886,NA,Private
 4723819618052499053,868ffe886,Measure Marketing Indexing API,87315869,Swapnil Bhatnagar,2025-09-08T13:30:00-04:00,2025-09-08T15:00:00-04:00,1.5,True,NA,Indexing API and URL sorting for MMR,NA,NA,NA,https://app.clickup.com/t/868ffe886,NA,Private
 4726330584094896960,8688mbh98,Link Building Discussion Meeting,87315869,Swapnil Bhatnagar,2025-09-10T08:30:02.936000-04:00,2025-09-10T09:23:45.282000-04:00,0.9,True,NA,With Sandeep and Kanica,NA,NA,NA,https://app.clickup.com/t/8688mbh98,NA,Private
-4684628169050452935,868dqype1,TDMA Brand book,87307283,Mayuri Devarukhkar,2025-08-08T08:30:00-04:00,2025-08-08T16:30:00-04:00,8.0,False,NA,Audit,NA,NA,NA,https://app.clickup.com/t/868dqype1,NA,Private
+4684628169050452935,,,87307283,Mayuri Devarukhkar,2025-08-08T08:30:00-04:00,2025-08-08T16:30:00-04:00,8.0,False,NA,Audit,NA,NA,NA,,NA,Private
 4656603405019148183,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-07-24T06:02:10.751000-04:00,2025-07-24T06:54:44.108000-04:00,0.88,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4657974345946776662,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-07-25T04:44:03.989000-04:00,2025-07-25T05:32:30.246000-04:00,0.81,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4662393897526905704,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-07-28T05:54:30.604000-04:00,2025-07-28T06:36:34.129000-04:00,0.7,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
@@ -102,6 +102,10 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4728874139594156032,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-09-11T03:36:00-04:00,2025-09-11T04:16:00-04:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4728881265297221666,868f9tv8x,off page task- Livita Oshawa / Centennial,81597989,Yukti Gautam,2025-09-11T03:36:00-04:00,2025-09-11T06:36:00-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f9tv8x,NA,Private
 4728892419562170448,868fg9gfg,offpage Task- Livita Bridge / Belleville,81597989,Yukti Gautam,2025-09-11T00:24:07.962000-04:00,2025-09-11T02:54:07.962000-04:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868fg9gfg,NA,Private
+4729163158748032199,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-09-12T06:33:47.870000-04:00,2025-09-12T07:23:47.870000-04:00,0.83,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
+4729307329257436974,868fa4943,Offpage Task- Livita Barrie / Barrington,81597989,Yukti Gautam,2025-09-12T06:47:00.407000-04:00,2025-09-12T09:47:00.407000-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868fa4943,NA,Private
+4729310372946409342,868fjfbgg,Offpage Work- Livita Queens Avenue,81597989,Yukti Gautam,2025-09-12T06:50:00.712000-04:00,2025-09-12T09:50:00.712000-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868fjfbgg,NA,Private
+4729311127065491355,868f5nhf5,Calls,81597989,Yukti Gautam,2025-09-12T09:20:47.456000-04:00,2025-09-12T09:50:47.456000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868f5nhf5,NA,Private
 4668466465971270177,,,81597988,Marisa Mehnke,2025-08-01T10:27:04.618000-04:00,2025-08-01T10:35:04.563000-04:00,0.13,False,NA,,NA,NA,NA,,NA,Private
 4668476342969987923,,,81597988,Marisa Mehnke,2025-08-01T10:36:53.170000-04:00,2025-08-01T10:46:54.077000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4668490069651911943,,,81597988,Marisa Mehnke,2025-08-01T10:50:31.479000-04:00,2025-08-01T11:02:17.570000-04:00,0.2,False,NA,,NA,NA,NA,,NA,Private
@@ -139,6 +143,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4726674796262874028,,,81597988,Marisa Mehnke,2025-09-10T14:01:51.314000-04:00,2025-09-10T14:11:51.314000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
 4728179909133498307,,,81597988,Marisa Mehnke,2025-09-11T14:22:03.217000-04:00,2025-09-11T15:07:03.217000-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
 4728180302995421137,,,81597988,Marisa Mehnke,2025-09-11T15:07:26.564000-04:00,2025-09-11T15:54:56.123000-04:00,0.79,False,NA,,NA,NA,NA,,NA,Private
+4729583435592128925,,,81597988,Marisa Mehnke,2025-09-12T13:51:00-04:00,2025-09-12T14:21:00-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
 3832243442701453718,,,60764851,Samantha Ballard,2024-01-02T12:00:00-05:00,2024-01-02T12:15:00-05:00,0.25,False,NA,Time Checking ,NA,NA,NA,,NA,Private
 3872728583970123388,868638aah,Quad City 2024 plan,60764851,Samantha Ballard,2024-01-30T10:02:20.136000-05:00,2024-01-30T10:32:20.136000-05:00,0.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/868638aah,NA,Private
 4584424242619765189,,,81565408,Priyanka  Shah,2025-06-04T10:33:35.901000-04:00,2025-06-04T10:58:35.901000-04:00,0.42,False,NA,,NA,NA,NA,,NA,Private
@@ -2133,6 +2138,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4723512025396443426,,,81314879,Christina Bloise,2025-09-08T09:04:55.593000-04:00,2025-09-08T09:49:55.593000-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
 4723512818438666566,,,81314879,Christina Bloise,2025-09-05T15:00:00-04:00,2025-09-05T16:00:00-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 4723595667166611190,,,81314879,Christina Bloise,2025-09-08T10:45:00-04:00,2025-09-08T11:12:00-04:00,0.45,False,NA,,NA,NA,NA,,NA,Private
+4723602542419396535,,,81314879,Christina Bloise,2025-09-12T11:19:00-04:00,2025-09-12T12:09:00-04:00,0.83,False,NA,,NA,NA,NA,,NA,Private
 4723775295986491385,,,81314879,Christina Bloise,2025-09-08T11:15:00-04:00,2025-09-08T15:00:00-04:00,3.75,False,NA,,NA,NA,NA,,NA,Private
 4723923755188515981,,,81314879,Christina Bloise,2025-09-08T16:23:56.576000-04:00,2025-09-08T16:38:56.576000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
 4723923847043773585,,,81314879,Christina Bloise,2025-09-08T15:39:02.066000-04:00,2025-09-08T16:39:02.066000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
@@ -2159,46 +2165,55 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4728091919782669706,,,81314879,Christina Bloise,2025-09-11T13:09:38.600000-04:00,2025-09-11T13:39:38.600000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
 4728207508459125437,,,81314879,Christina Bloise,2025-09-11T15:19:28.190000-04:00,2025-09-11T15:34:28.190000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
 4728243175998246390,,,81314879,Christina Bloise,2025-09-11T15:39:54.150000-04:00,2025-09-11T16:09:54.150000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
-4545316189148703708,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T11:28:13.817000-04:00,2025-05-08T13:34:50.891000-04:00,2.11,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
-4545443608346130949,868du6dt7,"Busology, Tadera, and Majestic Logo Animation",75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:34:48.600000-04:00,2025-05-08T13:42:24.639000-04:00,0.13,False,NA,,NA,NA,NA,https://app.clickup.com/t/868du6dt7,NA,Private
-4545451321167870745,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:42:28.743000-04:00,2025-05-08T14:52:14.072000-04:00,1.16,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
-4546374522358096836,868dwg7pp,Revisions of Arti's Reels,75549193,Jonathan Lorenzo Lindaya,2025-05-09T04:59:37.159000-04:00,2025-05-09T07:45:46.987000-04:00,2.77,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dwg7pp,NA,Private
-4546542218030770069,868dtcdx2,"Video Editing for http://tadera.com Audio and Video Clean up for Bryan, Pamela, Tam, Steve, and Thomas",75549193,Jonathan Lorenzo Lindaya,2025-05-09T07:46:12.752000-04:00,2025-05-09T14:25:02.471000-04:00,6.65,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtcdx2,NA,Private
-4546950028765844449,868drdrt3,Due today May 7th - 2 MMR Graphics,75549193,Jonathan Lorenzo Lindaya,2025-05-09T14:31:19.575000-04:00,2025-05-09T15:53:23.547000-04:00,1.37,False,NA,,NA,NA,NA,https://app.clickup.com/t/868drdrt3,NA,Private
-4551069968192136618,868drdrt3,Due today May 7th - 2 MMR Graphics,75549193,Jonathan Lorenzo Lindaya,2025-05-12T10:44:08.491000-04:00,2025-05-12T14:47:24.618000-04:00,4.05,False,NA,,NA,NA,NA,https://app.clickup.com/t/868drdrt3,NA,Private
-4552288223468613661,868dqyq6k,Update YouTube Thumbnails (20 Thumbnails),75549193,Jonathan Lorenzo Lindaya,2025-05-13T03:00:00-04:00,2025-05-13T08:00:00-04:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dqyq6k,NA,Private
-4553993189254128805,868dtcdx2,"Video Editing for http://tadera.com Audio and Video Clean up for Bryan, Pamela, Tam, Steve, and Thomas",75549193,Jonathan Lorenzo Lindaya,2025-05-14T05:00:00-04:00,2025-05-14T10:00:00-04:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtcdx2,NA,Private
-4553993700355237048,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-14T11:08:35.600000-04:00,2025-05-14T11:08:42.350000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
-4553993836703671489,868dtcdx2,"Video Editing for http://tadera.com Audio and Video Clean up for Bryan, Pamela, Tam, Steve, and Thomas",75549193,Jonathan Lorenzo Lindaya,2025-05-14T11:08:43.757000-04:00,2025-05-14T13:46:14.454000-04:00,2.63,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtcdx2,NA,Private
-4553994237947569356,868dtceyp,Video Editing for Busolgy,75549193,Jonathan Lorenzo Lindaya,2025-05-14T01:00:00-04:00,2025-05-14T02:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dtceyp,NA,Private
-4555257394053671440,868dvfxef,Edit Arti's reels - refer to video tracker with notes,75549193,Jonathan Lorenzo Lindaya,2025-05-15T05:03:56.544000-04:00,2025-05-15T08:03:56.544000-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dvfxef,NA,Private
-4555258608657000989,868dz4vq3,Revisions for Busology Webinar,75549193,Jonathan Lorenzo Lindaya,2025-05-15T07:05:08.844000-04:00,2025-05-15T08:05:08.844000-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dz4vq3,NA,Private
-4555259795829582395,868dz4vxn,Revisions for Busology Webinar Robert and Dr. Esparza,75549193,Jonathan Lorenzo Lindaya,2025-05-15T07:06:20.028000-04:00,2025-05-15T08:06:20.028000-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dz4vxn,NA,Private
-4555262639836129887,868dz4w7r,Contiuation of video Editing for http://tadera.com,75549193,Jonathan Lorenzo Lindaya,2025-05-15T03:09:08.996000-04:00,2025-05-15T08:09:08.996000-04:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dz4w7r,NA,Private
-4555264608206219892,868dy8ctb,Due May 16 - Blog Graphics (2 needed) - How to evolve your gtm strategy in the age of AI,75549193,Jonathan Lorenzo Lindaya,2025-05-15T05:00:00-04:00,2025-05-15T07:30:00-04:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dy8ctb,NA,Private
-4555278317171403668,868dy8ctb,Due May 16 - Blog Graphics (2 needed) - How to evolve your gtm strategy in the age of AI,75549193,Jonathan Lorenzo Lindaya,2025-05-15T04:00:00-04:00,2025-05-15T08:00:00-04:00,4.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dy8ctb,NA,Private
-4555299810764811564,868dz50kx,Due Jun 11 - MMR YouTube Ads - Video Editing - From Chaos to Clarity: Your GTM Transformation,75549193,Jonathan Lorenzo Lindaya,2025-05-15T08:46:05.678000-04:00,2025-05-15T13:41:15.076000-04:00,4.92,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dz50kx,NA,Private
-4556738385347757280,868dy8ctb,Due May 16 - Blog Graphics (2 needed) - How to evolve your gtm strategy in the age of AI,75549193,Jonathan Lorenzo Lindaya,2025-05-16T02:00:00-04:00,2025-05-16T06:00:00-04:00,4.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dy8ctb,NA,Private
-4557082809328101937,868dzwajf,Produce Video Ad for Tadera: Script and Rough Draft,75549193,Jonathan Lorenzo Lindaya,2025-05-16T09:00:00-04:00,2025-05-16T14:00:00-04:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dzwajf,NA,Private
-4562204192773142002,868e0y183,TDMA Intro Video Revisions from Namay,75549193,Jonathan Lorenzo Lindaya,2025-05-20T00:00:00-04:00,2025-05-20T03:00:00-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e0y183,NA,Private
-4562205236701853174,868drwej9,TDM Trailer Video - Due today May 19,75549193,Jonathan Lorenzo Lindaya,2025-05-19T02:00:00-04:00,2025-05-19T09:45:00-04:00,7.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868drwej9,NA,Private
-4562206538613814780,868e0y183,TDMA Intro Video Revisions from Namay,75549193,Jonathan Lorenzo Lindaya,2025-05-20T04:30:19.694000-04:00,2025-05-20T07:00:32.472000-04:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e0y183,NA,Private
-4562445755726068299,868dz50kx,Due Jun 11 - MMR YouTube Ads - Video Editing - From Chaos to Clarity: Your GTM Transformation,75549193,Jonathan Lorenzo Lindaya,2025-05-20T07:04:58.013000-04:00,2025-05-20T07:05:00.225000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dz50kx,NA,Private
-4562713152051631643,868drwej9,TDM Trailer Video - Due today May 19,75549193,Jonathan Lorenzo Lindaya,2025-05-20T09:00:00-04:00,2025-05-20T11:30:00-04:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868drwej9,NA,Private
-4562798723671417111,868e13zmd,Tadera Script Revision,75549193,Jonathan Lorenzo Lindaya,2025-05-21T10:30:00-04:00,2025-05-21T12:45:00-04:00,2.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e13zmd,NA,Private
-4562798801064714523,868e13zmd,Tadera Script Revision,75549193,Jonathan Lorenzo Lindaya,2025-05-20T12:55:41.254000-04:00,2025-05-20T14:00:35.619000-04:00,1.08,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e13zmd,NA,Private
-4564057161068078890,868e1hvd1,Revised TDMA Trailer,75549193,Jonathan Lorenzo Lindaya,2025-05-21T04:30:00-04:00,2025-05-21T09:00:00-04:00,4.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e1hvd1,NA,Private
-4564098590138067992,868e1hvd1,Revised TDMA Trailer,75549193,Jonathan Lorenzo Lindaya,2025-05-21T09:45:54.265000-04:00,2025-05-21T11:58:01.593000-04:00,2.2,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e1hvd1,NA,Private
-4565517058318171913,868e238d5,Tadera Script - OPS 1 and ABRM - Version 2,75549193,Jonathan Lorenzo Lindaya,2025-05-21T09:00:00-04:00,2025-05-21T10:50:00-04:00,1.83,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e238d5,NA,Private
-4571496336247635987,868dzewke,Due May 22 - MMR social media graphic,75549193,Jonathan Lorenzo Lindaya,2025-05-26T00:00:00-04:00,2025-05-26T01:45:00-04:00,1.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868dzewke,NA,Private
-4571497042803310628,868e3dcvj,Revision of TDM Short Ad Rough Edit version 2,75549193,Jonathan Lorenzo Lindaya,2025-05-26T02:00:00-04:00,2025-05-26T06:00:00-04:00,4.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e3dcvj,NA,Private
-4571497739946967092,868e23246,Due June 2nd - Arti x manufacturing event - Speaker Video,75549193,Jonathan Lorenzo Lindaya,2025-05-26T08:00:00-04:00,2025-05-26T12:00:00-04:00,4.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e23246,NA,Private
-4572615927468287226,868e23246,Due June 2nd - Arti x manufacturing event - Speaker Video,75549193,Jonathan Lorenzo Lindaya,2025-05-27T07:28:03.876000-04:00,2025-05-27T15:00:24.249000-04:00,7.54,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e23246,NA,Private
-4575848815974302230,868e2xm9p,Due ASAP - Update Arti's reel with Tanya suggestions for Reels/Shorts,75549193,Jonathan Lorenzo Lindaya,2025-05-29T02:00:00-04:00,2025-05-29T06:00:00-04:00,4.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e2xm9p,NA,Private
-4575850457708773967,868e22zyt,Arti x manufacturing event - 3-5 screenshots needed,75549193,Jonathan Lorenzo Lindaya,2025-05-29T06:00:00-04:00,2025-05-29T09:00:00-04:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e22zyt,NA,Private
-4587055990943934325,868e6h6q2,Due June 4th - June - MMR Social Media Graphic 2,75549193,Jonathan Lorenzo Lindaya,2025-06-06T01:15:00-04:00,2025-06-06T06:30:00-04:00,5.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e6h6q2,NA,Private
-4587158700473084830,868e76hrb,Due ASAP - Youtube thumbnails - links provided,75549193,Jonathan Lorenzo Lindaya,2025-06-10T02:30:00-04:00,2025-06-10T06:00:00-04:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e76hrb,NA,Private
-4587438238536976020,868e27eap,Due June 5 - YouTube Ad 2 - B2B Manufacturing,75549193,Jonathan Lorenzo Lindaya,2025-06-05T01:00:00-04:00,2025-06-05T07:00:00-04:00,6.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e27eap,NA,Private
+4729297528276284977,,,81314879,Christina Bloise,2025-09-12T08:45:00-04:00,2025-09-12T09:15:00-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4729297935845193275,,,81314879,Christina Bloise,2025-09-12T09:12:42.731000-04:00,2025-09-12T09:37:42.731000-04:00,0.42,False,NA,,NA,NA,NA,,NA,Private
+4729482789979310648,,,81314879,Christina Bloise,2025-09-12T12:21:20.827000-04:00,2025-09-12T12:41:20.827000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
+4729483414158854728,,,81314879,Christina Bloise,2025-09-12T11:56:58.120000-04:00,2025-09-12T12:41:58.120000-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
+4729483722607970895,,,81314879,Christina Bloise,2025-09-12T12:32:16.507000-04:00,2025-09-12T12:42:16.507000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
+4729488522670131901,,,81314879,Christina Bloise,2025-09-12T12:40:02.597000-04:00,2025-09-12T12:47:02.597000-04:00,0.12,False,NA,,NA,NA,NA,,NA,Private
+4729647118515069317,,,81314879,Christina Bloise,2025-09-12T13:24:35.524000-04:00,2025-09-12T15:24:35.524000-04:00,2.0,False,NA,,NA,NA,NA,,NA,Private
+4729648161403593126,,,81314879,Christina Bloise,2025-09-12T14:55:37.799000-04:00,2025-09-12T15:25:37.799000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4729668341038998601,,,81314879,Christina Bloise,2025-09-12T15:15:40.529000-04:00,2025-09-12T15:45:40.529000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+4545316189148703708,,,75549193,Jonathan Lorenzo Lindaya,2025-05-08T11:28:13.817000-04:00,2025-05-08T13:34:50.891000-04:00,2.11,False,NA,,NA,NA,NA,,NA,Private
+4545443608346130949,,,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:34:48.600000-04:00,2025-05-08T13:42:24.639000-04:00,0.13,False,NA,,NA,NA,NA,,NA,Private
+4545451321167870745,,,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:42:28.743000-04:00,2025-05-08T14:52:14.072000-04:00,1.16,False,NA,,NA,NA,NA,,NA,Private
+4546374522358096836,,,75549193,Jonathan Lorenzo Lindaya,2025-05-09T04:59:37.159000-04:00,2025-05-09T07:45:46.987000-04:00,2.77,False,NA,,NA,NA,NA,,NA,Private
+4546542218030770069,,,75549193,Jonathan Lorenzo Lindaya,2025-05-09T07:46:12.752000-04:00,2025-05-09T14:25:02.471000-04:00,6.65,False,NA,,NA,NA,NA,,NA,Private
+4546950028765844449,,,75549193,Jonathan Lorenzo Lindaya,2025-05-09T14:31:19.575000-04:00,2025-05-09T15:53:23.547000-04:00,1.37,False,NA,,NA,NA,NA,,NA,Private
+4551069968192136618,,,75549193,Jonathan Lorenzo Lindaya,2025-05-12T10:44:08.491000-04:00,2025-05-12T14:47:24.618000-04:00,4.05,False,NA,,NA,NA,NA,,NA,Private
+4552288223468613661,,,75549193,Jonathan Lorenzo Lindaya,2025-05-13T03:00:00-04:00,2025-05-13T08:00:00-04:00,5.0,False,NA,,NA,NA,NA,,NA,Private
+4553993189254128805,,,75549193,Jonathan Lorenzo Lindaya,2025-05-14T05:00:00-04:00,2025-05-14T10:00:00-04:00,5.0,False,NA,,NA,NA,NA,,NA,Private
+4553993700355237048,,,75549193,Jonathan Lorenzo Lindaya,2025-05-14T11:08:35.600000-04:00,2025-05-14T11:08:42.350000-04:00,0.0,False,NA,,NA,NA,NA,,NA,Private
+4553993836703671489,,,75549193,Jonathan Lorenzo Lindaya,2025-05-14T11:08:43.757000-04:00,2025-05-14T13:46:14.454000-04:00,2.63,False,NA,,NA,NA,NA,,NA,Private
+4553994237947569356,,,75549193,Jonathan Lorenzo Lindaya,2025-05-14T01:00:00-04:00,2025-05-14T02:00:00-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
+4555257394053671440,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T05:03:56.544000-04:00,2025-05-15T08:03:56.544000-04:00,3.0,False,NA,,NA,NA,NA,,NA,Private
+4555258608657000989,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T07:05:08.844000-04:00,2025-05-15T08:05:08.844000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
+4555259795829582395,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T07:06:20.028000-04:00,2025-05-15T08:06:20.028000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
+4555262639836129887,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T03:09:08.996000-04:00,2025-05-15T08:09:08.996000-04:00,5.0,False,NA,,NA,NA,NA,,NA,Private
+4555264608206219892,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T05:00:00-04:00,2025-05-15T07:30:00-04:00,2.5,False,NA,,NA,NA,NA,,NA,Private
+4555278317171403668,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T04:00:00-04:00,2025-05-15T08:00:00-04:00,4.0,False,NA,,NA,NA,NA,,NA,Private
+4555299810764811564,,,75549193,Jonathan Lorenzo Lindaya,2025-05-15T08:46:05.678000-04:00,2025-05-15T13:41:15.076000-04:00,4.92,False,NA,,NA,NA,NA,,NA,Private
+4556738385347757280,,,75549193,Jonathan Lorenzo Lindaya,2025-05-16T02:00:00-04:00,2025-05-16T06:00:00-04:00,4.0,False,NA,,NA,NA,NA,,NA,Private
+4557082809328101937,,,75549193,Jonathan Lorenzo Lindaya,2025-05-16T09:00:00-04:00,2025-05-16T14:00:00-04:00,5.0,False,NA,,NA,NA,NA,,NA,Private
+4562204192773142002,,,75549193,Jonathan Lorenzo Lindaya,2025-05-20T00:00:00-04:00,2025-05-20T03:00:00-04:00,3.0,False,NA,,NA,NA,NA,,NA,Private
+4562205236701853174,,,75549193,Jonathan Lorenzo Lindaya,2025-05-19T02:00:00-04:00,2025-05-19T09:45:00-04:00,7.75,False,NA,,NA,NA,NA,,NA,Private
+4562206538613814780,,,75549193,Jonathan Lorenzo Lindaya,2025-05-20T04:30:19.694000-04:00,2025-05-20T07:00:32.472000-04:00,2.5,False,NA,,NA,NA,NA,,NA,Private
+4562445755726068299,,,75549193,Jonathan Lorenzo Lindaya,2025-05-20T07:04:58.013000-04:00,2025-05-20T07:05:00.225000-04:00,0.0,False,NA,,NA,NA,NA,,NA,Private
+4562713152051631643,,,75549193,Jonathan Lorenzo Lindaya,2025-05-20T09:00:00-04:00,2025-05-20T11:30:00-04:00,2.5,False,NA,,NA,NA,NA,,NA,Private
+4562798723671417111,,,75549193,Jonathan Lorenzo Lindaya,2025-05-21T10:30:00-04:00,2025-05-21T12:45:00-04:00,2.25,False,NA,,NA,NA,NA,,NA,Private
+4562798801064714523,,,75549193,Jonathan Lorenzo Lindaya,2025-05-20T12:55:41.254000-04:00,2025-05-20T14:00:35.619000-04:00,1.08,False,NA,,NA,NA,NA,,NA,Private
+4564057161068078890,,,75549193,Jonathan Lorenzo Lindaya,2025-05-21T04:30:00-04:00,2025-05-21T09:00:00-04:00,4.5,False,NA,,NA,NA,NA,,NA,Private
+4564098590138067992,,,75549193,Jonathan Lorenzo Lindaya,2025-05-21T09:45:54.265000-04:00,2025-05-21T11:58:01.593000-04:00,2.2,False,NA,,NA,NA,NA,,NA,Private
+4565517058318171913,,,75549193,Jonathan Lorenzo Lindaya,2025-05-21T09:00:00-04:00,2025-05-21T10:50:00-04:00,1.83,False,NA,,NA,NA,NA,,NA,Private
+4571496336247635987,,,75549193,Jonathan Lorenzo Lindaya,2025-05-26T00:00:00-04:00,2025-05-26T01:45:00-04:00,1.75,False,NA,,NA,NA,NA,,NA,Private
+4571497042803310628,,,75549193,Jonathan Lorenzo Lindaya,2025-05-26T02:00:00-04:00,2025-05-26T06:00:00-04:00,4.0,False,NA,,NA,NA,NA,,NA,Private
+4571497739946967092,,,75549193,Jonathan Lorenzo Lindaya,2025-05-26T08:00:00-04:00,2025-05-26T12:00:00-04:00,4.0,False,NA,,NA,NA,NA,,NA,Private
+4572615927468287226,,,75549193,Jonathan Lorenzo Lindaya,2025-05-27T07:28:03.876000-04:00,2025-05-27T15:00:24.249000-04:00,7.54,False,NA,,NA,NA,NA,,NA,Private
+4575848815974302230,,,75549193,Jonathan Lorenzo Lindaya,2025-05-29T02:00:00-04:00,2025-05-29T06:00:00-04:00,4.0,False,NA,,NA,NA,NA,,NA,Private
+4575850457708773967,,,75549193,Jonathan Lorenzo Lindaya,2025-05-29T06:00:00-04:00,2025-05-29T09:00:00-04:00,3.0,False,NA,,NA,NA,NA,,NA,Private
+4587055990943934325,,,75549193,Jonathan Lorenzo Lindaya,2025-06-06T01:15:00-04:00,2025-06-06T06:30:00-04:00,5.25,False,NA,,NA,NA,NA,,NA,Private
+4587158700473084830,,,75549193,Jonathan Lorenzo Lindaya,2025-06-10T02:30:00-04:00,2025-06-10T06:00:00-04:00,3.5,False,NA,,NA,NA,NA,,NA,Private
+4587438238536976020,,,75549193,Jonathan Lorenzo Lindaya,2025-06-05T01:00:00-04:00,2025-06-05T07:00:00-04:00,6.0,False,NA,,NA,NA,NA,,NA,Private
 4207507221024234398,8687u9hqb,Visual Signs and Graphics,75531883,Kathyrine Tadaoan,2024-09-17T08:30:08.478000-04:00,2024-09-17T10:00:08.478000-04:00,1.5,False,NA,Editing cps for October,NA,NA,NA,https://app.clickup.com/t/8687u9hqb,NA,Private
 4207515652531575916,8687u95ne,All American Signs and Graphics,75531883,Kathyrine Tadaoan,2024-09-17T10:33:35.444000-04:00,2024-09-17T12:00:44.188000-04:00,1.45,False,NA,Editing cps for October,NA,NA,NA,https://app.clickup.com/t/8687u95ne,NA,Private
 4207722245911113466,8687u95ne,All American Signs and Graphics,75531883,Kathyrine Tadaoan,2024-09-17T14:00:49.374000-04:00,2024-09-17T14:16:00.944000-04:00,0.25,False,NA,Editing cps for October,NA,NA,NA,https://app.clickup.com/t/8687u95ne,NA,Private
@@ -4096,6 +4111,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4727871289091052060,868em4jcr,Write blog (September) - Manufacturing Content Marketing Strategy Checklist for 2025: A Full-Funnel Blueprint to Fuel Growth in North American B2B Markets,75468400,Trisha Advincula,2025-09-10T05:55:23.010000-04:00,2025-09-10T10:00:23.010000-04:00,4.08,False,NA,,NA,NA,NA,https://app.clickup.com/t/868em4jcr,NA,Private
 4728090203842571612,868em4jcr,Write blog (September) - Manufacturing Content Marketing Strategy Checklist for 2025: A Full-Funnel Blueprint to Fuel Growth in North American B2B Markets,75468400,Trisha Advincula,2025-09-10T13:37:00-04:00,2025-09-10T14:37:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868em4jcr,NA,Private
 4728090276840238429,868em4fzw,Write blog (Sept) - Why SaaS Companies Need an Inbound Marketing Agency to Scale and Drive Growth,75468400,Trisha Advincula,2025-09-10T13:38:00-04:00,2025-09-10T14:08:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868em4fzw,NA,Private
+4729173347500977461,868fftmqt,Trisha Advincula,75468400,Trisha Advincula,2025-09-05T07:33:00-04:00,2025-09-05T15:33:00-04:00,8.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868fftmqt,NA,Private
 4003202081200171880,8687u9g0w,Major League Signs,75463178,Denise Bautista,2024-04-29T09:46:08.188000-04:00,2024-04-29T11:46:08.188000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9g0w,NA,Private
 4003204336460655515,8687u9gx7,Street Style Sign Studio,75463178,Denise Bautista,2024-04-29T10:18:28.951000-04:00,2024-04-29T11:48:28.951000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gx7,NA,Private
 4004971708724956780,8687u96gm,Detroit MI Signs and Graphics,75463178,Denise Bautista,2024-04-30T15:03:20.775000-04:00,2024-04-30T17:03:20.775000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u96gm,NA,Private
@@ -10896,7 +10912,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4646859454506746612,,,60765319,Sandeep Malviya,2025-07-17T11:41:42.792000-04:00,2025-07-17T12:41:42.792000-04:00,1.0,False,NA,Research indexing tools and try,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4646864264115143601,,,60765319,Sandeep Malviya,2025-07-17T11:15:19.520000-04:00,2025-07-17T12:45:19.520000-04:00,1.5,False,NA,"Collabrative Signs, Amazing sign, Blue Ocean, City Beautiful Signs, Also Traffic Tracker",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4647698062188888129,,,60765319,Sandeep Malviya,2025-07-02T01:05:20.425000-04:00,2025-07-02T02:35:20.425000-04:00,1.5,False,NA,Laptop Exchange and Setup,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
-4647700732282814555,868dj2mck,Publish Blog and share on LI - How to Evolve Your GTM Strategy With AI,60765319,Sandeep Malviya,2025-07-02T02:07:00.777000-04:00,2025-07-02T02:37:00.777000-04:00,0.5,False,NA,Blog Publish,NA,NA,NA,https://app.clickup.com/t/868dj2mck,NA,Private
+4647700732282814555,,,60765319,Sandeep Malviya,2025-07-02T02:07:00.777000-04:00,2025-07-02T02:37:00.777000-04:00,0.5,False,NA,Blog Publish,NA,NA,NA,,NA,Private
 4647702148346953828,,,60765319,Sandeep Malviya,2025-07-02T02:19:21.019000-04:00,2025-07-02T02:39:21.019000-04:00,0.33,False,NA,MMR Blog Update,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4652628614750818058,85zryj520,GMBs Posts and Image Update,60765319,Sandeep Malviya,2025-07-21T11:42:58.421000-04:00,2025-07-21T12:12:58.421000-04:00,0.5,False,NA,GMB posts 6d and my project,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 4652629063121915675,,,60765319,Sandeep Malviya,2025-07-18T11:58:54.239000-04:00,2025-07-18T12:13:54.239000-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private

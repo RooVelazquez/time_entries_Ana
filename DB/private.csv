@@ -37,6 +37,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4723819618052499053,868ffe886,Measure Marketing Indexing API,87315869,Swapnil Bhatnagar,2025-09-08T13:30:00-04:00,2025-09-08T15:00:00-04:00,1.5,True,NA,Indexing API and URL sorting for MMR,NA,NA,NA,https://app.clickup.com/t/868ffe886,NA,Private
 4726330584094896960,8688mbh98,Link Building Discussion Meeting,87315869,Swapnil Bhatnagar,2025-09-10T08:30:02.936000-04:00,2025-09-10T09:23:45.282000-04:00,0.9,True,NA,With Sandeep and Kanica,NA,NA,NA,https://app.clickup.com/t/8688mbh98,NA,Private
 4759717597464383795,868fqykha,Schema implementation,87315869,Swapnil Bhatnagar,2025-10-01T15:00:00-04:00,2025-10-01T16:30:00-04:00,1.5,True,NA,Create and added in the MMR doc,NA,NA,NA,https://app.clickup.com/t/868fqykha,NA,Private
+4774332198545940468,,,87315869,Swapnil Bhatnagar,2025-10-13T11:15:14.448000-04:00,2025-10-13T11:53:42.066000-04:00,0.64,True,NA,Working on the report,NA,NA,NA,,NA,Private
 4684628169050452935,,,87307283,Mayuri Devarukhkar,2025-08-08T08:30:00-04:00,2025-08-08T16:30:00-04:00,8.0,False,NA,Audit,NA,NA,NA,,NA,Private
 4735543407089974663,,,87307283,Mayuri Devarukhkar,2025-09-16T11:00:00-04:00,2025-09-16T16:30:00-04:00,5.5,True,NA,On and off continue Space age audit,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4735545198359772604,,,87307283,Mayuri Devarukhkar,2025-09-16T14:00:46-04:00,2025-09-16T14:30:46-04:00,0.5,False,NA,Space age on page optimization stratergy meet,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -337,7 +338,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4766958224979688227,8684rt2ge,Lunch Break,81565408,Vipul  Malviya,2025-10-08T04:30:00-04:00,2025-10-08T05:15:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4768166889124415690,8684rt2ge,Lunch Break,81565408,Vipul  Malviya,2025-10-09T04:00:00-04:00,2025-10-09T04:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4769596080378240862,8684rt2ge,Lunch Break,81565408,Vipul  Malviya,2025-10-10T04:00:00-04:00,2025-10-10T04:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4773855435248255750,868fy1dp7,Update Website Email & Forms Email,81565408,Vipul  Malviya,2025-10-13T02:00:00-04:00,2025-10-13T02:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868fy1dp7,NA,Private
+4773991159050159324,8684rt2ge,Lunch Break,81565408,Vipul  Malviya,2025-10-13T04:30:00-04:00,2025-10-13T05:15:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4596089776113340778,,,132182726,Stephanie Hilchey,2025-06-12T11:21:05.965000-04:00,2025-06-12T12:06:05.965000-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4596295133767035314,,,132182726,Stephanie Hilchey,2025-06-12T15:10:41.468000-04:00,2025-06-12T15:30:41.468000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 4597744361496267421,,,132182726,Stephanie Hilchey,2025-06-13T14:30:11.144000-04:00,2025-06-13T15:30:11.144000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
@@ -3295,7 +3296,6 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4759812005727722296,86850x742,Miscellaneous Task,75479003,Shivangi Sharma,2025-09-30T02:30:00-04:00,2025-09-30T03:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 4759863971560448313,,,75479003,Shivangi Sharma,2025-10-03T11:00:00-04:00,2025-10-03T12:00:00-04:00,1.0,False,NA,1:1 with Kanica ma'am,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4765665217089270132,86850x742,Miscellaneous Task,75479003,Shivangi Sharma,2025-10-07T02:30:00-04:00,2025-10-07T03:30:00-04:00,1.0,False,NA,Check and close task,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
-4772339186081100856,868fyamtt,Content 1,75479003,Shivangi Sharma,2025-10-13T03:00:00-04:00,2025-10-13T03:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868fyamtt,NA,Private
 4044713861671705712,85zrv6gfm,Update Variance,75472719,Monika,2024-05-27T04:00:00-04:00,2024-05-27T07:00:00-04:00,3.0,False,NA,Listen Calls and check forms for 9 projects and update sheet,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 4087164088303121808,8688r3v2k,POD Meeting,75472719,Monika,2024-06-25T09:00:00-04:00,2024-06-25T10:00:00-04:00,1.0,False,NA,Weekly POD Meeting with AMs,NA,NA,NA,https://app.clickup.com/t/8688r3v2k,NA,Private
 4087168158875153915,,,75472719,Monika,2024-06-25T02:30:00-04:00,2024-06-25T03:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -6867,6 +6867,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4768054828109285185,85zrydjhy,GMB Post,75420487,Swati Rajput,2025-10-09T02:45:52.128000-04:00,2025-10-09T04:00:52.128000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 4768504414162542564,860qmre73,Calls,75420487,Swati Rajput,2025-10-09T10:00:17.752000-04:00,2025-10-09T10:30:17.752000-04:00,0.5,False,NA,Call with Harish,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
 4769960140512851181,86850x742,Miscellaneous Task,75420487,Swati Rajput,2025-10-10T07:55:45.890000-04:00,2025-10-10T09:15:45.890000-04:00,1.33,False,NA,new domains find.,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
+4773907845140333534,85zryj520,GMBs Posts and Image Update,75420487,Swati Rajput,2025-10-13T02:45:58.613000-04:00,2025-10-13T04:00:58.613000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
+4773908377145852896,85zrv6gfm,Update Variance,75420487,Swati Rajput,2025-10-13T04:00:56.276000-04:00,2025-10-13T04:30:56.276000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 4221895973112799812,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:10.641000-04:00,2024-09-27T08:39:14.738000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896495555306060,8689un8vn,Content Review,75418362,Ana,2024-09-27T07:59:39.028000-04:00,2024-09-27T08:39:39.028000-04:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896578266980941,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:46.769000-04:00,2024-09-27T08:39:47.734000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
@@ -9274,6 +9276,10 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4767095252153158370,,,75405712,Garima Batra,2025-10-08T10:45:53.251000-04:00,2025-10-08T11:30:53.251000-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
 4768285538132839282,85zrydjhy,GMB Post,75405712,Garima Batra,2025-10-09T02:50:46.603000-04:00,2025-10-09T04:20:46.603000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 4768542421854872652,,,75405712,Garima Batra,2025-10-09T10:45:13.841000-04:00,2025-10-09T11:30:13.841000-04:00,0.75,False,NA,,NA,NA,NA,,NA,Private
+4774074828519524018,85zrydjhy,GMB Post,75405712,Garima Batra,2025-10-13T02:50:11.113000-04:00,2025-10-13T04:20:11.113000-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
+4774075254040053430,85zrv6gfm,Update Variance,75405712,Garima Batra,2025-10-13T04:20:38.193000-04:00,2025-10-13T04:55:38.193000-04:00,0.58,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
+4774296056245148558,860qmre73,Calls,75405712,Garima Batra,2025-10-13T10:00:58.108000-04:00,2025-10-13T10:20:58.108000-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
+4774296545233886109,86850x742,Miscellaneous Task,75405712,Garima Batra,2025-10-13T10:20:33.346000-04:00,2025-10-13T10:30:33.346000-04:00,0.17,False,NA,,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 3963655131849447240,,,75334893,Pallavi,2024-04-02T02:50:00-04:00,2024-04-02T02:57:00-04:00,0.12,False,NA,,NA,NA,NA,,NA,Private
 4099937312904465031,,,75400980,Abhishek Dwivedi,2024-07-01T06:30:45.206000-04:00,2024-07-01T08:30:45.206000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4099969571246197450,,,75400980,Abhishek Dwivedi,2024-07-02T09:00:40.152000-04:00,2024-07-02T10:00:40.152000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private

@@ -811,6 +811,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5012402412343418457,,,87332930,Deepika Jha,2026-03-26T16:15:37.815000-04:00,2026-03-26T16:30:37.815000-04:00,0.25,False,NA,Day end Call,NA,NA,NA,,NA,Private
 5013569790125167634,,,87332930,Deepika Jha,2026-03-27T09:00:00-04:00,2026-03-27T09:30:00-04:00,0.5,False,NA,Fun Friday Session,NA,NA,NA,,NA,Private
 5020717324626978375,,,87332930,Deepika Jha,2026-03-27T16:15:00-04:00,2026-03-27T16:30:00-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
+5026819094688187047,868gn8g0w,Steph POD,87332930,Deepika Jha,2026-04-01T09:00:00-04:00,2026-04-01T10:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868gn8g0w,NA,Private
+5026823043205972654,,,87332930,Deepika Jha,2026-03-30T16:15:00-04:00,2026-03-30T16:30:00-04:00,0.25,False,NA,Day end huddle,NA,NA,NA,,NA,Private
 4718085889225021297,868ffe886,Measure Marketing Indexing API,87315869,Swapnil Bhatnagar,2025-09-04T15:00:38.717000-04:00,2025-09-04T16:15:38.717000-04:00,1.25,True,NA,,NA,NA,NA,https://app.clickup.com/t/868ffe886,NA,Private
 4723819618052499053,868ffe886,Measure Marketing Indexing API,87315869,Swapnil Bhatnagar,2025-09-08T13:30:00-04:00,2025-09-08T15:00:00-04:00,1.5,True,NA,Indexing API and URL sorting for MMR,NA,NA,NA,https://app.clickup.com/t/868ffe886,NA,Private
 4726330584094896960,8688mbh98,Link Building Discussion Meeting,87315869,Swapnil Bhatnagar,2025-09-10T08:30:02.936000-04:00,2025-09-10T09:23:45.282000-04:00,0.9,True,NA,With Sandeep and Kanica,NA,NA,NA,https://app.clickup.com/t/8688mbh98,NA,Private
@@ -4745,6 +4747,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5017980816195217089,868gejrzm,Add Case Study - Dragon Taekwondo,81314879,Christina Bloise,2026-03-30T13:03:23.318000-04:00,2026-03-30T13:18:23.318000-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868gejrzm,NA,Private
 5017988936837523461,868htetnw,Add Case Study - Airport Management Software - Due March 16,81314879,Christina Bloise,2026-03-30T13:06:27.450000-04:00,2026-03-30T13:26:27.450000-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/868htetnw,NA,Private
 5020684847208358204,,,81314879,Christina Bloise,2026-03-31T10:04:00-04:00,2026-03-31T10:05:00-04:00,0.02,False,NA,,NA,NA,NA,,NA,Private
+5020685789148373343,,,81314879,Christina Bloise,2026-04-03T10:04:29.493000-04:00,2026-04-03T10:05:29.493000-04:00,0.02,False,NA,,NA,NA,NA,,NA,Private
 5020686083504628074,,,81314879,Christina Bloise,2026-03-30T10:05:00-04:00,2026-03-30T11:05:00-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 5020687714199691691,,,81314879,Christina Bloise,2026-04-01T09:07:27.132000-04:00,2026-04-01T10:07:27.132000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 5020728994187339709,,,81314879,Christina Bloise,2026-04-01T09:48:27.550000-04:00,2026-04-01T10:48:27.550000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
@@ -8734,6 +8737,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5017423821734044481,868hkmjke,Update Variance,75420487,Swati Rajput,2026-03-30T02:45:51.447000-04:00,2026-03-30T03:00:51.447000-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5017424436635788098,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-03-30T03:00:12.987000-04:00,2026-03-30T04:15:12.987000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 5018959846390259804,86850x742,Miscellaneous Task,75420487,Swati Rajput,2026-03-31T02:45:35.590000-04:00,2026-03-31T03:45:35.590000-04:00,1.0,False,NA,POD Update.,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
+5027519786524494723,868hkmjke,Update Variance,75420487,Swati Rajput,2026-04-06T02:45:00.422000-04:00,2026-04-06T03:00:00.422000-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5027584740388654170,868hu6xcj,Image Sharing,75420487,Swati Rajput,2026-04-06T04:00:56.067000-04:00,2026-04-06T04:45:56.067000-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hu6xcj,NA,Private
 4221895973112799812,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:10.641000-04:00,2024-09-27T08:39:14.738000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896495555306060,8689un8vn,Content Review,75418362,Ana,2024-09-27T07:59:39.028000-04:00,2024-09-27T08:39:39.028000-04:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896578266980941,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:46.769000-04:00,2024-09-27T08:39:47.734000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
@@ -11856,6 +11861,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5005054950620426219,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-03-19T14:57:26.575000-04:00,2026-03-19T15:17:26.575000-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5017401614068769517,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-03-27T13:00:09.890000-04:00,2026-03-27T13:30:09.890000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5020234416053175463,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-03-30T07:00:34.214000-04:00,2026-03-30T07:30:34.214000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5025148010238736982,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-04-02T11:28:04.703000-04:00,2026-04-02T11:58:04.703000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 3831945689379273071,85zrv6gfm,Update Variance,60765308,Harish Kewat,2024-01-02T06:16:55.974000-05:00,2024-01-02T07:16:55.974000-05:00,1.0,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 3831946945304885624,8684rt2ge,Lunch Break,60765308,Harish Kewat,2024-01-02T06:48:11.787000-05:00,2024-01-02T07:18:11.787000-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 3835071374478173701,85zrzzadk,Monthly Ranking Update,60765308,Harish Kewat,2024-01-04T09:01:59.502000-05:00,2024-01-04T11:01:59.502000-05:00,2.0,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zrzzadk,NA,Private
@@ -13158,6 +13164,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5019044107642364511,85zryj520,GMBs Posts and Image Update,60765308,Harish Kewat,2026-03-31T05:14:00-04:00,2026-03-31T06:54:00-04:00,1.67,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 5022111766558687929,85zryj520,GMBs Posts and Image Update,60765308,Harish Kewat,2026-04-02T08:12:00-04:00,2026-04-02T09:42:00-04:00,1.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 5022152935061735537,85zryj520,GMBs Posts and Image Update,60765308,Harish Kewat,2026-04-02T10:12:00-04:00,2026-04-02T10:22:00-04:00,0.17,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
+5027498291001707327,868hkmjke,Update Variance,60765308,Harish Kewat,2026-04-06T02:08:05.249000-04:00,2026-04-06T02:53:05.249000-04:00,0.75,True,NA,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5027545398169455581,868hat3d3,Growth Report Update,60765308,Harish Kewat,2026-04-06T02:09:53.192000-04:00,2026-04-06T03:39:53.192000-04:00,1.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/868hat3d3,NA,Private
 3942612539452048844,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:35:59.453000-04:00,2024-03-18T16:36:04.612000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612646926894544,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:05.867000-04:00,2024-03-18T16:36:08.131000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612755962021332,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:12.359000-04:00,2024-03-18T16:36:45.104000-04:00,0.01,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private

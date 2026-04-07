@@ -114,6 +114,13 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5017721146935243538,868gn8hq7,Marissa POD,87392683,Beverlette,2026-03-30T09:00:25.400000-04:00,2026-03-30T09:15:38.716000-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868gn8hq7,NA,Private
 5020590367272751371,,,87392683,Beverlette,2026-04-01T08:30:44.023000-04:00,2026-04-01T09:30:22.009000-04:00,0.99,False,NA,,NA,NA,NA,,NA,Private
 5020863420355476271,,,87392683,Beverlette,2026-04-01T13:01:59.226000-04:00,2026-04-01T13:21:46.308000-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5027842300349929016,,,87392683,Beverlette,2026-04-06T08:34:52.898000-04:00,2026-04-06T09:00:13.874000-04:00,0.42,False,NA,Audit Last Week's Post,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5027869114032085276,868gn8hq7,Marissa POD,87392683,Beverlette,2026-04-06T09:01:31.340000-04:00,2026-04-06T09:18:31.259000-04:00,0.28,False,NA,,NA,NA,NA,https://app.clickup.com/t/868gn8hq7,NA,Private
+5027888252926450683,,,87392683,Beverlette,2026-04-06T09:20:32.098000-04:00,2026-04-06T09:46:30.164000-04:00,0.43,False,NA,,NA,NA,NA,,NA,Private
+5027994510702570325,,,87392683,Beverlette,2026-04-06T11:06:05.501000-04:00,2026-04-06T11:21:12.521000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
+5028048349946344221,,,87392683,Beverlette,2026-04-06T11:59:34.421000-04:00,2026-04-06T12:33:00.410000-04:00,0.56,False,NA,,NA,NA,NA,,NA,Private
+5028139828505116610,,,87392683,Beverlette,2026-04-06T13:30:18.515000-04:00,2026-04-06T13:55:12.989000-04:00,0.42,False,NA,,NA,NA,NA,,NA,Private
+5028166895254782846,,,87392683,Beverlette,2026-04-06T13:57:20.625000-04:00,2026-04-06T14:16:48.485000-04:00,0.32,False,NA,,NA,NA,NA,,NA,Private
 4948303016291357673,868hdchft,Add banner to top of MMR website,300865768,Brandon Brown,2026-02-10T10:19:42.183000-05:00,2026-02-10T10:39:42.183000-05:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hdchft,NA,Private
 4950257793447388989,868hdchft,Add banner to top of MMR website,300865768,Brandon Brown,2026-02-09T19:01:00-05:00,2026-02-09T19:16:00-05:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hdchft,NA,Private
 4959864319652818876,868hdchft,Add banner to top of MMR website,300865768,Brandon Brown,2026-02-17T10:04:00-05:00,2026-02-17T10:29:00-05:00,0.42,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hdchft,NA,Private
@@ -187,6 +194,9 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5018031432502242861,868hkmjke,Update Variance,87376870,Shambhu Narula,2026-03-30T09:30:11.708000-04:00,2026-03-30T09:40:11.708000-04:00,0.17,False,NA,Variance Updates,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5020976995765996354,868gn8g34,JC POD,87376870,Shambhu Narula,2026-04-01T10:00:29.896000-04:00,2026-04-01T11:00:29.896000-04:00,1.0,False,NA,JC POD,NA,NA,NA,https://app.clickup.com/t/868gn8g34,NA,Private
 5022408860553078390,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-04-02T10:00:41.906000-04:00,2026-04-02T11:10:41.906000-04:00,1.17,False,NA,GMB Post and Updates,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5028127453278273070,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-04-06T08:10:29.022000-04:00,2026-04-06T09:40:29.022000-04:00,1.5,False,NA,GMB Posts & Images Update for all projects,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5028128109586185793,868hkmjke,Update Variance,87376870,Shambhu Narula,2026-04-06T09:40:20.316000-04:00,2026-04-06T10:00:20.316000-04:00,0.33,False,NA,Variance Updates,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5028129753132596847,,,87376870,Shambhu Narula,2026-04-06T10:00:58.025000-04:00,2026-04-06T10:50:58.025000-04:00,0.83,False,NA,Monthly Backlink Growth Report Updated,NA,NA,NA,,NA,Private
 4794488200876415684,,,87357162,Virendra Singh Jaitawat,2025-10-27T08:58:30.407000-04:00,2025-10-27T11:57:09.180000-04:00,2.98,False,NA,"Time tracking training, Clickup training",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4794668392035022292,,,87357162,Virendra Singh Jaitawat,2025-10-27T11:57:30.359000-04:00,2025-10-27T14:05:09.367000-04:00,2.13,False,NA,Worked on Outreaching analysis for Bravura Security,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4794798365496461816,,,87357162,Virendra Singh Jaitawat,2025-10-27T14:06:37.215000-04:00,2025-10-27T16:37:54.946000-04:00,2.52,False,NA,"GA, GSC, & GTM Training - 1",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -416,6 +426,11 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5020980912373517252,,,87345256,Prince Michael Fandiño,2026-04-01T14:58:41.230000-04:00,2026-04-01T15:49:36.423000-04:00,0.85,False,NA,,NA,NA,NA,,NA,Private
 5021032150091846315,,,87345256,Prince Michael Fandiño,2026-04-01T15:49:36.347000-04:00,2026-04-01T16:00:36.307000-04:00,0.18,False,NA,,NA,NA,NA,,NA,Private
 5021043886777848880,,,87345256,Prince Michael Fandiño,2026-04-01T16:01:16.305000-04:00,2026-04-01T16:22:27.927000-04:00,0.35,False,NA,,NA,NA,NA,,NA,Private
+5027842293353829943,,,87345256,Prince Michael Fandiño,2026-04-06T08:34:54.100000-04:00,2026-04-06T12:15:16.758000-04:00,3.67,False,NA,,NA,NA,NA,,NA,Private
+5028064656729208171,,,87345256,Prince Michael Fandiño,2026-04-06T12:15:48.297000-04:00,2026-04-06T14:01:45.615000-04:00,1.77,False,NA,,NA,NA,NA,,NA,Private
+5028171338163569686,,,87345256,Prince Michael Fandiño,2026-04-06T14:01:47.059000-04:00,2026-04-06T14:38:16.240000-04:00,0.61,False,NA,,NA,NA,NA,,NA,Private
+5028208718069254234,,,87345256,Prince Michael Fandiño,2026-04-06T14:38:55.345000-04:00,2026-04-06T15:55:50.744000-04:00,1.28,False,NA,,NA,NA,NA,,NA,Private
+5028286177351455395,,,87345256,Prince Michael Fandiño,2026-04-06T15:55:50.469000-04:00,2026-04-06T16:48:21.101000-04:00,0.88,False,NA,,NA,NA,NA,,NA,Private
 4733928036352281065,,,87338081,Eric Culob,2025-09-15T13:37:21.046000-04:00,2025-09-15T14:17:21.046000-04:00,0.67,False,NA,,NA,NA,NA,,NA,Private
 4735488619782502159,,,87338081,Eric Culob,2025-09-16T12:07:36.158000-04:00,2025-09-16T16:07:36.158000-04:00,4.0,False,NA,,NA,NA,NA,,NA,Private
 4735489491509868321,,,87338081,Eric Culob,2025-09-16T15:08:27.221000-04:00,2025-09-16T16:08:27.221000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
@@ -1837,6 +1852,10 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5019608490269369708,,,60764851,Samantha Ballard,2026-03-31T16:15:19.628000-04:00,2026-03-31T16:28:56.951000-04:00,0.23,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5022281322757511056,,,60764851,Samantha Ballard,2026-04-02T12:30:33.117000-04:00,2026-04-02T12:42:12.951000-04:00,0.19,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5022451516289215403,,,60764851,Samantha Ballard,2026-04-02T15:19:37.308000-04:00,2026-04-02T15:26:03.980000-04:00,0.11,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5027979651558566171,868hp83m6,ImageTEK Signs and Graphics LLC,60764851,Samantha Ballard,2026-04-06T10:45:02.019000-04:00,2026-04-06T10:55:02.019000-04:00,0.17,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hp83m6,NA,Private
+5028184621255902609,,,60764851,Samantha Ballard,2026-04-06T14:14:54.715000-04:00,2026-04-06T14:15:21.819000-04:00,0.01,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5028187272123139554,868hqd126,Clarity Signworks Inc,60764851,Samantha Ballard,2026-04-06T14:15:07.010000-04:00,2026-04-06T14:40:54.010000-04:00,0.43,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hqd126,NA,Private
+5028210934977022110,,,60764851,Samantha Ballard,2026-04-06T14:41:05.638000-04:00,2026-04-06T14:50:38.139000-04:00,0.16,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4584424242619765189,,,81565408,Vipul  Malviya,2025-06-04T10:33:35.901000-04:00,2025-06-04T10:58:35.901000-04:00,0.42,False,NA,,NA,NA,NA,,NA,Private
 4607353730433182216,,,81565408,Vipul  Malviya,2025-06-20T05:37:00.488000-04:00,2025-06-20T06:37:00.488000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 4617733898796431893,868e28nd9,Due May 30th - Add how-to guide to pipeline calculator page,81565408,Vipul  Malviya,2025-06-27T10:28:47.603000-04:00,2025-06-27T11:05:07.112000-04:00,0.61,False,NA,,NA,NA,NA,https://app.clickup.com/t/868e28nd9,NA,Private
@@ -1908,6 +1927,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5020971928258235035,,,132182726,Stephanie Hilchey,2026-04-01T13:25:25.407000-04:00,2026-04-01T13:45:25.407000-04:00,0.33,False,NA,Closing tasks and following up on delays,NA,NA,NA,,NA,Private
 5022276999168284399,,,132182726,Stephanie Hilchey,2026-04-02T11:10:46.297000-04:00,2026-04-02T12:10:46.297000-04:00,1.0,False,NA,"Signs Unlimited, Louisville",NA,NA,NA,,NA,Private
 5022381860794819389,,,132182726,Stephanie Hilchey,2026-04-02T13:10:05.487000-04:00,2026-04-02T13:45:05.487000-04:00,0.58,False,NA,,NA,NA,NA,,NA,Private
+5028040964498420191,,,132182726,Stephanie Hilchey,2026-04-06T09:30:43.113000-04:00,2026-04-06T11:30:43.113000-04:00,2.0,False,NA,listened to all new client calls and forms,NA,NA,NA,,NA,Private
 4471285456030037645,,,176630444,Ayush Panchal,2025-03-18T09:45:20.999000-04:00,2025-03-18T10:01:41.115000-04:00,0.27,False,NA,,NA,NA,NA,,NA,Private
 4471287587910874831,,,176630444,Ayush Panchal,2025-03-17T08:30:00-04:00,2025-03-17T16:30:00-04:00,8.0,False,NA,,NA,NA,NA,,NA,Private
 4471301902986541236,,,176630444,Ayush Panchal,2025-03-18T10:01:41.490000-04:00,2025-03-18T10:01:41.490000-04:00,0.0,False,NA,,NA,NA,NA,,NA,Private
@@ -2095,6 +2115,9 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5019217396352315377,868j27ga5,Social Media Profile Data,270853440,Joseph Joshua,2026-03-31T09:46:48.290000-04:00,2026-03-31T13:00:48.290000-04:00,3.23,True,NA,,NA,NA,NA,https://app.clickup.com/t/868j27ga5,NA,Private
 5019456466194157830,868hqd126,Clarity Signworks Inc,270853440,Joseph Joshua,2026-03-31T13:00:00-04:00,2026-03-31T13:43:00-04:00,0.72,True,NA,,NA,NA,NA,https://app.clickup.com/t/868hqd126,NA,Private
 5019508099636680825,868j27ga5,Social Media Profile Data,270853440,Joseph Joshua,2026-03-31T14:35:35.979000-04:00,2026-03-31T16:17:54.405000-04:00,1.71,True,NA,,NA,NA,NA,https://app.clickup.com/t/868j27ga5,NA,Private
+5028189118472537650,868j27ga5,Social Media Profile Data,270853440,Joseph Joshua,2026-04-01T13:00:00-04:00,2026-04-01T16:16:00-04:00,3.27,True,NA,,NA,NA,NA,https://app.clickup.com/t/868j27ga5,NA,Private
+5028189663916607039,868j27ga5,Social Media Profile Data,270853440,Joseph Joshua,2026-04-01T08:03:00-04:00,2026-04-01T09:30:00-04:00,1.45,True,NA,,NA,NA,NA,https://app.clickup.com/t/868j27ga5,NA,Private
+5028220654940998105,868j27ga5,Social Media Profile Data,270853440,Joseph Joshua,2026-04-06T14:50:44.758000-04:00,2026-04-06T16:45:48.641000-04:00,1.92,True,NA,,NA,NA,NA,https://app.clickup.com/t/868j27ga5,NA,Private
 4371300658764420293,,,81314879,Christina Bloise,2025-01-08T09:19:22.257000-05:00,2025-01-08T09:24:52.235000-05:00,0.09,False,NA,,NA,NA,NA,,NA,Private
 4371315067977045631,,,81314879,Christina Bloise,2025-01-08T09:33:40.969000-05:00,2025-01-08T09:35:46.918000-05:00,0.03,False,NA,,NA,NA,NA,,NA,Private
 4371322340665300796,,,81314879,Christina Bloise,2025-01-08T09:40:54.710000-05:00,2025-01-08T09:59:25.107000-05:00,0.31,False,NA,,NA,NA,NA,,NA,Private
@@ -4763,6 +4786,14 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5022258546814375103,,,81314879,Christina Bloise,2026-04-02T11:07:55.936000-04:00,2026-04-02T12:07:55.936000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
 5022432840982882688,,,81314879,Christina Bloise,2026-04-02T14:56:04.555000-04:00,2026-04-02T15:01:04.555000-04:00,0.08,False,NA,,NA,NA,NA,,NA,Private
 5022433152854550925,,,81314879,Christina Bloise,2026-04-01T15:01:00-04:00,2026-04-01T15:06:00-04:00,0.08,False,NA,,NA,NA,NA,,NA,Private
+5027912274896641774,,,81314879,Christina Bloise,2026-04-06T09:14:24.276000-04:00,2026-04-06T09:44:24.276000-04:00,0.5,False,NA,,NA,NA,NA,,NA,Private
+5027912353548230386,,,81314879,Christina Bloise,2026-04-06T09:34:29.152000-04:00,2026-04-06T09:44:29.152000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
+5027917737155518381,,,81314879,Christina Bloise,2026-04-06T09:34:50.057000-04:00,2026-04-06T09:49:50.057000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
+5027923731789013158,,,81314879,Christina Bloise,2026-04-06T09:40:47.353000-04:00,2026-04-06T09:55:47.353000-04:00,0.25,False,NA,,NA,NA,NA,,NA,Private
+5028214522549782805,,,81314879,Christina Bloise,2026-04-06T12:44:39.867000-04:00,2026-04-06T14:44:39.867000-04:00,2.0,False,NA,,NA,NA,NA,,NA,Private
+5028298532714075183,,,81314879,Christina Bloise,2026-04-06T15:08:07.054000-04:00,2026-04-06T16:08:07.054000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
+5028298678138983475,,,81314879,Christina Bloise,2026-04-06T15:58:15.774000-04:00,2026-04-06T16:08:15.774000-04:00,0.17,False,NA,,NA,NA,NA,,NA,Private
+5028299657743848536,,,81314879,Christina Bloise,2026-04-06T15:49:14.184000-04:00,2026-04-06T16:09:14.184000-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 4545316189148703708,,,75549193,Jonathan Lorenzo Lindaya,2025-05-08T11:28:13.817000-04:00,2025-05-08T13:34:50.891000-04:00,2.11,False,NA,,NA,NA,NA,,NA,Private
 4545443608346130949,,,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:34:48.600000-04:00,2025-05-08T13:42:24.639000-04:00,0.13,False,NA,,NA,NA,NA,,NA,Private
 4545451321167870745,,,75549193,Jonathan Lorenzo Lindaya,2025-05-08T13:42:28.743000-04:00,2025-05-08T14:52:14.072000-04:00,1.16,False,NA,,NA,NA,NA,,NA,Private
@@ -5648,6 +5679,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5020655882821328240,,,75531883,Kathyrine Tadaoan,2026-04-01T08:30:00-04:00,2026-04-01T08:50:00-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 5020665260479766140,,,75531883,Kathyrine Tadaoan,2026-04-01T08:50:00-04:00,2026-04-01T09:15:00-04:00,0.42,False,NA,"Redheaded, Saltwater",NA,NA,NA,,NA,Private
 5021077246745139513,,,75531883,Kathyrine Tadaoan,2026-04-01T14:30:00-04:00,2026-04-01T14:48:00-04:00,0.3,False,NA,,NA,NA,NA,,NA,Private
+5027890585043360850,,,75531883,Kathyrine Tadaoan,2026-04-06T08:30:00-04:00,2026-04-06T08:50:00-04:00,0.33,False,NA,,NA,NA,NA,,NA,Private
 4044713861671705712,85zrv6gfm,Update Variance,75472719,Monika,2024-05-27T04:00:00-04:00,2024-05-27T07:00:00-04:00,3.0,False,NA,Listen Calls and check forms for 9 projects and update sheet,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 4087164088303121808,8688r3v2k,POD Meeting,75472719,Monika,2024-06-25T09:00:00-04:00,2024-06-25T10:00:00-04:00,1.0,False,NA,Weekly POD Meeting with AMs,NA,NA,NA,https://app.clickup.com/t/8688r3v2k,NA,Private
 4087168158875153915,,,75472719,Monika,2024-06-25T02:30:00-04:00,2024-06-25T03:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -8738,7 +8770,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5017424436635788098,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-03-30T03:00:12.987000-04:00,2026-03-30T04:15:12.987000-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 5018959846390259804,86850x742,Miscellaneous Task,75420487,Swati Rajput,2026-03-31T02:45:35.590000-04:00,2026-03-31T03:45:35.590000-04:00,1.0,False,NA,POD Update.,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 5027519786524494723,868hkmjke,Update Variance,75420487,Swati Rajput,2026-04-06T02:45:00.422000-04:00,2026-04-06T03:00:00.422000-04:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
-5027584740388654170,868hu6xcj,Image Sharing,75420487,Swati Rajput,2026-04-06T04:00:56.067000-04:00,2026-04-06T04:45:56.067000-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hu6xcj,NA,Private
+5027648866632748327,868hat3d3,Growth Report Update,75420487,Swati Rajput,2026-04-06T04:45:19.878000-04:00,2026-04-06T05:45:19.878000-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hat3d3,NA,Private
 4221895973112799812,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:10.641000-04:00,2024-09-27T08:39:14.738000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896495555306060,8689un8vn,Content Review,75418362,Ana,2024-09-27T07:59:39.028000-04:00,2024-09-27T08:39:39.028000-04:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896578266980941,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:46.769000-04:00,2024-09-27T08:39:47.734000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
@@ -10243,6 +10275,9 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5018992968842502433,86850x742,Miscellaneous Task,75405712,Garima Batra,2026-03-31T05:15:27.021000-04:00,2026-03-31T05:30:27.021000-04:00,0.25,False,NA,SpeedPro POD Update,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 5022000016140171523,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-04-02T05:05:45.679000-04:00,2026-04-02T05:45:45.679000-04:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5022000950815652122,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-04-02T06:15:27.378000-04:00,2026-04-02T06:45:27.378000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5027648463258144036,85zrv6gfm,Update Variance,75405712,Garima Batra,2026-04-06T02:45:44.638000-04:00,2026-04-06T03:05:44.638000-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
+5027648774576164133,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-04-06T03:05:21.967000-04:00,2026-04-06T04:15:21.967000-04:00,1.17,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5027651570314661167,868hat3d3,Growth Report Update,75405712,Garima Batra,2026-04-06T04:15:45.928000-04:00,2026-04-06T05:25:45.928000-04:00,1.17,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hat3d3,NA,Private
 3963655131849447240,,,75334893,Pallavi,2024-04-02T02:50:00-04:00,2024-04-02T02:57:00-04:00,0.12,False,NA,,NA,NA,NA,,NA,Private
 4099937312904465031,,,75400980,Abhishek Dwivedi,2024-07-01T06:30:45.206000-04:00,2024-07-01T08:30:45.206000-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4099969571246197450,,,75400980,Abhishek Dwivedi,2024-07-02T09:00:40.152000-04:00,2024-07-02T10:00:40.152000-04:00,1.0,False,NA,,NA,NA,NA,,NA,Private
@@ -10410,425 +10445,6 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4957113303157072898,,,75313143,Jean Claude Dione,2026-02-09T12:01:52.696000-05:00,2026-02-09T12:31:52.696000-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4979366689382231181,,,75313143,Jean Claude Dione,2026-03-03T20:28:23.873000-05:00,2026-03-03T20:58:23.873000-05:00,0.5,False,NA,"morning startup - emails, clickup messages, teams chat responses",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4632216181431487331,868a2kr5v,Monthly tasks,60845263,Namay Sharma,2025-07-07T10:15:38.996000-04:00,2025-07-07T10:15:41.603000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/868a2kr5v,NA,Private
-3836126461464037640,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-03T05:00:00-05:00,2024-01-03T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3836126727567460619,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-04T05:00:00-05:00,2024-01-04T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3836132326074108198,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-04T01:30:00-05:00,2024-01-04T02:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3836132788370295080,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-11T02:15:00-05:00,2024-01-11T03:15:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3840855141117481666,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-08T01:30:00-05:00,2024-01-08T02:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3840855463625904837,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-08T02:15:00-05:00,2024-01-08T03:00:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3840856640430166745,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-01-08T03:00:00-05:00,2024-01-08T04:30:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3840857248604246754,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-08T04:30:00-05:00,2024-01-08T05:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3840859706197955342,8684rz8gy,Traffic Tracker,60777490,Iftekhar Ahmed,2024-01-08T05:00:00-05:00,2024-01-08T07:30:00-05:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rz8gy,NA,Private
-3840861194538341173,85zrzzadk,Monthly Ranking Update,60777490,Iftekhar Ahmed,2024-01-08T07:45:00-05:00,2024-01-08T10:54:00-05:00,3.15,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrzzadk,NA,Private
-3852204611625188025,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-05T01:30:00-05:00,2024-01-05T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852207269404637897,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-05T05:00:00-05:00,2024-01-05T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3852211361401174748,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-08T02:30:00-05:00,2024-01-08T04:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852213330744343276,85zt3tj9c,link building (Chown Cairns Lawyers LLP),60777490,Iftekhar Ahmed,2024-01-08T04:00:00-05:00,2024-01-08T05:15:00-05:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zt3tj9c,NA,Private
-3852215237793708790,85zt3tj9c,link building (Chown Cairns Lawyers LLP),60777490,Iftekhar Ahmed,2024-01-09T04:00:00-05:00,2024-01-09T05:15:00-05:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zt3tj9c,NA,Private
-3852216523549211392,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-09T02:30:00-05:00,2024-01-09T04:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852218086162332428,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-01-09T01:30:00-05:00,2024-01-09T02:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3852219287511661333,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-10T01:30:00-05:00,2024-01-10T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852220912032709403,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-10T05:00:00-05:00,2024-01-10T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3852224048449354561,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-11T05:00:00-05:00,2024-01-11T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3852229425496750952,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-12T01:30:00-05:00,2024-01-12T02:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852229949482761066,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-12T02:15:00-05:00,2024-01-12T03:15:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852232627361315706,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-12T05:00:00-05:00,2024-01-12T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3852235558408059794,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-15T01:30:00-05:00,2024-01-15T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3852237549494500252,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-01-15T03:15:00-05:00,2024-01-15T04:30:00-05:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3852238817315158952,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-15T04:30:00-05:00,2024-01-15T05:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3853860429546289747,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-17T05:00:00-05:00,2024-01-17T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3853860733834656343,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-16T05:00:00-05:00,2024-01-16T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3855338712729284429,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-18T01:30:00-05:00,2024-01-18T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3855339231715684181,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-18T02:45:00-05:00,2024-01-18T03:45:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3855341514708905866,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-18T03:45:00-05:00,2024-01-18T04:15:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3856785712981107322,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-19T01:30:00-05:00,2024-01-19T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3856786469650326149,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-19T03:00:00-05:00,2024-01-19T03:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3856790276367082189,85zrz6696,Friday Meeting,60777490,Iftekhar Ahmed,2024-01-19T05:30:00-05:00,2024-01-19T06:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrz6696,NA,Private
-3861110405611544919,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-22T02:30:00-05:00,2024-01-22T03:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3861110893190996320,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-22T01:30:00-05:00,2024-01-22T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3861113062803792276,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-01-22T03:30:00-05:00,2024-01-22T05:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3861114081868669359,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-22T05:00:00-05:00,2024-01-22T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3861116946561524203,86873jpe6,Link building Data June - December 2023,60777490,Iftekhar Ahmed,2024-01-22T05:30:00-05:00,2024-01-22T08:30:00-05:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86873jpe6,NA,Private
-3864086674703799457,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-23T05:00:00-05:00,2024-01-23T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3864087496351175866,85zryr516,GMB Profile Posts and Images,60777490,Iftekhar Ahmed,2024-01-23T01:30:00-05:00,2024-01-23T03:30:00-05:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryr516,NA,Private
-3864091462015276296,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-24T05:00:00-05:00,2024-01-24T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3865480777903523079,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-25T01:30:00-05:00,2024-01-25T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3865480995436905738,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-25T02:30:00-05:00,2024-01-25T03:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3865481637987501340,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-25T03:30:00-05:00,2024-01-25T04:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3872759937885696166,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-29T01:30:00-05:00,2024-01-29T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3872760290727325869,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-30T01:30:00-05:00,2024-01-30T02:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3872760881402769593,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-01-29T02:30:00-05:00,2024-01-29T03:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3872762769309331677,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-01-29T03:30:00-05:00,2024-01-29T04:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3872764411530342661,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-29T04:30:00-05:00,2024-01-29T05:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3872767762997342536,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-30T05:00:00-05:00,2024-01-30T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3875865159646475601,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-01T05:00:00-05:00,2024-02-01T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3875865757854889315,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-01-31T05:00:00-05:00,2024-01-31T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3882416489638807038,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-02T01:30:00-05:00,2024-02-02T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3882417138396972543,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-05T01:30:00-05:00,2024-02-05T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3882417418140272128,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-05T02:30:00-05:00,2024-02-05T03:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3882423994070746643,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-02-05T03:30:00-05:00,2024-02-05T04:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3882424798890575382,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-05T04:30:00-05:00,2024-02-05T05:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3882425863220381210,85zt3tj9c,link building (Chown Cairns Lawyers LLP),60777490,Iftekhar Ahmed,2024-02-05T05:00:00-05:00,2024-02-05T10:30:00-05:00,5.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zt3tj9c,NA,Private
-3884326649080728998,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-07T05:30:00-05:00,2024-02-07T08:30:00-05:00,3.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3884328037764451777,85zt3tj9c,link building (Chown Cairns Lawyers LLP),60777490,Iftekhar Ahmed,2024-02-07T08:30:00-05:00,2024-02-07T10:34:00-05:00,2.07,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zt3tj9c,NA,Private
-3884328879376715211,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-07T05:00:00-05:00,2024-02-07T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3884332503943237126,8684rt181,Guest post sites Research,60777490,Iftekhar Ahmed,2024-02-07T01:30:00-05:00,2024-02-07T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt181,NA,Private
-3887282427823554172,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-09T01:30:00-05:00,2024-02-09T05:00:00-05:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3887283491918478994,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-09T05:30:00-05:00,2024-02-09T08:00:00-05:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3887284565828075172,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-09T08:00:00-05:00,2024-02-09T09:30:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3895986094844041992,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-15T05:00:00-05:00,2024-02-15T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3895987177226132253,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-15T08:30:00-05:00,2024-02-15T10:30:00-05:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3902851925947346760,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-02-19T02:00:00-05:00,2024-02-19T03:00:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3902852913269731146,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-19T03:00:00-05:00,2024-02-19T05:00:00-05:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3902853571137924939,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-19T05:00:00-05:00,2024-02-19T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3902861388766932834,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-12T05:00:00-05:00,2024-02-12T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3902862035528609637,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-14T05:00:00-05:00,2024-02-14T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3902862507001933673,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-16T05:00:00-05:00,2024-02-16T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3906122109550227637,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-12T01:30:00-05:00,2024-02-12T05:00:00-05:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3906122621490196669,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-14T01:30:00-05:00,2024-02-14T05:00:00-05:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3906122853787529408,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-16T01:30:00-05:00,2024-02-16T05:00:00-05:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3906123940011602133,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-12T05:30:00-05:00,2024-02-12T10:30:00-05:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3906124721007784159,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-02-14T05:30:00-05:00,2024-02-14T10:30:00-05:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3906127072569487627,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-16T05:30:00-05:00,2024-02-16T10:30:00-05:00,5.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3907525884613648821,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-23T01:30:00-05:00,2024-02-23T03:30:00-05:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3907529961242255863,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-23T05:00:00-05:00,2024-02-23T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3907530235398742526,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-20T05:00:00-05:00,2024-02-20T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3907530512189252100,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-21T05:00:00-05:00,2024-02-21T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3907530794264584711,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-22T05:00:00-05:00,2024-02-22T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3914787140085111913,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-26T01:30:00-05:00,2024-02-26T02:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3914787634476113017,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-02-26T02:30:00-05:00,2024-02-26T03:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3914790714907188401,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-26T05:00:00-05:00,2024-02-26T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3914791566518672590,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-27T05:00:00-05:00,2024-02-27T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3914791909394635993,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-02-28T05:00:00-05:00,2024-02-28T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3914804084553178607,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-02-26T09:30:00-05:00,2024-02-26T10:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3914826106796662724,8687fxvat,Fill Local citation data on Link Building - Master Sheet 2024,60777490,Iftekhar Ahmed,2024-02-28T02:30:00-05:00,2024-02-28T05:00:00-05:00,2.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687fxvat,NA,Private
-3914826828418277335,8687fxvat,Fill Local citation data on Link Building - Master Sheet 2024,60777490,Iftekhar Ahmed,2024-02-28T05:30:00-05:00,2024-02-28T10:00:00-05:00,4.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687fxvat,NA,Private
-3922059675147328134,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-03-04T01:30:00-05:00,2024-03-04T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3922063334392355532,8684rt181,Guest post sites Research,60777490,Iftekhar Ahmed,2024-03-04T09:30:00-05:00,2024-03-04T10:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt181,NA,Private
-3922064267490777829,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-04T05:00:00-05:00,2024-03-04T17:30:00-05:00,12.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3924522804666072973,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-05T01:30:00-05:00,2024-03-05T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3924524711178567570,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-05T05:00:00-05:00,2024-03-05T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3924530701416431517,8684rt181,Guest post sites Research,60777490,Iftekhar Ahmed,2024-03-05T08:30:00-05:00,2024-03-05T10:30:00-05:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt181,NA,Private
-3926352175689254158,8687fxvat,Fill Local citation data on Link Building - Master Sheet 2024,60777490,Iftekhar Ahmed,2024-03-06T01:30:00-05:00,2024-03-06T02:15:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687fxvat,NA,Private
-3926358122709009773,8687fxvat,Fill Local citation data on Link Building - Master Sheet 2024,60777490,Iftekhar Ahmed,2024-03-06T02:30:00-05:00,2024-03-06T04:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687fxvat,NA,Private
-3926358825439479165,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-07T03:30:00-05:00,2024-03-07T16:30:00-05:00,13.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3926359175428982151,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-06T03:30:00-05:00,2024-03-06T05:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3926359670390408595,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-06T05:00:00-05:00,2024-03-06T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3926360196993664412,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-07T05:00:00-05:00,2024-03-07T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3926366872530470397,8684rt181,Guest post sites Research,60777490,Iftekhar Ahmed,2024-03-07T01:30:00-05:00,2024-03-07T05:00:00-05:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt181,NA,Private
-3933001857664444863,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-03-11T02:30:00-04:00,2024-03-11T03:15:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3933002250603620803,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-03-11T03:30:00-04:00,2024-03-11T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3933006410698877388,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-11T04:00:00-04:00,2024-03-11T05:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3942271093326898963,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-12T09:30:00-04:00,2024-03-12T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3942278660404963309,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-13T09:30:00-04:00,2024-03-13T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3942289965513861330,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-15T07:30:00-04:00,2024-03-15T09:30:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3942290881482746091,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-18T02:30:00-04:00,2024-03-18T03:15:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3942291940930382083,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-03-18T03:30:00-04:00,2024-03-18T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3943358968244098309,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-03-18T04:00:00-04:00,2024-03-18T05:15:00-04:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3943362519980725514,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-18T05:15:00-04:00,2024-03-18T05:45:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3946445199337213301,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-19T06:00:00-04:00,2024-03-19T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3946446033299066240,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-20T06:00:00-04:00,2024-03-20T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3946463541632585338,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-20T06:00:00-04:00,2024-03-20T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3953355085111262506,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-21T09:30:00-04:00,2024-03-21T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3953375042968649026,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-22T09:30:00-04:00,2024-03-22T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3956654577940065115,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-03-26T07:30:00-04:00,2024-03-26T09:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3963618756748007172,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-03-28T09:30:00-04:00,2024-03-28T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3963622799184647948,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-04-01T01:00:00-04:00,2024-04-01T02:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-3963623827728652047,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-04-01T02:30:00-04:00,2024-04-01T03:15:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3963629924300511014,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-01T09:30:00-04:00,2024-04-01T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3963633507561527081,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-01T09:30:00-04:00,2024-04-01T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3967855949502892180,85zt3tj9c,link building (Chown Cairns Lawyers LLP),60777490,Iftekhar Ahmed,2024-04-02T01:00:00-04:00,2024-04-02T09:00:00-04:00,8.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zt3tj9c,NA,Private
-3967864938466789539,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-02T09:30:00-04:00,2024-04-02T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3967866746262145190,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-03T09:30:00-04:00,2024-04-03T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3967876876764596412,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-04T09:30:00-04:00,2024-04-04T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3975126046063873295,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-04-08T01:00:00-04:00,2024-04-08T03:15:00-04:00,2.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3975128667084442900,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-04-08T03:30:00-04:00,2024-04-08T04:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3975132201775418649,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-04-08T04:30:00-04:00,2024-04-08T09:10:00-04:00,4.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3975133454546914589,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-08T09:10:00-04:00,2024-04-08T09:40:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3975134038981233950,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-04-08T09:40:00-04:00,2024-04-08T10:00:00-04:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3975140560352202024,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-04-09T01:00:00-04:00,2024-04-09T05:00:00-04:00,4.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3975143487405968690,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-09T09:15:00-04:00,2024-04-09T09:45:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3982720667166069406,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-04-12T02:30:00-04:00,2024-04-12T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3982722771330945734,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-12T06:00:00-04:00,2024-04-12T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3983860424550010722,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-04-15T02:30:00-04:00,2024-04-15T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-3983861750151401315,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-04-15T04:00:00-04:00,2024-04-15T05:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-3983892510539403160,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-10T09:30:00-04:00,2024-04-10T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3983895727033700252,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-04-05T13:00:00-04:00,2024-04-06T02:30:00-04:00,13.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-3983905660621967270,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-04-05T01:00:00-04:00,2024-04-05T06:30:00-04:00,5.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3983907614647537576,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-04-05T07:30:00-04:00,2024-04-05T09:30:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-3983909085187297197,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-05T09:30:00-04:00,2024-04-05T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3985702661164521403,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-16T05:00:00-04:00,2024-04-16T05:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3987240989550599052,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-04-17T10:00:00-04:00,2024-04-17T11:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-3987241616531938197,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-17T06:00:00-04:00,2024-04-17T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3993998103270806564,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-18T05:00:00-04:00,2024-04-18T05:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3994001616772158511,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-19T06:00:00-04:00,2024-04-19T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3994010834610836543,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-04-22T02:30:00-04:00,2024-04-22T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-3994013780455085123,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-22T05:00:00-04:00,2024-04-22T05:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3994022731301147728,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-04-23T03:47:25.669000-04:00,2024-04-23T03:47:28.221000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-3998630941282684927,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-23T06:00:00-04:00,2024-04-23T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3998631284158648323,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-24T06:00:00-04:00,2024-04-24T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-3998631606432190471,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-25T06:00:00-04:00,2024-04-25T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012924040305592798,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-04-26T10:00:00-04:00,2024-04-26T11:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4012926362322618851,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-26T06:00:00-04:00,2024-04-26T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012927704147577316,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-04-29T02:30:00-04:00,2024-04-29T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4012929419013933544,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-04-29T03:30:00-04:00,2024-04-29T04:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4012929836548508138,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-29T04:30:00-04:00,2024-04-29T05:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012932924579662328,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-04-30T06:00:00-04:00,2024-04-30T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012934326248950268,85zt3tj9c,link building (Chown Cairns Lawyers LLP),60777490,Iftekhar Ahmed,2024-05-01T02:30:00-04:00,2024-05-01T06:00:00-04:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zt3tj9c,NA,Private
-4012934915498330621,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-01T06:00:00-04:00,2024-05-01T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012951586648771123,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-09T06:00:00-04:00,2024-05-09T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012953693850323514,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-03T06:00:00-04:00,2024-05-03T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4012954360794991165,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-05-03T06:30:00-04:00,2024-05-03T08:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4019122208089202409,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-05-06T05:30:00-04:00,2024-05-06T11:30:00-04:00,6.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-4019123788100296457,86879a32u,Update Traffic Tracker,60777490,Iftekhar Ahmed,2024-05-07T02:30:00-04:00,2024-05-07T06:00:00-04:00,3.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/86879a32u,NA,Private
-4019125299542908716,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-05-06T02:30:00-04:00,2024-05-06T03:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4019126391437680456,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-05-06T03:30:00-04:00,2024-05-06T05:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4019126878195048274,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-06T05:00:00-04:00,2024-05-06T05:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4019127107908689749,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-07T06:00:00-04:00,2024-05-07T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4024434500062303509,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-08T06:00:00-04:00,2024-05-08T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4024439895682077990,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-09T06:00:00-04:00,2024-05-09T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4024442775558313266,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-05-10T06:30:00-04:00,2024-05-10T08:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4024458502067606855,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-05-13T05:00:00-04:00,2024-05-13T06:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4024459764787991880,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-13T06:00:00-04:00,2024-05-13T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4024460564725650761,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-05-13T06:30:00-04:00,2024-05-13T08:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4034588629061485784,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-14T06:00:00-04:00,2024-05-14T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4034595342833566956,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-15T06:00:00-04:00,2024-05-15T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4034598828904170738,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-16T06:00:00-04:00,2024-05-16T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4034609045087864099,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-24T04:00:00-04:00,2024-05-24T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4034613227563926825,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-05-17T09:30:00-04:00,2024-05-17T11:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4034613606175360298,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-05-20T02:30:00-04:00,2024-05-20T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4034615404541920557,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-05-20T04:00:00-04:00,2024-05-20T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4034615769245041967,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-20T04:30:00-04:00,2024-05-20T05:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4044756975107071202,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-05-24T06:30:00-04:00,2024-05-24T08:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4044757369791077604,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-05-27T06:30:00-04:00,2024-05-27T08:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4044758233280830695,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-05-27T05:00:00-04:00,2024-05-27T06:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4044758925324213480,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-21T06:00:00-04:00,2024-05-21T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4044759205705047273,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-22T06:00:00-04:00,2024-05-22T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4044759472395672812,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-23T06:00:00-04:00,2024-05-23T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4044759808443309295,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-24T06:00:00-04:00,2024-05-24T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4044760124458949873,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-27T06:00:00-04:00,2024-05-27T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4049097297492595294,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-28T06:00:00-04:00,2024-05-28T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4049097655669379680,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-29T06:00:00-04:00,2024-05-29T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4049098018476675681,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-05-30T06:00:00-04:00,2024-05-30T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4065172936574268712,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-06-03T02:30:00-04:00,2024-06-03T04:30:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4065181072215405892,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-06-03T04:30:00-04:00,2024-06-03T05:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4077083118065580215,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-06-18T06:00:00-04:00,2024-06-18T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4087078222192865081,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-06-24T05:30:00-04:00,2024-06-24T07:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4087079687179366221,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-06-24T07:00:00-04:00,2024-06-24T08:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4087104945361940656,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-06-24T06:00:40.886000-04:00,2024-06-24T06:30:40.886000-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4087105249331540149,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-06-25T06:00:00-04:00,2024-06-25T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4087105551136878775,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-06-26T06:00:00-04:00,2024-06-26T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4098385189066665696,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-02T05:30:00-04:00,2024-07-02T06:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4098385494881758946,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-03T06:00:00-04:00,2024-07-03T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4124729566286216592,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-07-12T05:30:00-04:00,2024-07-12T06:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4124729935955393938,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-07-12T06:30:00-04:00,2024-07-12T07:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4124736289956855259,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-07-15T05:30:00-04:00,2024-07-15T07:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4124765903387262860,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-12T06:00:00-04:00,2024-07-12T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4124766159072034705,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-16T06:00:00-04:00,2024-07-16T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4124766834187206556,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-17T06:00:00-04:00,2024-07-17T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4124767056686645155,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-18T06:00:00-04:00,2024-07-18T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4134800030094228906,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-07-22T07:30:00-04:00,2024-07-22T08:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4134800864911719854,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-07-22T05:30:00-04:00,2024-07-22T07:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4134803242830429627,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-07-26T09:00:00-04:00,2024-07-26T10:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4134807400962751949,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-23T06:00:00-04:00,2024-07-23T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4134807618865233358,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-24T06:00:00-04:00,2024-07-24T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4134808449253539282,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-25T06:00:00-04:00,2024-07-25T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4134808646553599444,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-26T06:00:00-04:00,2024-07-26T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4134809046757309911,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-19T06:00:00-04:00,2024-07-19T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4146470014549643208,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-07-29T05:30:00-04:00,2024-07-29T06:30:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4146470962982440916,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-07-31T04:00:00-04:00,2024-07-31T06:00:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4146525435499008644,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-01T10:00:00-04:00,2024-08-01T11:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4146570728982599190,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-02T02:30:00-04:00,2024-08-02T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4155124002505509271,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-07-31T06:00:00-04:00,2024-07-31T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4155124222622583196,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-08-01T06:00:00-04:00,2024-08-01T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4155124459181328800,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-08-02T06:00:00-04:00,2024-08-02T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4155155227773389465,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-05T05:30:00-04:00,2024-08-05T07:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4155160308249938686,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-08-05T07:00:00-04:00,2024-08-05T07:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4167023004247285230,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-12T05:30:00-04:00,2024-08-12T07:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4167024933425798675,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-08-12T07:00:00-04:00,2024-08-12T08:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4167085267700310906,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-14T04:30:00-04:00,2024-08-14T06:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4176602698567272774,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-23T02:30:00-04:00,2024-08-23T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4186748014075472258,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-08-27T09:30:00-04:00,2024-08-27T11:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4186854254420060775,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-08-27T06:00:00-04:00,2024-08-27T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4186854621589432937,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-08-28T06:00:00-04:00,2024-08-28T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4186854912925788780,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-08-29T06:00:00-04:00,2024-08-29T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4186855262999177839,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-27T04:00:00-04:00,2024-09-27T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4197038960532946470,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-03T06:00:00-04:00,2024-09-03T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4197039147766677031,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-04T06:00:00-04:00,2024-09-04T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4197039395532602921,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-05T06:00:00-04:00,2024-09-05T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4215819232174823074,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-16T06:00:00-04:00,2024-09-16T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4215820319808181926,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-17T06:00:00-04:00,2024-09-17T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4215820895669343912,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-18T06:00:00-04:00,2024-09-18T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4215821898611316395,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-26T06:00:00-04:00,2024-09-26T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4215822324417058477,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-09-20T06:00:00-04:00,2024-09-20T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4247754615233871195,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-07T05:30:00-04:00,2024-10-07T06:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4247755081221045597,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-08T06:00:00-04:00,2024-10-08T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4247755258153565534,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-09T06:00:00-04:00,2024-10-09T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4247755765580463456,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-09T06:00:00-04:00,2024-10-09T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4247756084599225697,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-10T06:00:00-04:00,2024-10-10T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4266615328526196881,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-21T06:00:00-04:00,2024-10-21T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4266617309563084948,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-22T06:00:00-04:00,2024-10-22T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4266617868378595477,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-23T06:00:00-04:00,2024-10-23T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4266618187514798230,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-10-24T06:00:00-04:00,2024-10-24T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4278119526136697537,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-10-28T02:30:00-04:00,2024-10-28T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4278119927816803010,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-11-04T01:30:00-05:00,2024-11-04T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4278121481655440072,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-10-28T04:00:00-04:00,2024-10-28T05:00:00-04:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4278121649645703883,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-11-04T03:00:00-05:00,2024-11-04T04:00:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4297087440336341358,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-11-11T09:00:00-05:00,2024-11-11T10:30:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4297089324551915893,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2024-11-12T02:30:00-05:00,2024-11-12T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4297115770662046161,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-11-12T09:30:00-05:00,2024-11-12T10:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4297173653500086962,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-11T05:00:00-05:00,2024-11-11T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4297174047798217395,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-12T05:00:00-05:00,2024-11-12T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4297175149323111094,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-13T05:00:00-05:00,2024-11-13T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4297175619051604664,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-14T05:00:00-05:00,2024-11-14T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4308502443874476671,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-11-26T01:34:56.278000-05:00,2024-11-26T02:32:42.565000-05:00,0.96,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4308561067745370870,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2024-11-26T02:33:10.756000-05:00,2024-11-26T03:04:49.670000-05:00,0.53,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4308606267645649748,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-11-26T03:18:04.921000-05:00,2024-11-26T03:53:40.562000-05:00,0.59,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4318817034261127978,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-04T05:00:00-05:00,2024-11-04T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318817527125402413,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-05T05:00:00-05:00,2024-11-05T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318817833393480497,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-06T05:00:00-05:00,2024-11-06T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318818689820025651,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-07T05:00:00-05:00,2024-11-07T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318819032326890293,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-08T05:00:00-05:00,2024-11-08T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318965610450675347,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-15T05:00:00-05:00,2024-11-15T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318965803220887188,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-18T05:00:00-05:00,2024-11-18T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318966121803441813,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-19T05:00:00-05:00,2024-11-19T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318975939612141267,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-20T05:00:00-05:00,2024-11-20T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318976185549350613,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-21T05:00:00-05:00,2024-11-21T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4318976427778795223,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-22T05:00:00-05:00,2024-11-22T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4319034335598111021,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-25T05:00:00-05:00,2024-11-25T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4319034576284051758,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-26T05:00:00-05:00,2024-11-26T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4319034956120222004,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-27T05:00:00-05:00,2024-11-27T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4319035189692623158,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-28T05:00:00-05:00,2024-11-28T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4319035467640760639,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-11-29T05:00:00-05:00,2024-11-29T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4321580426235376826,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-11-08T10:00:00-05:00,2024-11-08T10:45:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4321582647874319552,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-11-15T09:30:00-05:00,2024-11-15T10:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4321584020250588359,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-11-18T09:06:00-05:00,2024-11-18T10:30:00-05:00,1.4,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4321585648043193549,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2024-11-25T09:00:00-05:00,2024-11-25T10:39:00-05:00,1.65,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4338047133330070744,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-12-16T01:30:00-05:00,2024-12-16T02:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4338048297182321908,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2024-12-16T03:00:00-05:00,2024-12-16T03:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4338049199209340186,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2024-12-16T02:30:00-05:00,2024-12-16T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4338057766880566798,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-12-16T05:00:00-05:00,2024-12-16T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4342398723813950623,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2024-12-17T03:00:00-05:00,2024-12-17T03:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4391192417022931271,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-01-20T04:30:00-05:00,2025-01-20T05:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4391193776010981709,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-01-20T05:30:00-05:00,2025-01-20T06:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4392517715517653614,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-01-20T05:00:00-05:00,2025-01-20T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4392517975396729457,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-01-21T01:30:00-05:00,2025-01-21T02:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4392518171119731314,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-01-22T01:30:00-05:00,2025-01-22T02:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4399875898166890195,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-01-27T05:00:00-05:00,2025-01-27T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4429070391726195239,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-02-17T01:30:00-05:00,2025-02-17T03:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4429071407452406323,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-02-17T03:30:00-05:00,2025-02-17T04:30:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4429073070259061307,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2025-02-17T04:30:00-05:00,2025-02-17T05:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4429073554885722692,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-17T05:00:00-05:00,2025-02-17T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4429074573715718738,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-17T03:00:00-05:00,2025-02-17T03:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4436577438965325207,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-18T05:00:00-05:00,2025-02-18T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4436577980886179224,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-19T05:00:00-05:00,2025-02-19T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4436578275577978266,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-20T05:00:00-05:00,2025-02-20T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4436579145946389917,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-20T05:00:00-05:00,2025-02-20T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4436579580644056478,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-21T05:00:00-05:00,2025-02-21T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4436582340982627749,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-18T02:30:00-05:00,2025-02-18T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4436582737109474727,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-18T09:00:00-05:00,2025-02-18T10:00:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4436614890056736230,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-02-20T03:00:00-05:00,2025-02-20T05:00:00-05:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4438333272934212425,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-21T03:00:00-05:00,2025-02-21T03:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4438333593681027920,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-21T10:00:00-05:00,2025-02-21T10:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448407005313003140,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-24T05:00:00-05:00,2025-02-24T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4448407729736412812,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-25T05:00:00-05:00,2025-02-25T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4448409249114648209,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-26T05:00:00-05:00,2025-02-26T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4448409539796692626,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-27T05:00:00-05:00,2025-02-27T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4448410299049602710,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-02-28T05:00:00-05:00,2025-02-28T05:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4448413240800210591,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-24T02:30:00-05:00,2025-02-24T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448413503917289121,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-25T02:30:00-05:00,2025-02-25T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448413748747202211,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-26T02:30:00-05:00,2025-02-26T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448413982286048932,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-27T02:30:00-05:00,2025-02-27T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448414458893201061,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-28T02:30:00-05:00,2025-02-28T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448416167166111399,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-25T09:00:00-05:00,2025-02-25T09:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448416689860275881,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-02-27T09:00:00-05:00,2025-02-27T09:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4448449417125195494,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-02-25T03:15:00-05:00,2025-02-25T05:00:00-05:00,1.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4448450883168661224,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2025-02-25T05:30:00-05:00,2025-02-25T06:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4469586869025917007,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-03-10T09:30:00-04:00,2025-03-10T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4469587306089171026,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-03-11T09:30:00-04:00,2025-03-11T10:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4469588817598892118,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-03-12T09:15:00-04:00,2025-03-12T09:45:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4469589762089044055,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-03-13T09:15:00-04:00,2025-03-13T09:45:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4469592235101014113,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-03-11T09:00:00-04:00,2025-03-11T09:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4469592654548191330,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-03-12T03:30:00-04:00,2025-03-12T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4492633330021984904,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-04-01T02:30:00-04:00,2025-04-01T04:30:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4492634150394292874,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2025-04-01T04:30:00-04:00,2025-04-01T05:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4492638341862943387,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-04-01T06:00:00-04:00,2025-04-01T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4494079271010715356,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-04-02T06:00:00-04:00,2025-04-02T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4540579457320774700,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-01T06:00:00-04:00,2025-05-01T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4540579832425770030,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-02T06:00:00-04:00,2025-05-02T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4543956442348673639,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-07T06:00:00-04:00,2025-05-07T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4543956616798165614,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-05T06:00:00-04:00,2025-05-05T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4543956784318667382,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-06T06:00:00-04:00,2025-05-06T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4546822207670207299,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-05-09T03:45:00-04:00,2025-05-09T04:15:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4546836580862150015,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-09T06:00:00-04:00,2025-05-09T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4546837083658536336,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-08T06:00:00-04:00,2025-05-08T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4553500412623866016,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-12T06:00:00-04:00,2025-05-12T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4553501386960685220,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-13T06:00:00-04:00,2025-05-13T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4553502650201163942,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-05-12T02:30:00-04:00,2025-05-12T04:30:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4553504227376908458,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2025-05-12T11:30:00-04:00,2025-05-12T11:47:00-04:00,0.28,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4562224131034740295,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-19T06:00:00-04:00,2025-05-19T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4565145761566322347,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-05-21T03:30:00-04:00,2025-05-21T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4565151396529860305,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-20T06:00:00-04:00,2025-05-20T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4565151684510772946,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-05-21T06:00:00-04:00,2025-05-21T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4581481690144852116,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2025-05-28T08:00:00-04:00,2025-05-28T10:00:00-04:00,2.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4647721903619457288,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-07-16T04:00:00-04:00,2025-07-16T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4654965085130357241,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-07-21T04:00:00-04:00,2025-07-21T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4654967056772004359,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-07-22T09:00:00-04:00,2025-07-22T09:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4654967425468103176,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-07-22T10:00:00-04:00,2025-07-22T10:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4654968436479916560,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-21T07:00:00-04:00,2025-07-21T07:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4654968799673088534,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-22T07:00:00-04:00,2025-07-22T07:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4658403613935821186,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-25T06:45:00-04:00,2025-07-25T07:15:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4662531632464024022,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-28T05:39:00-04:00,2025-07-28T06:10:00-04:00,0.52,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4662532386096566759,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-07-28T04:00:00-04:00,2025-07-28T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4665786731672006177,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-30T14:04:59.086000-04:00,2025-07-30T14:05:02.129000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4665787599909711421,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-29T06:45:00-04:00,2025-07-29T07:15:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4665788333174713932,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-07-30T06:20:00-04:00,2025-07-30T06:50:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4668021516150660857,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-07-31T02:30:00-04:00,2025-07-31T04:00:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4668029366478462739,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-07-31T09:00:00-04:00,2025-07-31T09:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4673852709714684017,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-05T03:37:49.525000-04:00,2025-08-05T03:37:53.295000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4673853512487692403,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-04T06:00:00-04:00,2025-08-04T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4673855361823434871,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-08-04T04:00:00-04:00,2025-08-04T04:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4675652808774154203,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-05T06:45:00-04:00,2025-08-05T07:15:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4682786259071550714,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-06T06:15:00-04:00,2025-08-06T06:45:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4682786755710698752,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-07T06:00:00-04:00,2025-08-07T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4682787852068209939,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-08-07T09:00:00-04:00,2025-08-07T09:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4682795614869276033,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-08T06:00:00-04:00,2025-08-08T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4687342177524275394,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-08-11T03:30:00-04:00,2025-08-11T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4687342489060399318,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-08-13T03:30:00-04:00,2025-08-13T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4687343646067546365,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-11T05:30:00-04:00,2025-08-11T06:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4687344005485844751,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-12T05:30:00-04:00,2025-08-12T06:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4687344302979438875,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-13T05:30:00-04:00,2025-08-13T06:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4704526766927668410,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-08-25T03:30:00-04:00,2025-08-25T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4704527782855206083,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-25T06:00:00-04:00,2025-08-25T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4705993115000536489,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-26T06:00:00-04:00,2025-08-26T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4708994098861328864,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-27T06:15:00-04:00,2025-08-27T06:45:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4714729601376084952,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-08-29T03:30:00-04:00,2025-08-29T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4714749141279466971,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-08-29T06:00:00-04:00,2025-08-29T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4717698668244396378,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-09-01T06:00:00-04:00,2025-09-01T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4717699117974448487,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-09-02T06:00:00-04:00,2025-09-02T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4717702533496859085,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-09-02T03:30:00-04:00,2025-09-02T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4733637589172118099,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-09-03T06:00:00-04:00,2025-09-03T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4733637780398826071,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-09-04T06:00:00-04:00,2025-09-04T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4733638056887345755,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-09-05T06:00:00-04:00,2025-09-05T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4733638387666936422,8684rt2ge,Lunch Break,60777490,Iftekhar Ahmed,2025-09-08T06:00:00-04:00,2025-09-08T06:30:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
-4733639341099344530,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-09-04T09:00:00-04:00,2025-09-04T09:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4733639660000666269,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-09-08T03:30:00-04:00,2025-09-08T04:00:00-04:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4736260764708000135,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-09-15T09:00:00-04:00,2025-09-15T10:30:00-04:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4736265114671010205,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-09-11T09:00:00-04:00,2025-09-11T09:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4743741152565031127,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-09-22T08:45:44.245000-04:00,2025-09-22T08:45:46.581000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4753962238074310226,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-09-25T09:00:00-04:00,2025-09-25T09:45:00-04:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4858327016263013535,85zrym034,India Huddle,60777490,Iftekhar Ahmed,2025-12-10T02:30:00-05:00,2025-12-10T03:00:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrym034,NA,Private
-4871295931066765140,85zrydjhy,GMB Post,60777490,Iftekhar Ahmed,2025-12-18T07:15:00-05:00,2025-12-18T08:30:00-05:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
-4877077287759674788,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2025-12-19T08:30:00-05:00,2025-12-19T09:45:00-05:00,1.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4877085125202574846,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2025-12-22T10:00:00-05:00,2025-12-22T10:40:00-05:00,0.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4906277691277865694,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2026-01-12T10:00:00-05:00,2026-01-12T10:45:00-05:00,0.75,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4918796166504274951,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2026-01-20T07:00:00-05:00,2026-01-20T08:00:00-05:00,1.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4951082024984805306,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2026-02-06T09:00:00-05:00,2026-02-06T10:30:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4951086454220144660,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2026-02-06T09:00:00-05:00,2026-02-06T10:30:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4956641922208398564,85zryj520,GMBs Posts and Image Update,60777490,Iftekhar Ahmed,2026-02-16T03:00:00-05:00,2026-02-16T04:40:00-05:00,1.67,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
-4956658912562150713,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2026-02-16T04:40:00-05:00,2026-02-16T05:00:00-05:00,0.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
-4966726380865354432,868hhnbhu,GMB Posts & Images Update,60777490,Iftekhar Ahmed,2026-02-22T23:40:00-05:00,2026-02-23T01:00:00-05:00,1.33,False,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
-4966728910131329744,85zrv6gfm,Update Variance,60777490,Iftekhar Ahmed,2026-02-23T01:00:00-05:00,2026-02-23T01:30:00-05:00,0.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 3831858770750371962,85zrvcun8,Huddle,60777487,Pankaj Kumar,2024-01-02T02:00:00-05:00,2024-01-02T02:15:00-05:00,0.25,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrvcun8,NA,Private
 3831859355553790076,85zrv6gfm,Update Variance,60777487,Pankaj Kumar,2024-01-02T02:20:00-05:00,2024-01-02T03:45:00-05:00,1.42,False,NA,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 3832234699238557921,86850x742,Miscellaneous Task,60777487,Pankaj Kumar,2024-01-02T05:15:00-05:00,2024-01-02T07:10:00-05:00,1.92,False,NA,Jan'24 Paid Content Request,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
@@ -13166,6 +12782,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5022152935061735537,85zryj520,GMBs Posts and Image Update,60765308,Harish Kewat,2026-04-02T10:12:00-04:00,2026-04-02T10:22:00-04:00,0.17,True,NA,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private
 5027498291001707327,868hkmjke,Update Variance,60765308,Harish Kewat,2026-04-06T02:08:05.249000-04:00,2026-04-06T02:53:05.249000-04:00,0.75,True,NA,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5027545398169455581,868hat3d3,Growth Report Update,60765308,Harish Kewat,2026-04-06T02:09:53.192000-04:00,2026-04-06T03:39:53.192000-04:00,1.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/868hat3d3,NA,Private
+5027656962763541823,868hhnbhu,GMB Posts & Images Update,60765308,Harish Kewat,2026-04-06T04:00:42.479000-04:00,2026-04-06T05:30:42.479000-04:00,1.5,True,NA,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 3942612539452048844,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:35:59.453000-04:00,2024-03-18T16:36:04.612000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612646926894544,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:05.867000-04:00,2024-03-18T16:36:08.131000-04:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612755962021332,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:12.359000-04:00,2024-03-18T16:36:45.104000-04:00,0.01,False,NA,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
@@ -14842,6 +14459,9 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 4978639847469768009,,,60765293,Olivia Impaz,2026-03-03T08:56:35.776000-05:00,2026-03-03T08:56:41.194000-05:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4982974748784490401,,,60765293,Olivia Impaz,2026-03-06T08:42:56.202000-05:00,2026-03-06T08:43:01.090000-05:00,0.0,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5021009309774532450,,,60765293,Olivia Impaz,2026-04-01T15:26:53.785000-04:00,2026-04-01T16:04:58.698000-04:00,0.63,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5027973443955091523,,,60765293,Olivia Impaz,2026-04-06T10:45:08.562000-04:00,2026-04-06T11:21:07.175000-04:00,0.6,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5028055120089871393,,,60765293,Olivia Impaz,2026-04-06T12:06:16.375000-04:00,2026-04-06T12:40:57.624000-04:00,0.58,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5028253003074391558,,,60765293,Olivia Impaz,2026-04-06T15:22:52.963000-04:00,2026-04-06T15:43:08.925000-04:00,0.34,False,NA,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 3833542025425874504,86857gar2,Post SMCs,60762089,Veronique Deshaies,2024-01-02T09:00:00-05:00,2024-01-02T09:20:00-05:00,0.33,False,NA,Post remainder of SMCs,NA,NA,NA,https://app.clickup.com/t/86857gar2,NA,Private
 3833555215706648401,8684tjt9a,Review content,60762089,Veronique Deshaies,2024-01-02T12:15:00-05:00,2024-01-02T12:50:00-05:00,0.58,False,NA,Review and share content for City Beautiful,NA,NA,NA,https://app.clickup.com/t/8684tjt9a,NA,Private
 3840769802617113396,8684tjt9a,Review content,60762089,Veronique Deshaies,2024-01-03T14:30:00-05:00,2024-01-03T16:00:00-05:00,1.5,False,NA,,NA,NA,NA,https://app.clickup.com/t/8684tjt9a,NA,Private

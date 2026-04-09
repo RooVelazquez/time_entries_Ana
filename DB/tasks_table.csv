@@ -9,7 +9,10 @@ task_id,tasks_project_id,tasks_project_name
 868hzj3ff,90080566786,First Impression Signs
 868hybp5j,90116361634,InceptionPoint Signworks
 868hwq8wb,90117830855,hidden
+868hu6w9f,90117830855,hidden
+868hu6w4w,90117830855,hidden
 868htmc0b,90116989824,SpeedPro - Fort Worth West
+868htkav9,90117830855,hidden
 868hq6j5j,90080571664,Touchstone Signs and Graphics
 868hpp23a,90117232928,SpeedPro - Lake County
 868hn9pxn,90116361634,InceptionPoint Signworks
@@ -50,6 +53,7 @@ task_id,tasks_project_id,tasks_project_name
 868gd3k5t,90116935735,hidden
 868fhzmzf,90116935735,hidden
 868fdqxnn,90117830855,hidden
+868j6w35w,90116468367,hidden
 868j62401,90116468367,hidden
 868j5291r,90116468367,hidden
 868j5jw1c,90030635199,Celco/Celcook
@@ -61,6 +65,7 @@ task_id,tasks_project_id,tasks_project_name
 868j5h6by,90030598344,3 Sixty Sign Solutions
 868j5h4n7,90030598344,3 Sixty Sign Solutions
 868j43jxz,90030635199,Celco/Celcook
+868j3mqf0,90080623332,VizComm Signage Group
 868j3j5h9,90030598344,3 Sixty Sign Solutions
 868j3hw56,90030598344,3 Sixty Sign Solutions
 868j1htem,90030598344,3 Sixty Sign Solutions
@@ -122,6 +127,7 @@ task_id,tasks_project_id,tasks_project_name
 868g32tb4,90117830855,hidden
 868g32mnp,90117830855,hidden
 868eu6bhp,90116935735,hidden
+868j6n2r4,90117042562,hidden
 868j5da77,90117042562,hidden
 868j309bn,90116004561,"LGL Sign Company, LLC"
 868j0vf9x,90117042562,hidden
@@ -150,7 +156,9 @@ task_id,tasks_project_id,tasks_project_name
 868j0vemm,90117042562,hidden
 868j0vema,90117042562,hidden
 868j0vek2,90117042562,hidden
+868j0vejy,90117042562,hidden
 868j0vejd,90117042562,hidden
+868j0vegx,90117042562,hidden
 868j0veg7,90117042562,hidden
 868j0vef5,90117042562,hidden
 868j0veen,90117042562,hidden
@@ -219,9 +227,6 @@ task_id,tasks_project_id,tasks_project_name
 868hn71cx,90117042562,hidden
 868hn71c2,90117042562,hidden
 868hn71bv,90117042562,hidden
-868hn71bm,90117042562,hidden
-868hayj1e,90117042562,hidden
-868hayhza,90117042562,hidden
 868j6a254,90117225932,hidden
 868j6a23x,90117225932,hidden
 868j6a23m,90117225932,hidden
@@ -322,6 +327,7 @@ task_id,tasks_project_id,tasks_project_name
 868hnz2k1,90030758095,Langstaff & Sloan Inc.
 868hnz2hw,90030758095,Langstaff & Sloan Inc.
 868hnz2ey,90030758095,Langstaff & Sloan Inc.
+868j6nh9d,90113842485,hidden
 868j5g5a3,90115631465,Tadera
 868j5e6hf,90116449801,The Auto Boutique
 868j32zc2,90117096382,hidden
@@ -342,6 +348,7 @@ task_id,tasks_project_id,tasks_project_name
 868hvq09d,90117225932,hidden
 868hvq05e,90117225932,hidden
 868hvq04m,90117225932,hidden
+868hrra30,90117096382,hidden
 868hrpezd,90113842485,hidden
 868hqxpc2,90117680388,ImageTEK Signs and Graphics LLC
 868hn770d,90113842485,hidden
@@ -408,13 +415,21 @@ task_id,tasks_project_id,tasks_project_name
 868g00610,90116935735,hidden
 868g0060f,90116935735,hidden
 868fzrxu6,90116935735,hidden
+868ehgqap,90117096382,hidden
+868ee41j6,90117096382,hidden
+868ee41hr,90117096382,hidden
+868ee41hh,90117096382,hidden
+868ee41gv,90117096382,hidden
+868ee41ge,90117096382,hidden
+868ee41ec,90117096382,hidden
+868ee41db,90117096382,hidden
 868ee41ch,90117096382,hidden
 868ee41c5,90117096382,hidden
 868ee41bw,90117096382,hidden
 868ee41bp,90117096382,hidden
-868ee41b9,90117096382,hidden
-868ee41aq,90117096382,hidden
-868ee41aa,90117096382,hidden
+868j6d1da,90111931186,Indy Sign Factory
+868j6cxqu,90111826464,Forerunner Signs & Graphics
+868j6cm7t,90030626350,Blue Orbit Sign Studio
 868j6a26t,90117225932,hidden
 868j6a26h,90117225932,hidden
 868j6a267,90117225932,hidden
@@ -422,6 +437,9 @@ task_id,tasks_project_id,tasks_project_name
 868j6a248,90117225932,hidden
 868j6a244,90117225932,hidden
 868j6a241,90117225932,hidden
+868j3x653,90113005296,Circle City Custom Signs
+868j3x0hg,90030626350,Blue Orbit Sign Studio
+868j3wqbm,90080575592,SignScapes
 868j2wdj4,90117680388,ImageTEK Signs and Graphics LLC
 868j1n4hb,90030509579,Elite Custom Signs
 868j1j8tx,90113005296,Circle City Custom Signs
@@ -507,18 +525,15 @@ task_id,tasks_project_id,tasks_project_name
 868hq3eff,90117680388,ImageTEK Signs and Graphics LLC
 868hq3eez,90117680388,ImageTEK Signs and Graphics LLC
 868hpxjwu,90030608532,Amazing Signs
-868hpkkwq,90111779098,SpeedPro - Addison
-868hpht3q,90117321897, Redheaded Sign Company
-868hpbtkx,90111931186,Indy Sign Factory
-868hpacwg,90080576408,Sign Source Solution Inc.
-868hnp75x,90111672509,Sign Resources NC Inc.
-868hmut36,90111375408,Total SignWorks Ltd
+868j66vfp,90113005296,Circle City Custom Signs
+868j4434j,90111826464,Forerunner Signs & Graphics
 868j2a8vw,90080576601,Saltwater Signworks
 868j224ry,90113005296,Circle City Custom Signs
 868j224r5,90113005296,Circle City Custom Signs
 868j06mra,90117624820,hidden
 868hydvvn,90080570794,Fresh Coast Signs | Muskegon Signs
 868hyd8pu,90080570794,Fresh Coast Signs | Muskegon Signs
+868hyd8pt,90080570794,Fresh Coast Signs | Muskegon Signs
 868hy6r73,90030821638,Northeast Sign Company
 868hxp1nk,90080627999,SSK Signs
 868hxp1nn,90080627999,SSK Signs
@@ -599,6 +614,7 @@ task_id,tasks_project_id,tasks_project_name
 868gcvw8p,90116935735,hidden
 868gcmj0p,90116368871,hidden
 868gc8g0z,90116368871,hidden
+868j67nyc,90111672509,Sign Resources NC Inc.
 868j224fv,90111779098,SpeedPro - Addison
 868j224ft,90111779098,SpeedPro - Addison
 868j1qtce,90117680388,ImageTEK Signs and Graphics LLC
@@ -733,6 +749,7 @@ task_id,tasks_project_id,tasks_project_name
 868hm2w58,90114783795,Shared with me
 868j3hgq9,90116277682,Kingdom Signs and Graphics
 868j192e0,90117830855,hidden
+868j0vehx,90117042562,hidden
 868j0vegc,90117042562,hidden
 868j0veg4,90117042562,hidden
 868j0vefy,90117042562,hidden
@@ -799,12 +816,10 @@ task_id,tasks_project_id,tasks_project_name
 868hn71bx,90117042562,hidden
 868hm7k0v,90117042562,hidden
 868hm7jdp,90117042562,hidden
-868hjr5vg,90112081421,Victory Sign Company
-868hj064r,90117042562,hidden
-868hhvzwn,90117830855,hidden
 868j5z1hw,90116205597,SKY Custom Signs
 868j3znev,90030509579,Elite Custom Signs
 868j2ru5c,90110423486,Excel SignWorks
+868j2pbcp,90030509579,Elite Custom Signs
 868j1mvhn,90031017831,"Pacesetter Signs & Graphics, Inc"
 868j04fvf,90080566693,Envision Orlando
 868j004bm,90020241714,hidden
@@ -895,7 +910,7 @@ task_id,tasks_project_id,tasks_project_name
 868gfmb5r,90117321897, Redheaded Sign Company
 868gfmb5j,90117321897, Redheaded Sign Company
 868gfmb5f,90117321897, Redheaded Sign Company
-868gfmb5d,90117321897, Redheaded Sign Company
+868j6g396,90030608532,Amazing Signs
 868j66v3u,90030598344,3 Sixty Sign Solutions
 868j5r97j,90030608532,Amazing Signs
 868j5khag,90030889406,Paragon Signs and Graphics
@@ -989,11 +1004,11 @@ task_id,tasks_project_id,tasks_project_name
 868hkfxtq,90030618451,Blackfire Signs
 868hkfx7c,90030608065,99signs
 868hjphky,90116669618,Signary Custom Signs and Graphics
-868hja23d,90030635031,Captivating Signs
 868j5j4tg,90111375408,Total SignWorks Ltd
 868j5j49m,90111375408,Total SignWorks Ltd
 868j5hhgk,90031017831,"Pacesetter Signs & Graphics, Inc"
 868j2htj6,90111375408,Total SignWorks Ltd
+868j15cta,90115099209,Oregon Custom Sign Group
 868j06cx1,90080566693,Envision Orlando
 868hxyc6h,90111375408,Total SignWorks Ltd
 868hxyakg,90111375408,Total SignWorks Ltd
@@ -1038,8 +1053,7 @@ task_id,tasks_project_id,tasks_project_name
 868guguwc,90117830855,hidden
 868grrrfz,90115543201,Collaborative Sign and Design Inc
 868gqwg8x,90115543201,Collaborative Sign and Design Inc
-868gqe6pr,90116935735,hidden
-868gqe6nv,90116935735,hidden
+868j6p28t,90031020362,Livita
 868j6a27b,90117225932,hidden
 868j6a278,90117225932,hidden
 868j6a262,90117225932,hidden
@@ -1123,7 +1137,6 @@ task_id,tasks_project_id,tasks_project_name
 868hft51a,90116449801,The Auto Boutique
 868hft2r3,90116449801,The Auto Boutique
 868hft2kk,90116449801,The Auto Boutique
-868hft186,90116449801,The Auto Boutique
 868j3ewby,90111238917,Boston Signs and Graphics
 868j3ewbh,90111238917,Boston Signs and Graphics
 868j3ewak,90111238917,Boston Signs and Graphics
@@ -1204,11 +1217,10 @@ task_id,tasks_project_id,tasks_project_name
 868hnee5m,90031019543,Pure Image Signs and Graphics
 868hn7v4j,90031019543,Pure Image Signs and Graphics
 868hm95qb,90080566916,Georgetown Signs
+868hkvtn6,90116935735,hidden
+868hkvtmy,90116935735,hidden
 868hkve6c,90030821638,Northeast Sign Company
-868hk7rmv,90080576785,QC Signs
-868hk7rmx,90080576785,QC Signs
-868hjr0b6,90031019543,Pure Image Signs and Graphics
-868hjd9tq,90116232907,Madison Sign Studios
+868hkeygr,90116935735,hidden
 868grp35v,90115541760,Red Robin Masonry
 868gpjqy8,90080627837,Momentm
 868gmr66c,90080627837,Momentm
@@ -1309,6 +1321,7 @@ task_id,tasks_project_id,tasks_project_name
 868enhcf4,90117830855,hidden
 868eh2vg7,90116361634,InceptionPoint Signworks
 868eh2ve6,90116361634,InceptionPoint Signworks
+868j6jkxu,90080576408,Sign Source Solution Inc.
 868j60qny,90030488968,MMR
 868j5xvxr,90080627837,Momentm
 868j5xbkz,90115631465,Tadera
@@ -1376,6 +1389,9 @@ task_id,tasks_project_id,tasks_project_name
 868ez0ecu,90116237874,Alemba
 868eqq83e,90116449794,InsurPro
 868enwryv,90116449801,The Auto Boutique
+868j6mhmp,90111753058,BAF BIG ASS FANS
+868j6751t,90114073615,SpeedPro - Raleigh Clayton
+868j6750t,90114073615,SpeedPro - Raleigh Clayton
 868j3c7tu,90111753058,BAF BIG ASS FANS
 868j19xdb,90114157321,SpeedPro - Boston North
 868j0w4ja,90111005204,Lighthouse Sign Co.
@@ -1386,9 +1402,6 @@ task_id,tasks_project_id,tasks_project_name
 868huazj4,90030651194,City Beautiful Signs and Graphics
 868huayxw,90030651194,City Beautiful Signs and Graphics
 868huax4j,90030651194,City Beautiful Signs and Graphics
-868hu6w9f,90117830855,hidden
-868hu6w4w,90117830855,hidden
-868htkav9,90117830855,hidden
 868hrmbw3,90030651194,City Beautiful Signs and Graphics
 868hq5z3y,90111753058,BAF BIG ASS FANS
 868hnmj1k,90116004561,"LGL Sign Company, LLC"
@@ -1442,11 +1455,11 @@ task_id,tasks_project_id,tasks_project_name
 868h0r3ve,90117042562,hidden
 868h0r32m,90117042562,hidden
 868h02rfa,90117042562,hidden
-868gztxep,90111753058,BAF BIG ASS FANS
-868gzfewm,90117042562,hidden
-868gz8p0k,90117830855,hidden
-868gytfue,90117042562,hidden
-868gxpb6f,90117232928,SpeedPro - Lake County
+868j6pdg1,90117624555,hidden
+868j6nc2p,90117624555,hidden
+868j6h8mz,90117830855,hidden
+868j6e942,90117624555,hidden
+868j6dxf0,90117624555,hidden
 868j667br,90117830855,hidden
 868j666m5,90117830855,hidden
 868j665yq,90117830855,hidden
@@ -1477,7 +1490,7 @@ task_id,tasks_project_id,tasks_project_name
 868j0cq5y,90117830855,hidden
 868j0ak7e,90117830855,hidden
 868hztvua,90117624555,hidden
-868hztjjf,90117830855,hidden
+868hztjjf,90117624555,hidden
 868hzd8jm,90116368871,hidden
 868hyxa1g,90117830855,hidden
 868hyu1fz,90030635031,Captivating Signs
@@ -1519,16 +1532,8 @@ task_id,tasks_project_id,tasks_project_name
 868hx8a2x,90116368871,hidden
 868hx7rbu,90116368871,hidden
 868hx7r4y,90116368871,hidden
+868hx3j56,90116935735,hidden
 868hx3j51,90116935735,hidden
-868hwvxmp,90116935735,hidden
-868hwvxfk,90116935735,hidden
-868hwu7tt,90116935735,hidden
-868hwu7rh,90116935735,hidden
-868hwu5fy,90116935735,hidden
-868hwu5f4,90116935735,hidden
-868hwu4d0,90116935735,hidden
-868hwu4b0,90116935735,hidden
-868hwr78v,90116935735,hidden
 868hu8qm0,90031019543,Pure Image Signs and Graphics
 868hu8qky,90031019543,Pure Image Signs and Graphics
 868hu8qjk,90031019543,Pure Image Signs and Graphics
@@ -1649,6 +1654,7 @@ task_id,tasks_project_id,tasks_project_name
 868hq3ex0,90117680388,ImageTEK Signs and Graphics LLC
 868hpmh51,90117581200,GSO Signs (Greensboro)
 868hpm318,90117225932,hidden
+868hpht3q,90117321897, Redheaded Sign Company
 868hp83m6,90116605446,hidden
 868hnwjpk,90116205597,SKY Custom Signs
 868hn5tt7,90080576862,Priority Signs & Graphics
@@ -1728,6 +1734,7 @@ task_id,tasks_project_id,tasks_project_name
 868hr8qce,90117694212,Clarity Signworks Inc
 868hr8qc6,90117694212,Clarity Signworks Inc
 868hr8pwy,90117694212,Clarity Signworks Inc
+868hn71bm,90117042562,hidden
 868hh5vne,90116935735,hidden
 868hh5vhq,90116935735,hidden
 868hh5vfm,90116935735,hidden
@@ -1777,12 +1784,10 @@ task_id,tasks_project_id,tasks_project_name
 868h65y75,90030758095,Langstaff & Sloan Inc.
 868h5bnfw,90030618451,Blackfire Signs
 868h4bmfr,90117042562,hidden
-868h36v9v,90117042562,hidden
 868j6832k,90080622232,Majestic Sign Studio
 868j5ypym,90080622232,Majestic Sign Studio
 868j3phvp,90116449801,The Auto Boutique
 868j3mw5u,90080622232,Majestic Sign Studio
-868j3mqf0,90080623332,VizComm Signage Group
 868j3dckq,90080622232,Majestic Sign Studio
 868j3dayn,90080623332,VizComm Signage Group
 868j36dn4,90080576862,Priority Signs & Graphics
@@ -1849,6 +1854,7 @@ task_id,tasks_project_id,tasks_project_name
 868hrx00z,90111238917,Boston Signs and Graphics
 868hrwzg2,90116277682,Kingdom Signs and Graphics
 868hrwyv7,90116205597,SKY Custom Signs
+868j6d298,90113005296,Circle City Custom Signs
 868j3xqfu,90113704337,SpeedPro - Boca Raton
 868j223p9,90080575514,Street Style Sign Studio
 868j223p2,90080575514,Street Style Sign Studio
@@ -1863,6 +1869,7 @@ task_id,tasks_project_id,tasks_project_name
 868hwfa3n,90030757874,Jacksonville Signs & Graphics
 868hu7ucf,90113005296,Circle City Custom Signs
 868htg68f,90115541760,Red Robin Masonry
+868hrazum,90114073615,SpeedPro - Raleigh Clayton
 868hr49eq,90030757874,Jacksonville Signs & Graphics
 868hpw7ch,90111779098,SpeedPro - Addison
 868hpw7bg,90111779098,SpeedPro - Addison
@@ -1932,8 +1939,13 @@ task_id,tasks_project_id,tasks_project_name
 868g3p95d,90113005296,Circle City Custom Signs
 868g3p94p,90113005296,Circle City Custom Signs
 868g3n3ev,90080572326,Super Custom Sign
-868g3n3e4,90080572326,Super Custom Sign
-868g2ktyb,90111826464,Forerunner Signs & Graphics
+868j6hdp7,90030635199,Celco/Celcook
+868j6gpbn,90030635199,Celco/Celcook
+868j6gfe4,90030635199,Celco/Celcook
+868j6g5wx,90030635199,Celco/Celcook
+868j6g0jm,90030635199,Celco/Celcook
+868j6ecmr,90115631465,Tadera
+868j6ecjm,90115631465,Tadera
 868j67dxj,90115631465,Tadera
 868j5cha8,90080627837,Momentm
 868j3n8kp,90030635199,Celco/Celcook
@@ -1947,6 +1959,7 @@ task_id,tasks_project_id,tasks_project_name
 868hzg810,90080627837,Momentm
 868hzg79e,90080627837,Momentm
 868hy28zp,90030627235,Caliber Signs & Imaging
+868hy28zh,90030627235,Caliber Signs & Imaging
 868hxu1wr,90030635199,Celco/Celcook
 868hwwa2p,90115631465,Tadera
 868hwr4hj,90080627837,Momentm
@@ -2009,25 +2022,22 @@ task_id,tasks_project_id,tasks_project_name
 868hc8z42,90030635199,Celco/Celcook
 868hc82n6,90030635199,Celco/Celcook
 868hb3wem,90080627837,Momentm
-868ha9t4x,90116237874,Alemba
-868ha4w5g,90116237874,Alemba
-868h95yxn,90117488119,hidden
-868h93qe3,90117488119,hidden
-868h809ee,90030635199,Celco/Celcook
-868h7x2y6,90117064814,Bravura Security
 868j27ga5,90117375893,hidden
 868hze979,90116935735,hidden
 868hzdy7f,90116935735,hidden
 868hycy58,90116935735,hidden
 868hycy45,90116935735,hidden
+868hy7q38,90116935735,hidden
+868hy7q2z,90116935735,hidden
 868hxncgk,90117581200,GSO Signs (Greensboro)
 868hxfp23,90116935735,hidden
 868hxfp0v,90116935735,hidden
 868hx3j3y,90116935735,hidden
 868hwyj2b,90116935735,hidden
 868hwyj19,90116935735,hidden
-868hwu9zw,90116935735,hidden
-868hwu9z1,90116935735,hidden
+868hwvxmp,90116935735,hidden
+868hwvxfk,90116935735,hidden
+868hwr7fn,90116935735,hidden
 868hwkuw7,90116935735,hidden
 868hwkuvj,90116935735,hidden
 868hwkt95,90116935735,hidden
@@ -2052,9 +2062,10 @@ task_id,tasks_project_id,tasks_project_name
 868hkvtm9,90116935735,hidden
 868hkgt1t,90116935735,hidden
 868hkg1x2,90117830855,hidden
+868hkez4g,90116935735,hidden
+868hkez44,90116935735,hidden
 868hkeynz,90116935735,hidden
 868hkeymj,90116935735,hidden
-868hkew7b,90116935735,hidden
 868hkew5v,90116935735,hidden
 868hkeurt,90116935735,hidden
 868hkeupd,90116935735,hidden
@@ -2086,7 +2097,6 @@ task_id,tasks_project_id,tasks_project_name
 868h5xraw,90116368871,hidden
 868h5xq5p,90116368871,hidden
 868h5a0yw,90116935735,hidden
-868h5a0yp,90116935735,hidden
 868hhahvd,90080576862,Priority Signs & Graphics
 868hhae3a,90080575592,SignScapes
 868hfp9f1,90113842485,hidden
@@ -2154,6 +2164,7 @@ task_id,tasks_project_id,tasks_project_name
 868hcy3n7,90116237874,Alemba
 868hcfpzm,90080566786,First Impression Signs
 868hc97g0,90116879822,Graphicworks Sign
+868ha9t4x,90116237874,Alemba
 868ha9ka1,90111753058,BAF BIG ASS FANS
 868ha4h3y,90116237874,Alemba
 868h9y1fu,90080627837,Momentm
@@ -2198,69 +2209,73 @@ task_id,tasks_project_id,tasks_project_name
 868gkfjnk,90111753058,BAF BIG ASS FANS
 868gkfc6n,90110014029,Busology
 868gh1hqx,90110014029,Busology
-868ggq49v,90111588615,hidden
+868hwr6qf,90116935735,hidden
+868hwr6nm,90116935735,hidden
 868hwkz4b,90116935735,hidden
 868hwkz2t,90116935735,hidden
+868hwkq99,90116935735,hidden
+868hwkq85,90116935735,hidden
+868hwkq7k,90116935735,hidden
+868hwkph4,90116935735,hidden
+868hwkpgd,90116935735,hidden
+868hw5mun,90116935735,hidden
+868hw5mth,90116935735,hidden
+868hw5mm8,90116935735,hidden
+868hw5mke,90116935735,hidden
+868hw5mg7,90116935735,hidden
+868hw5mdf,90116935735,hidden
 868hu6ubp,90117830855,hidden
 868hu6ua9,90117830855,hidden
+868hnaw3m,90116935735,hidden
+868hnaw2p,90116935735,hidden
 868hkhh4t,90116935735,hidden
-868hkez4g,90116935735,hidden
-868hkez44,90116935735,hidden
+868hkhf8f,90116935735,hidden
+868hkheke,90116935735,hidden
+868hkhe20,90116935735,hidden
+868hkhaya,90116935735,hidden
+868hkgmm0,90116935735,hidden
+868hkgmhz,90116935735,hidden
+868hkgmdt,90116935735,hidden
+868hkgm4v,90116935735,hidden
+868hkgm37,90116935735,hidden
+868hkgkx0,90116935735,hidden
+868hkgkuw,90116935735,hidden
+868hkf8jd,90116935735,hidden
 868hkez2x,90116935735,hidden
 868hkez1z,90116935735,hidden
+868hkeyfh,90116935735,hidden
+868hkeye4,90116935735,hidden
+868hkeyd2,90116935735,hidden
+868hkey95,90116935735,hidden
+868hkew7b,90116935735,hidden
+868hkevhy,90116935735,hidden
+868hkevdv,90116935735,hidden
+868hkevbx,90116935735,hidden
+868hkev9u,90116935735,hidden
+868hkev8f,90116935735,hidden
+868hkev7e,90116935735,hidden
+868hkev5y,90116935735,hidden
+868hkev4k,90116935735,hidden
+868hkev1h,90116935735,hidden
+868hkeuzt,90116935735,hidden
+868hkbua2,90116935735,hidden
+868hkbua0,90116935735,hidden
+868hjdzkm,90116935735,hidden
+868hjdze4,90116935735,hidden
+868hjdz38,90116935735,hidden
+868hjdz1d,90116935735,hidden
+868hjdyr2,90116935735,hidden
+868hjdyp9,90116935735,hidden
+868hjdymu,90116935735,hidden
 868hjdy36,90116935735,hidden
 868hjdxtz,90116935735,hidden
 868hjdx4u,90116935735,hidden
 868hjdx44,90116935735,hidden
-868hhuku7,90116935735,hidden
-868hhuku5,90116935735,hidden
-868hhknge,90117830855,hidden
-868hh59yu,90116935735,hidden
-868hh59xw,90116935735,hidden
-868hh59x1,90116935735,hidden
-868hh59va,90116935735,hidden
-868hh59uz,90116935735,hidden
-868hh59tw,90116935735,hidden
-868hh59qr,90116935735,hidden
-868hh59px,90116935735,hidden
-868hh59p1,90116935735,hidden
-868hh59mv,90116935735,hidden
-868hh59gz,90116935735,hidden
-868hh57yw,90116935735,hidden
-868hh57yc,90116935735,hidden
-868hh510d,90116935735,hidden
-868hh50zz,90116935735,hidden
-868hh50t5,90116935735,hidden
-868hh50rq,90116935735,hidden
-868hh50r7,90116935735,hidden
-868hh50kw,90116935735,hidden
-868hh50kc,90116935735,hidden
-868hbvzz9,90116935735,hidden
-868hbukma,90116935735,hidden
-868hbukm6,90116935735,hidden
-868hbukm1,90116935735,hidden
-868hbukkn,90116935735,hidden
-868hbukkb,90116935735,hidden
-868hbukjn,90116935735,hidden
-868hbukja,90116935735,hidden
-868hbukj4,90116935735,hidden
-868hbukhu,90116935735,hidden
-868hbukgv,90116935735,hidden
-868hbukg6,90116935735,hidden
-868hbukft,90116935735,hidden
-868h9jk88,90116935735,hidden
-868h9jjzt,90116935735,hidden
-868h752hz,90116935735,hidden
-868h6mkfk,90117830855,hidden
-868h60dfp,90116935735,hidden
-868h60df1,90116935735,hidden
-868h608at,90116935735,hidden
-868h605x3,90116935735,hidden
-868h605v3,90116935735,hidden
-868h5tug7,90116935735,hidden
-868h4y8wq,90116935735,hidden
-868h4y8v2,90116935735,hidden
-868h4a0h1,90116935735,hidden
+868hhuz5r,90116935735,hidden
+868hhuwz3,90116935735,hidden
+868hhuu25,90116935735,hidden
+868hhuru5,90116935735,hidden
+868hhurq9,90116935735,hidden
 868hyt1eg,90030651194,City Beautiful Signs and Graphics
 868hxugxb,90116989824,SpeedPro - Fort Worth West
 868hxgbyz,90080566786,First Impression Signs
@@ -2304,7 +2319,7 @@ task_id,tasks_project_id,tasks_project_name
 868hjkj14,90080566786,First Impression Signs
 868hjkj09,90080566786,First Impression Signs
 868hhuudk,90117232928,SpeedPro - Lake County
-868hhuru5,90116935735,hidden
+868hhknge,90117830855,hidden
 868hhb6uz,90080566786,First Impression Signs
 868hh3pvy,90116879822,Graphicworks Sign
 868hgpwxp,90111005204,Lighthouse Sign Co.
@@ -2411,10 +2426,19 @@ task_id,tasks_project_id,tasks_project_name
 868j5bfdt,90116935735,hidden
 868j5bfbr,90116935735,hidden
 868j5bf88,90116935735,hidden
+868hx2apb,90116935735,hidden
+868hx2987,90116935735,hidden
 868hwwt9p,90116935735,hidden
 868hwwt88,90116935735,hidden
 868hwu7uy,90116935735,hidden
+868hwu7tt,90116935735,hidden
+868hwu7rh,90116935735,hidden
+868hwu5fy,90116935735,hidden
+868hwu5f4,90116935735,hidden
+868hwu4d0,90116935735,hidden
+868hwu4b0,90116935735,hidden
 868hwraz6,90116935735,hidden
+868hwr78v,90116935735,hidden
 868hwr76j,90116935735,hidden
 868hwr74u,90116935735,hidden
 868hwr6xe,90116935735,hidden
@@ -2422,8 +2446,6 @@ task_id,tasks_project_id,tasks_project_name
 868hwr6vr,90116935735,hidden
 868hwr6tz,90116935735,hidden
 868hwr6t4,90116935735,hidden
-868hwr6qf,90116935735,hidden
-868hwr6nm,90116935735,hidden
 868hwr6mw,90116935735,hidden
 868hwr6jh,90116935735,hidden
 868hwr6ft,90116935735,hidden
@@ -2432,51 +2454,23 @@ task_id,tasks_project_id,tasks_project_name
 868hwkutz,90116935735,hidden
 868hw5my3,90116935735,hidden
 868hw5mx7,90116935735,hidden
-868hw5mm8,90116935735,hidden
-868hw5mke,90116935735,hidden
+868hw5mjq,90116935735,hidden
+868hw5mf4,90116935735,hidden
 868hw5e4d,90116935735,hidden
 868hw5d88,90116935735,hidden
 868hw5d87,90116935735,hidden
 868hw5d86,90116935735,hidden
 868hw5d85,90116935735,hidden
 868hw5d42,90116935735,hidden
-868hr2gab,90117830855,hidden
-868hr2g95,90117830855,hidden
 868hr2g93,90117830855,hidden
 868hr2g8v,90117830855,hidden
-868hnaw3m,90116935735,hidden
-868hnaw2p,90116935735,hidden
 868hm18ev,90117581200,GSO Signs (Greensboro)
 868hkyxrk,90117830855,hidden
-868hkgmm0,90116935735,hidden
-868hkgmhz,90116935735,hidden
-868hkgmdt,90116935735,hidden
-868hkgkx0,90116935735,hidden
-868hkgkuw,90116935735,hidden
-868hkf8jd,90116935735,hidden
-868hkeye4,90116935735,hidden
-868hkeyd2,90116935735,hidden
-868hkey95,90116935735,hidden
-868hkevbx,90116935735,hidden
-868hkev9u,90116935735,hidden
+868hkgt3c,90116935735,hidden
 868hkb4pp,90117830855,hidden
 868hjdzxy,90116935735,hidden
-868hjdzkm,90116935735,hidden
-868hjdze4,90116935735,hidden
 868hjdz7q,90116935735,hidden
 868hjdz5d,90116935735,hidden
-868hjdz38,90116935735,hidden
-868hjdz1d,90116935735,hidden
-868hjdyr2,90116935735,hidden
-868hjdyp9,90116935735,hidden
-868hjdymu,90116935735,hidden
-868hhuz5r,90116935735,hidden
-868hhuwz3,90116935735,hidden
-868hhuu25,90116935735,hidden
-868hhurq9,90116935735,hidden
-868hf0tau,90117830855,hidden
-868hf0mwt,90117830855,hidden
-868hepfc8,90116368871,hidden
 868hzhv32,90116935735,hidden
 868hzhv2a,90116935735,hidden
 868hwyeaf,90116935735,hidden
@@ -2510,18 +2504,8 @@ task_id,tasks_project_id,tasks_project_name
 868hwku4e,90116935735,hidden
 868hw5n48,90116935735,hidden
 868hw5n3n,90116935735,hidden
-868hw5mun,90116935735,hidden
-868hw5mth,90116935735,hidden
 868hv3pma,90117830855,hidden
 868hmj9ra,90117830855,hidden
-868hkgm4v,90116935735,hidden
-868hkgm37,90116935735,hidden
-868hkeygr,90116935735,hidden
-868hkeyfh,90116935735,hidden
-868hkev8f,90116935735,hidden
-868hkev7e,90116935735,hidden
-868hkev1h,90116935735,hidden
-868hkeuzt,90116935735,hidden
 868hkcnnq,90117830855,hidden
 868hkcnmm,90117830855,hidden
 868hhxqzg,90117830855,hidden
@@ -2533,24 +2517,28 @@ task_id,tasks_project_id,tasks_project_name
 868hh5a9c,90116935735,hidden
 868hh5a7k,90116935735,hidden
 868hh5a6y,90116935735,hidden
+868hh59va,90116935735,hidden
+868hh59uz,90116935735,hidden
+868hh59tw,90116935735,hidden
 868hfkk4c,90117830855,hidden
-868hfgjy5,90117830855,hidden
-868hfgebh,90117830855,hidden
 868j625ma,90117096382,hidden
 868j5bf5p,90116935735,hidden
 868j5bf3r,90116935735,hidden
 868j5bez1,90116935735,hidden
 868j32yr6,90117096382,hidden
+868hzdrw0,90116935735,hidden
+868hzdqbb,90116935735,hidden
 868hxfp3u,90116935735,hidden
 868hxfp2y,90116935735,hidden
 868hxfnzj,90116935735,hidden
 868hxfny5,90116935735,hidden
 868hx3j6h,90116935735,hidden
 868hx3j6g,90116935735,hidden
-868hx3j56,90116935735,hidden
 868hx3hzg,90116935735,hidden
 868hx3geh,90116935735,hidden
 868hwvh35,90116935735,hidden
+868hwu9zw,90117624555,hidden
+868hwu9z1,90117624555,hidden
 868hwu9mr,90116935735,hidden
 868hwu9e4,90116935735,hidden
 868hwu5bb,90116935735,hidden
@@ -2566,16 +2554,9 @@ task_id,tasks_project_id,tasks_project_name
 868hwkrrp,90116935735,hidden
 868hwkrr2,90116935735,hidden
 868hwkqf0,90116935735,hidden
-868hwkq99,90116935735,hidden
-868hwkq85,90116935735,hidden
-868hwkq7k,90116935735,hidden
-868hwkph4,90116935735,hidden
-868hwkpgd,90116935735,hidden
 868hwj97b,90116368871,hidden
 868hwj8wg,90116368871,hidden
 868hw5myr,90116935735,hidden
-868hw5mg7,90116935735,hidden
-868hw5mdf,90116935735,hidden
 868hw5ccr,90116935735,hidden
 868hw5ccq,90116935735,hidden
 868hw5c96,90116935735,hidden
@@ -2608,11 +2589,8 @@ task_id,tasks_project_id,tasks_project_name
 868hueb4t,90117096382,hidden
 868hueb47,90117096382,hidden
 868hueb3z,90117096382,hidden
-868hrra30,90117096382,hidden
-868hr2cqe,90117830855,hidden
-868hq3etg,90117680388,ImageTEK Signs and Graphics LLC
-868hq3etb,90117680388,ImageTEK Signs and Graphics LLC
-868hq3et9,90117680388,ImageTEK Signs and Graphics LLC
+868hr2gab,90117830855,hidden
+868hr2g95,90117830855,hidden
 868j44407,90080575592,SignScapes
 868j442rj,90080575514,Street Style Sign Studio
 868j440t7,90114115436,SpeedPro - Orlando
@@ -2671,10 +2649,11 @@ task_id,tasks_project_id,tasks_project_name
 868hn71jw,90117042562,hidden
 868hn71fk,90117042562,hidden
 868hn71dq,90117042562,hidden
+868hj064r,90117042562,hidden
+868hhvzwn,90117830855,hidden
 868hg3drq,90113005296,Circle City Custom Signs
 868hffywu,90111826464,Forerunner Signs & Graphics
-868henngt,90030757874,Jacksonville Signs & Graphics
-868hef7q7,90113005296,Circle City Custom Signs
+868hf04ux,90031020362,Livita
 868j65dc7,90116468367,hidden
 868j3z8k0,90116468367,hidden
 868j22x2k,90116199068,hidden
@@ -2768,7 +2747,7 @@ task_id,tasks_project_id,tasks_project_name
 868gkbyqk,90116199068,hidden
 868gjc0gy,90116199068,hidden
 868gjbz4m,90116199068,hidden
-868ghrxw0,90116468367,hidden
+868j6v72z,90030608065,99signs
 868j5j84h,90030608065,99signs
 868j3z7qn,90111238917,Boston Signs and Graphics
 868j3z3w7,90111238917,Boston Signs and Graphics
@@ -2795,7 +2774,9 @@ task_id,tasks_project_id,tasks_project_name
 868hq3e10,90117680388,ImageTEK Signs and Graphics LLC
 868hpfuxw,90030635031,Captivating Signs
 868hn1p9f,90030608065,99signs
+868hjd9tq,90116232907,Madison Sign Studios
 868hjbajt,90080621916,Louisville Custom Signs
+868hja23d,90030635031,Captivating Signs
 868hj1mfv,90030608065,99signs
 868hhwtqf,90116277682,Kingdom Signs and Graphics
 868hhwtbb,90116277682,Kingdom Signs and Graphics
@@ -2836,7 +2817,6 @@ task_id,tasks_project_id,tasks_project_name
 868h34011,90112081421,Victory Sign Company
 868h33vuw,90030758095,Langstaff & Sloan Inc.
 868h0qbtc,90080621916,Louisville Custom Signs
-868gzpkza,90030608065,99signs
 868j1aakc,90117096382,hidden
 868j0p0vy,90111672509,Sign Resources NC Inc.
 868hwmyb3,90117581200,GSO Signs (Greensboro)
@@ -2888,7 +2868,9 @@ task_id,tasks_project_id,tasks_project_name
 868h97cfy,90117488119,hidden
 868h97bbf,90117488119,hidden
 868h97b95,90117488119,hidden
+868h95yxn,90117488119,hidden
 868h93qjm,90117488119,hidden
+868h93qe3,90117488119,hidden
 868h93pzy,90117488119,hidden
 868h29byr,90030608532,Amazing Signs
 868h1wupa,90030608532,Amazing Signs
@@ -3031,6 +3013,8 @@ task_id,tasks_project_id,tasks_project_name
 868hr8q5q,90117694212,Clarity Signworks Inc
 868hm9t71,90030740856,Genesis Signs & Graphics
 868hm9t72,90030740856,Genesis Signs & Graphics
+868hk7rmv,90080576785,QC Signs
+868hk7rmx,90080576785,QC Signs
 868hhtq9u,90031017619,Artisan Signworks
 868hhtq2f,90031017619,Artisan Signworks
 868hhq8mw,90030598344,3 Sixty Sign Solutions
@@ -3053,7 +3037,8 @@ task_id,tasks_project_id,tasks_project_name
 868h03bjk,90080576785,QC Signs
 868h03bjj,90080576785,QC Signs
 868h00c6j,90080576785,QC Signs
-868gzw10a,90080570794,Fresh Coast Signs | Muskegon Signs
+868j6huf0,90030635199,Celco/Celcook
+868j6ganb,90030757874,Jacksonville Signs & Graphics
 868j6a27m,90117225932,hidden
 868j6a273,90117225932,hidden
 868j6a25q,90117225932,hidden
@@ -3097,10 +3082,6 @@ task_id,tasks_project_id,tasks_project_name
 868hq54u0,90117375413,GBL Sign
 868hq3ej7,90117680388,ImageTEK Signs and Graphics LLC
 868hq3efj,90117680388,ImageTEK Signs and Graphics LLC
-868hppexm,90080627837,Momentm
-868hppeth,90080627837,Momentm
-868hppetj,90080627837,Momentm
-868hppetg,90080627837,Momentm
 868j656b2,90115631465,Tadera
 868j5cjp0,90115631465,Tadera
 868hxy6tu,90080627837,Momentm
@@ -3181,7 +3162,6 @@ task_id,tasks_project_id,tasks_project_name
 868fxkgdm,90117830855,hidden
 868fxb64e,90115631465,Tadera
 868fw96ua,90115631465,Tadera
-868fvd9j9,90115631465,Tadera
 868j20kqk,90080576750,Quad City
 868j20kdx,90080576862,Priority Signs & Graphics
 868j20k52,90030821638,Northeast Sign Company
@@ -3225,14 +3205,10 @@ task_id,tasks_project_id,tasks_project_name
 868hn71k2,90117042562,hidden
 868hn71ef,90117042562,hidden
 868hn6788,90080627999,SSK Signs
-868hkvtn6,90116935735,hidden
-868hkvtmy,90116935735,hidden
-868hkevhy,90116935735,hidden
-868hkevdv,90116935735,hidden
 868hk94v9,90117830855,hidden
 868hk94qk,90117830855,hidden
 868hk94mk,90117830855,hidden
-868hk941g,90117830855,hidden
+868j6grtw,90116199068,hidden
 868j5yzmy,90116199068,hidden
 868j01y8c,90116199068,hidden
 868hya533,90117321897, Redheaded Sign Company
@@ -3267,6 +3243,7 @@ task_id,tasks_project_id,tasks_project_name
 868g74uay,90116199068,hidden
 868fx6yxe,90116468367,hidden
 868fx6y3p,90116468367,hidden
+868fvd9j9,90115631465,Tadera
 868fqrdy8,90115631465,Tadera
 868fmfzrk,90116199068,hidden
 868fkun4e,90116935735,hidden
@@ -3293,7 +3270,8 @@ task_id,tasks_project_id,tasks_project_name
 868etqwa4,90116935735,hidden
 868epq1ar,90116199068,hidden
 868enmr4q,90116199068,hidden
-868emfufu,90116199068,hidden
+868j6cxxw,90030626350,Blue Orbit Sign Studio
+868j39v8u,90030626350,Blue Orbit Sign Studio
 868hzk7t8,90031020362,Livita
 868hzdb5b,90111931186,Indy Sign Factory
 868hzdb55,90111931186,Indy Sign Factory
@@ -3302,6 +3280,7 @@ task_id,tasks_project_id,tasks_project_name
 868hvr77q,90030626350,Blue Orbit Sign Studio
 868hvr29c,90031028143,Vibrant Sign Studio
 868hrk4p2,90111826464,Forerunner Signs & Graphics
+868hpkkwq,90111779098,SpeedPro - Addison
 868hp79yn,90030626350,Blue Orbit Sign Studio
 868hkcnje,90117830855,hidden
 868hffyvq,90111826464,Forerunner Signs & Graphics
@@ -3315,10 +3294,6 @@ task_id,tasks_project_id,tasks_project_name
 868h92bwr,90117488119,hidden
 868h8uw8b,90117341015,SpeedPro - Chicago Loop
 868h62xc7,90114157321,SpeedPro - Boston North
-868h61kw2,90117341015,SpeedPro - Chicago Loop
-868h5kpyq,90114073615,SpeedPro - Raleigh Clayton
-868h4p8z1,90117830855,hidden
-868h4p8x3,90117830855,hidden
 868j5x7za,90114115436,SpeedPro - Orlando
 868j38wyq,90114157321,SpeedPro - Boston North
 868j2n9f4,90117375413,GBL Sign
@@ -3335,12 +3310,15 @@ task_id,tasks_project_id,tasks_project_name
 868hwnz57,90031017831,"Pacesetter Signs & Graphics, Inc"
 868huwpkw,90115099209,Oregon Custom Sign Group
 868hr3jzy,90031019543,Pure Image Signs and Graphics
+868hnp75x,90111672509,Sign Resources NC Inc.
 868hnn9hd,90111672509,Sign Resources NC Inc.
 868hjqhb5,90117321897, Redheaded Sign Company
 868hjmurq,90110423486,Excel SignWorks
+868hjm4ec,90117375413,GBL Sign
 868hj81hq,90117321897, Redheaded Sign Company
 868hhp61k,90116368871,hidden
 868hfurya,90031019543,Pure Image Signs and Graphics
+868hepfc8,90116368871,hidden
 868hepdnw,90116368871,hidden
 868hepau6,90116368871,hidden
 868heekpt,90116368871,hidden
@@ -3357,10 +3335,6 @@ task_id,tasks_project_id,tasks_project_name
 868h91vdu,90080576601,Saltwater Signworks
 868h9114e,90116368871,hidden
 868h90mdc,90111375408,Total SignWorks Ltd
-868h8jbnq,90031019543,Pure Image Signs and Graphics
-868h6z5j6,90080571766,Toronto Custom Signs
-868h6z5hf,90080571766,Toronto Custom Signs
-868h6z5h1,90080571766,Toronto Custom Signs
 868j596mm,90030626350,Blue Orbit Sign Studio
 868j10rxz,90080575514,Street Style Sign Studio
 868j0045u,90030627235,Caliber Signs & Imaging
@@ -3374,7 +3348,6 @@ task_id,tasks_project_id,tasks_project_name
 868htgqqy,90114073615,SpeedPro - Raleigh Clayton
 868hrk88g,90030626350,Blue Orbit Sign Studio
 868hm5wt3,90030626350,Blue Orbit Sign Studio
-868hjm4ec,90117375413,GBL Sign
 868hgt3wz,90117581200,GSO Signs (Greensboro)
 868hgt35k,90117581200,GSO Signs (Greensboro)
 868hgpeqy,90030626350,Blue Orbit Sign Studio
@@ -3382,6 +3355,7 @@ task_id,tasks_project_id,tasks_project_name
 868h87z1w,90116205597,SKY Custom Signs
 868h32t11,90031019543,Pure Image Signs and Graphics
 868h2wea4,90116368871,hidden
+868gzw10a,90080570794,Fresh Coast Signs | Muskegon Signs
 868gzvhkd,90080570794,Fresh Coast Signs | Muskegon Signs
 868gyuh5y,90030627235,Caliber Signs & Imaging
 868gyuh5w,90030627235,Caliber Signs & Imaging
@@ -3412,7 +3386,6 @@ task_id,tasks_project_id,tasks_project_name
 868gdr4j5,90116368871,hidden
 868gdfct7,90080627999,SSK Signs
 868gddjdt,90116368871,hidden
-868gc8c78,90116368871,hidden
 868j5ddrx,90117042562,hidden
 868j5dcgr,90117042562,hidden
 868j0vfae,90117042562,hidden
@@ -3470,7 +3443,6 @@ task_id,tasks_project_id,tasks_project_name
 868j19c2j,90117321897, Redheaded Sign Company
 868j18tje,90080570857,Windy City Signs and Graphics
 868j187z6,90115099209,Oregon Custom Sign Group
-868j15cta,90115099209,Oregon Custom Sign Group
 868j0px63,90111672509,Sign Resources NC Inc.
 868j0kauj,90110423486,Excel SignWorks
 868j00nzr,90030620259,Blue Ocean Custom Signs
@@ -3502,8 +3474,6 @@ task_id,tasks_project_id,tasks_project_name
 868hn71ta,90117042562,hidden
 868hn71j2,90117042562,hidden
 868hn71hu,90117042562,hidden
-868hn71h6,90117042562,hidden
-868hn71cp,90117042562,hidden
 868hymra3,90117694212,Clarity Signworks Inc
 868hvhch6,90115631465,Tadera
 868huggmv,90080566693,Envision Orlando
@@ -3532,6 +3502,7 @@ task_id,tasks_project_id,tasks_project_name
 868h443ue,90117096382,hidden
 868h30d2j,90030509579,Elite Custom Signs
 868h2j6r2,90030608532,Amazing Signs
+868gz8p0k,90117830855,hidden
 868guyyt1,90030757874,Jacksonville Signs & Graphics
 868guyvv8,90030757874,Jacksonville Signs & Graphics
 868guyvmh,90030757874,Jacksonville Signs & Graphics
@@ -3560,7 +3531,6 @@ task_id,tasks_project_id,tasks_project_name
 868gfmb95,90117321897, Redheaded Sign Company
 868gfmaub,90117321897, Redheaded Sign Company
 868gfmaaq,90117321897, Redheaded Sign Company
-868gfmaa3,90117321897, Redheaded Sign Company
 868hnnun3,90113005296,Circle City Custom Signs
 868hhrjm3,90117633602,hidden
 868hhrjkx,90117633602,hidden

@@ -1,71 +1,74 @@
-import requests
-import sqlite3
-import pandas as pd
-from datetime import datetime
-import time
 import os
+import sqlite3
+from datetime import datetime
+
+import pandas as pd
 import pytz
+from dotenv import load_dotenv
+
+from clickup_utils import get_headers, get_team_member_ids, get_time_entries_payload
+
+
+load_dotenv()
 
 TEAM_ID = "9009011702"
 SPACE_ID = "90060060754"
-TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
-#TOKEN =  os.getenv("CLICKUP_TOKEN")
-HEADERS = {"Authorization": TOKEN}
-BASE_URL = "https://api.clickup.com/api/v2"
+HEADERS = get_headers()
 DB_PATH = "DB/clients_time_entries.db"
 TASKS_DB_PATH = "DB/tasks_table.csv"
 
-# Rango de fechas (1 enero 2024 → hoy)
 toronto_tz = pytz.timezone("America/Toronto")
-start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))  
-end_dt = datetime.now(toronto_tz)                             
-START_DATE = int(start_dt.timestamp() * 1000)                   
-END_DATE = int(end_dt.timestamp() * 1000)      
+start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))
+end_dt = datetime.now(toronto_tz)
+START_DATE = int(start_dt.timestamp() * 1000)
+END_DATE = int(end_dt.timestamp() * 1000)
+
 
 def get_assignees(team_id):
-    url = f"{BASE_URL}/team/{team_id}"
-    r = requests.get(url, headers=HEADERS)
-    r.raise_for_status()
-    data = r.json()
-    members = data.get("team", data).get("members", [])
-    
-    return [
-        str(m['user']['id']) 
-        for m in members 
-        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
-    ]
+    return get_team_member_ids(team_id, HEADERS)
+
 
 def get_time_entries(user_id):
-    url = f"{BASE_URL}/team/{TEAM_ID}/time_entries"
-    params = {
-        "assignee": user_id,
-        "start_date": START_DATE,
-        "end_date": END_DATE,
-        "space_id": SPACE_ID
-    }
-    r = requests.get(url, headers=HEADERS, params=params)
-    return r.json().get("data", [])
+    return get_time_entries_payload(
+        TEAM_ID,
+        user_id,
+        HEADERS,
+        START_DATE,
+        END_DATE,
+        extra_params={"space_id": SPACE_ID},
+    )
 
-def load_task_mapping_db():
-    conn = sqlite3.connect(TASKS_DB_PATH)
-    cur = conn.cursor()
-    cur.execute("SELECT task_id, tasks_project_id, tasks_project_name FROM tasks_table")
-    mapping = {task_id: project_name for task_id, _, project_name in cur.fetchall()}
-    conn.close()
-    return mapping
 
 def load_task_mapping():
+    if not os.path.exists(TASKS_DB_PATH):
+        print(f"⚠️ Task mapping file not found: {TASKS_DB_PATH}")
+        return {}
+
     df = pd.read_csv(TASKS_DB_PATH)
-    df['tasks_project_id'] = df['tasks_project_id'].astype(str)  # 👈 Asegura que sean strings
-    mapping = dict(zip(df['tasks_project_id'], df['tasks_project_name']))
-    return mapping
+    if df.empty:
+        return {}
+
+    df["tasks_project_id"] = df["tasks_project_id"].astype(str)
+    return dict(zip(df["tasks_project_id"], df["tasks_project_name"]))
+
+
+def to_local_iso(timestamp_ms):
+    if not timestamp_ms:
+        return None
+    return (
+        datetime.fromtimestamp(int(timestamp_ms) / 1000, tz=pytz.utc)
+        .astimezone(toronto_tz)
+        .isoformat()
+    )
+
 
 def save_clients_to_db(entries, task_mapping):
-    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)  # 👈 Asegura que DB/ existe
+    os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
 
-    cur.execute("""
+    cur.execute(
+        """
         CREATE TABLE IF NOT EXISTS clients (
             entry_id TEXT PRIMARY KEY,
             task_id TEXT,
@@ -84,48 +87,52 @@ def save_clients_to_db(entries, task_mapping):
             task_url TEXT,
             client TEXT
         )
-    """)
+        """
+    )
     cur.execute("DELETE FROM clients")
 
     for entry in entries:
-        entry_id = entry.get("id")
-        task = entry.get("task", {})
-        task_id = task.get("id", "Error")
-        task_name = task.get("name", "Error")
-        user = entry.get("user", {})
-        user_id = user.get("id", "")
-        username = user.get("username", "")
-        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()  #changed
-        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()     #changed
-        duration_hours = int(entry["duration"]) / 1000 / 3600 if entry.get("duration") else 0
-        billable = str(entry.get("billable", False))
-        wid = entry.get("wid", "")
-        description = entry.get("description", "")
-        location = entry.get("task_location", {})
-        list_id = location.get("list_id", "")
-        folder_id = location.get("folder_id", "")
-        space_id = location.get("space_id", "")
-        task_url = entry.get("task_url", "")
-        #print(f"folder_id: {folder_id} → client: {task_mapping.get(str(folder_id))}")
-        client = task_mapping.get(str(folder_id), "Unknown")
-
-        cur.execute("""
-            INSERT OR REPLACE INTO clients 
+        task = entry.get("task") or {}
+        user = entry.get("user") or {}
+        location = entry.get("task_location") or {}
+        folder_id = str(location.get("folder_id", ""))
+        cur.execute(
+            """
+            INSERT OR REPLACE INTO clients
             (entry_id, task_id, task_name, user_id, username, start_time, stop_time, duration_hours,
              Billable, WorkspaceID, description, list_id, folder_id, space_id, task_url, client)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, (entry_id, task_id, task_name, user_id, username, start_time, stop_time, duration_hours,
-              billable, wid, description, list_id, folder_id, space_id, task_url, client))
+            """,
+            (
+                entry.get("id"),
+                task.get("id", "Error"),
+                task.get("name", "Error"),
+                user.get("id", ""),
+                user.get("username", ""),
+                to_local_iso(entry.get("start")),
+                to_local_iso(entry.get("end")),
+                int(entry.get("duration", 0)) / 1000 / 3600,
+                str(entry.get("billable", False)),
+                entry.get("wid", ""),
+                entry.get("description", ""),
+                location.get("list_id", ""),
+                location.get("folder_id", ""),
+                location.get("space_id", ""),
+                entry.get("task_url", ""),
+                task_mapping.get(folder_id, "Unknown"),
+            ),
+        )
 
     conn.commit()
     conn.close()
 
+
 if __name__ == "__main__":
     print("🔍 Obteniendo usuarios...")
     users = get_assignees(TEAM_ID)
-    #users = users[:10]  # Limitar a los primeros 10 usuarios para pruebas
     print("🕒 Descargando time entries...")
     all_entries = []
+
     for i, user_id in enumerate(users, 1):
         entries = get_time_entries(user_id)
         all_entries.extend(entries)

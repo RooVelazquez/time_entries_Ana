@@ -1,48 +1,51 @@
 import os
 import sqlite3
-import requests
-from datetime import datetime
 import time
+from datetime import datetime
+
 import pytz
+from dotenv import load_dotenv
 
-# Parámetros
+from clickup_utils import get_headers, get_team_member_ids, get_time_entries_payload
+
+
+load_dotenv()
+
 TEAM_ID = "9009011702"
-SPACE_ID = "90110332645"  # Dev
-TOKEN = "pk_75418362_0SNHEACGYFWU5R3B17EZBIN2U3U2F4ND"
-#TOKEN =  os.getenv("CLICKUP_TOKEN")
-HEADERS = {"Authorization": TOKEN}
-BASE_URL = "https://api.clickup.com/api/v2"
+SPACE_ID = "90110332645"
+HEADERS = get_headers()
 
-# Rango de fechas (1 enero 2024 → hoy)
 toronto_tz = pytz.timezone("America/Toronto")
-start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))  
-end_dt = datetime.now(toronto_tz)                             
-START_DATE = int(start_dt.timestamp() * 1000)                   
-END_DATE = int(end_dt.timestamp() * 1000)      
+start_dt = toronto_tz.localize(datetime(2024, 1, 1, 0, 0, 0))
+end_dt = datetime.now(toronto_tz)
+START_DATE = int(start_dt.timestamp() * 1000)
+END_DATE = int(end_dt.timestamp() * 1000)
+
 
 def get_assignees(team_id):
-    url = f"{BASE_URL}/team/{team_id}"
-    r = requests.get(url, headers=HEADERS)
-    r.raise_for_status()
-    data = r.json()
-    members = data.get("team", data).get("members", [])
-    
-    return [
-        str(m['user']['id']) 
-        for m in members 
-        if m.get('user', {}).get('role_key') in ('owner', 'admin', 'member')
-    ]
+    return get_team_member_ids(team_id, HEADERS)
+
 
 def get_time_entries(user_id):
-    url = f"{BASE_URL}/team/{TEAM_ID}/time_entries"
-    params = {
-        "assignee": user_id,
-        "start_date": START_DATE,
-        "end_date": END_DATE,
-        "space_id": SPACE_ID
-    }
-    r = requests.get(url, headers=HEADERS, params=params)
-    return r.json().get("data", [])
+    return get_time_entries_payload(
+        TEAM_ID,
+        user_id,
+        HEADERS,
+        START_DATE,
+        END_DATE,
+        extra_params={"space_id": SPACE_ID},
+    )
+
+
+def to_local_iso(timestamp_ms):
+    if not timestamp_ms:
+        return None
+    return (
+        datetime.fromtimestamp(int(timestamp_ms) / 1000, tz=pytz.utc)
+        .astimezone(toronto_tz)
+        .isoformat()
+    )
+
 
 def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
@@ -52,7 +55,8 @@ def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
 
-    cur.execute("""
+    cur.execute(
+        """
         CREATE TABLE IF NOT EXISTS dev_time_entries (
             entry_id TEXT PRIMARY KEY,
             task_id TEXT,
@@ -71,57 +75,63 @@ def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
             task_url TEXT,
             client TEXT
         )
-    """)
-
-    cur.execute("DELETE FROM dev_time_entries")
+        """
+    )
 
     for entry in entries:
-        entry_id = entry.get("id")
-        task = entry.get("task", {})
-        task_id = task.get("id", "Error")
-        task_name = task.get("name", "Error")
-        user = entry.get("user", {})
-        user_id = user.get("id", "")
-        username = user.get("username", "")
-        start_time = datetime.fromtimestamp(int(entry["start"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()  #changed
-        stop_time = datetime.fromtimestamp(int(entry["end"]) / 1000, tz=pytz.utc).astimezone(toronto_tz).isoformat()     #changed
-        duration_hours = int(entry["duration"]) / 1000 / 3600 if entry.get("duration") else 0
-        Billable = str(entry.get("billable", False))  
-        WorkspaceID = entry.get("wid", "")
-        description = entry.get("description", "")
-        task_location = entry.get("task_location", {})
-        list_id = task_location.get("list_id", "")
-        folder_id = task_location.get("folder_id", "")
-        space_id = task_location.get("space_id", "")
-        task_url = entry.get("task_url", "")
-        client = "Dev"
-
-        cur.execute("""
-            INSERT OR REPLACE INTO dev_time_entries 
+        task = entry.get("task") or {}
+        user = entry.get("user") or {}
+        task_location = entry.get("task_location") or {}
+        cur.execute(
+            """
+            INSERT OR REPLACE INTO dev_time_entries
             (entry_id, task_id, task_name, user_id, username, start_time, stop_time, duration_hours,
              Billable, WorkspaceID, description, list_id, folder_id, space_id, task_url, client)
             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, (entry_id, task_id, task_name, user_id, username, start_time, stop_time, duration_hours,
-              Billable, WorkspaceID, description, list_id, folder_id, space_id, task_url, client))
+            """,
+            (
+                entry.get("id"),
+                task.get("id", "Error"),
+                task.get("name", "Error"),
+                user.get("id", ""),
+                user.get("username", ""),
+                to_local_iso(entry.get("start")),
+                to_local_iso(entry.get("end")),
+                int(entry.get("duration", 0)) / 1000 / 3600,
+                str(entry.get("billable", False)),
+                entry.get("wid", ""),
+                entry.get("description", ""),
+                task_location.get("list_id", ""),
+                task_location.get("folder_id", ""),
+                task_location.get("space_id", ""),
+                entry.get("task_url", ""),
+                "Dev",
+            ),
+        )
 
     conn.commit()
     conn.close()
 
+
 def run_pipeline():
     print("Obteniendo usuarios...")
     users = get_assignees(TEAM_ID)
-    #users = users[:10]  # Limitar a los primeros 10 usuarios para pruebas
     print(f"Procesando {len(users)} usuarios...")
     all_entries = []
+
     for i, uid in enumerate(users, 1):
         entries = get_time_entries(uid)
         all_entries.extend(entries)
-        print(f"→ {i}/{len(users)}: {len(entries)} entradas recuperadas (acumuladas: {len(all_entries)})")
+        print(
+            f"→ {i}/{len(users)}: {len(entries)} entradas recuperadas "
+            f"(acumuladas: {len(all_entries)})"
+        )
         time.sleep(0.5)
 
     print("Guardando en base de datos...")
     save_entries_to_db(all_entries)
     print("✅ Time entries guardadas en dev_time_entries.db")
+
 
 if __name__ == "__main__":
     run_pipeline()

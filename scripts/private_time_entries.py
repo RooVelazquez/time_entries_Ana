@@ -53,6 +53,12 @@ def get_nested_id(container, key):
     return "NA"
 
 
+def normalize_task(task):
+    if isinstance(task, dict):
+        return task
+    return {}
+
+
 def save_entries_to_csv(entries, csv_path=CSV_PATH, existing_path=EXISTING_CSV_PATH):
     os.makedirs(os.path.dirname(csv_path), exist_ok=True)
     print(f"💾 Preparing private CSV export into {csv_path}")
@@ -83,7 +89,7 @@ def save_entries_to_csv(entries, csv_path=CSV_PATH, existing_path=EXISTING_CSV_P
             skipped_existing += 1
             continue
 
-        task = entry.get("task") or {}
+        task = normalize_task(entry.get("task"))
         user = entry.get("user") or {}
         rows.append(
             {

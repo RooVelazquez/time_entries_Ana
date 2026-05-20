@@ -26,6 +26,10 @@ def get_headers():
 
 def safe_get_json(url, headers, params=None, context="", max_retries=MAX_RETRIES):
     for attempt in range(1, max_retries + 1):
+        print(
+            f"🌐 Requesting {context or url} "
+            f"(attempt {attempt}/{max_retries})"
+        )
         try:
             response = requests.get(
                 url,
@@ -38,7 +42,9 @@ def safe_get_json(url, headers, params=None, context="", max_retries=MAX_RETRIES
             if not response.text.strip():
                 raise ValueError("Empty response body")
 
-            return response.json()
+            data = response.json()
+            print(f"✅ Response OK for {context or url}")
+            return data
         except (JSONDecodeError, ValueError) as exc:
             print(
                 f"⚠️ Invalid JSON from ClickUp for {context or url} "
@@ -95,4 +101,6 @@ def get_time_entries_payload(
     )
     if not isinstance(data, dict):
         return []
-    return data.get("data", [])
+    entries = data.get("data", [])
+    print(f"📥 Retrieved {len(entries)} time entries for user {user_id}")
+    return entries

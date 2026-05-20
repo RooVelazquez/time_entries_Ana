@@ -44,12 +44,14 @@ def load_table_as_dataframe(db_file):
 
 all_entries = []
 for db_file in db_files:
+    print(f"🔗 Loading source DB for merge: {db_file}")
     df = load_table_as_dataframe(db_file)
     if df is not None:
         all_entries.append(df)
 
 if all_entries:
     merged_df = pd.concat(all_entries, ignore_index=True)
+    print(f"🧩 Merge produced {len(merged_df)} consolidated rows")
 else:
     merged_df = pd.DataFrame(
         columns=[
@@ -75,10 +77,12 @@ else:
     print("⚠️ No source data found. Writing empty consolidated output.")
 
 os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
+print(f"💾 Writing merged SQLite output to {DB_PATH}")
 conn_out = sqlite3.connect(DB_PATH)
 merged_df.to_sql("all_time_entries", conn_out, if_exists="replace", index=False)
 conn_out.close()
 
 print(f"\n📦 Merge completo: {len(merged_df)} registros guardados en {DB_PATH}")
+print(f"💾 Writing merged CSV output to {CSV_PATH}")
 merged_df.to_csv(CSV_PATH, index=False)
 print("✅ CSV guardado en:", CSV_PATH)

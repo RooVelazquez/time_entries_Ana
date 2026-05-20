@@ -44,12 +44,16 @@ def load_task_mapping():
         print(f"⚠️ Task mapping file not found: {TASKS_DB_PATH}")
         return {}
 
+    print(f"📚 Loading task mapping from {TASKS_DB_PATH}")
     df = pd.read_csv(TASKS_DB_PATH)
     if df.empty:
+        print("⚠️ Task mapping CSV is empty")
         return {}
 
     df["tasks_project_id"] = df["tasks_project_id"].astype(str)
-    return dict(zip(df["tasks_project_id"], df["tasks_project_name"]))
+    mapping = dict(zip(df["tasks_project_id"], df["tasks_project_name"]))
+    print(f"✅ Loaded {len(mapping)} task mappings")
+    return mapping
 
 
 def to_local_iso(timestamp_ms):
@@ -64,6 +68,7 @@ def to_local_iso(timestamp_ms):
 
 def save_clients_to_db(entries, task_mapping):
     os.makedirs(os.path.dirname(DB_PATH), exist_ok=True)
+    print(f"💾 Writing {len(entries)} client time entries into {DB_PATH}")
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
 
@@ -91,7 +96,8 @@ def save_clients_to_db(entries, task_mapping):
     )
     cur.execute("DELETE FROM clients")
 
-    for entry in entries:
+    inserted = 0
+    for index, entry in enumerate(entries, 1):
         task = entry.get("task") or {}
         user = entry.get("user") or {}
         location = entry.get("task_location") or {}
@@ -122,9 +128,13 @@ def save_clients_to_db(entries, task_mapping):
                 task_mapping.get(folder_id, "Unknown"),
             ),
         )
+        inserted += 1
+        if index % 500 == 0:
+            print(f"🪵 clients DB progress: {index}/{len(entries)} rows processed")
 
     conn.commit()
     conn.close()
+    print(f"✅ Finished writing {inserted} rows into {DB_PATH}")
 
 
 if __name__ == "__main__":

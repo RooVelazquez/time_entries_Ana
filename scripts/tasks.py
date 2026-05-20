@@ -38,6 +38,7 @@ def get_tasks_for_user(user_id):
 
 def save_tasks_to_csv(tasks, csv_path=CSV_PATH):
     os.makedirs(os.path.dirname(csv_path), exist_ok=True)
+    print(f"🧾 Preparing to write {len(tasks)} raw tasks into {csv_path}")
     rows = []
 
     for task in tasks:
@@ -51,6 +52,7 @@ def save_tasks_to_csv(tasks, csv_path=CSV_PATH):
         )
 
     df = pd.DataFrame(rows).drop_duplicates(subset="task_id")
+    print(f"🧹 Reduced to {len(df)} unique tasks before CSV export")
     df.to_csv(csv_path, index=False)
     print(f"✅ Tareas guardadas como CSV en {csv_path}")
 

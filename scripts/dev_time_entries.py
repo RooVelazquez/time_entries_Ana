@@ -52,6 +52,7 @@ def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
     if os.path.exists(db_path):
         os.remove(db_path)
 
+    print(f"💾 Writing {len(entries)} dev time entries into {db_path}")
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
 
@@ -78,7 +79,8 @@ def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
         """
     )
 
-    for entry in entries:
+    inserted = 0
+    for index, entry in enumerate(entries, 1):
         task = entry.get("task") or {}
         user = entry.get("user") or {}
         task_location = entry.get("task_location") or {}
@@ -108,9 +110,13 @@ def save_entries_to_db(entries, db_path="DB/dev_time_entries.db"):
                 "Dev",
             ),
         )
+        inserted += 1
+        if index % 500 == 0:
+            print(f"🪵 dev DB progress: {index}/{len(entries)} rows processed")
 
     conn.commit()
     conn.close()
+    print(f"✅ Finished writing {inserted} rows into {db_path}")
 
 
 def run_pipeline():

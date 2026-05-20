@@ -40,23 +40,32 @@ def load_task_mapping():
         print(f"⚠️ Task mapping file not found: {TASKS_DB_PATH}")
         return {}
 
+    print(f"📚 Loading task mapping from {TASKS_DB_PATH}")
     df = pd.read_csv(TASKS_DB_PATH)
     if df.empty:
+        print("⚠️ Task mapping CSV is empty")
         return {}
 
     df["tasks_project_id"] = df["tasks_project_id"].astype(str)
-    return dict(zip(df["tasks_project_id"], df["tasks_project_name"]))
+    mapping = dict(zip(df["tasks_project_id"], df["tasks_project_name"]))
+    print(f"✅ Loaded {len(mapping)} task mappings")
+    return mapping
 
 
 def load_client_cache():
     if not os.path.exists(CLIENT_CACHE_PATH):
+        print(f"ℹ️ Client cache not found yet: {CLIENT_CACHE_PATH}")
         return {}
 
+    print(f"📦 Loading client cache from {CLIENT_CACHE_PATH}")
     df = pd.read_csv(CLIENT_CACHE_PATH)
     if df.empty:
+        print("⚠️ Client cache CSV is empty")
         return {}
 
-    return dict(zip(df["task_id"].astype(str), df["client_name"]))
+    cache = dict(zip(df["task_id"].astype(str), df["client_name"]))
+    print(f"✅ Loaded {len(cache)} cached client names")
+    return cache
 
 
 def update_client_cache(task_id, client_name):
@@ -69,6 +78,7 @@ def update_client_cache(task_id, client_name):
         new_row = pd.DataFrame([{"task_id": task_id, "client_name": client_name}])
         df = pd.concat([df, new_row], ignore_index=True)
         df.to_csv(CLIENT_CACHE_PATH, index=False)
+        print(f"📝 Cached client '{client_name}' for task {task_id}")
 
 
 task_client_cache = load_client_cache()
@@ -87,6 +97,7 @@ def get_time_entries(user_id):
 
 def get_client_from_task(task_id):
     if task_id in task_client_cache:
+        print(f"♻️ Client cache hit for task {task_id}")
         return task_client_cache[task_id]
 
     url = f"{BASE_URL}/task/{task_id}"
@@ -102,10 +113,12 @@ def get_client_from_task(task_id):
                     name = option.get("name", "Unknown")
                     task_client_cache[task_id] = name
                     update_client_cache(task_id, name)
+                    print(f"🔎 Resolved client '{name}' for task {task_id}")
                     return name
 
     task_client_cache[task_id] = "Unknown"
     update_client_cache(task_id, "Unknown")
+    print(f"⚠️ Could not resolve client for task {task_id}; using Unknown")
     return "Unknown"
 
 
@@ -121,6 +134,7 @@ def to_local_iso(timestamp_ms):
 
 def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
     os.makedirs(os.path.dirname(db_path), exist_ok=True)
+    print(f"💾 Writing {len(entries)} content time entries into {db_path}")
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
 
@@ -148,7 +162,8 @@ def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
     )
     cur.execute("DELETE FROM content_time_entries")
 
-    for entry in entries:
+    inserted = 0
+    for index, entry in enumerate(entries, 1):
         task = entry.get("task") or {}
         user = entry.get("user") or {}
         task_location = entry.get("task_location") or {}
@@ -180,9 +195,13 @@ def save_entries_to_db(entries, db_path="DB/content_time_entries.db"):
                 get_client_from_task(task_id),
             ),
         )
+        inserted += 1
+        if index % 500 == 0:
+            print(f"🪵 content DB progress: {index}/{len(entries)} rows processed")
 
     conn.commit()
     conn.close()
+    print(f"✅ Finished writing {inserted} rows into {db_path}")
 
 
 if __name__ == "__main__":

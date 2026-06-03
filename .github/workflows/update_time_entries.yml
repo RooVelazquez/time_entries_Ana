@@ -2,8 +2,7 @@ name: update time entries
 
 on:
   schedule:
-    - cron: "0 8 * * 1-5"
-    - cron: "0 9 * * 1-5"
+    - cron: "0 4 * * 1-5"
   workflow_dispatch:
 
 jobs:
@@ -28,7 +27,7 @@ jobs:
           if [ "${TORONTO_HOUR}" = "04" ] && [ "${TORONTO_DAY}" -le 5 ]; then
             echo "run_pipeline=true" >> "$GITHUB_OUTPUT"
           else
-            echo "run_pipeline=false" >> "$GITHUB_OUTPUT"
+            echo "run_pipeline=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Set up Python

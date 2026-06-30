@@ -51,6 +51,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5123843863576462082,,,312679397,Teodelyn Baan,2026-06-11T14:03:52.832000-04:00,2026-06-11T15:05:03.721000-04:00,1.02,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5132346781829066672,,,312679397,Teodelyn Baan,2026-06-17T10:50:53.477000-04:00,2026-06-17T10:59:15.221000-04:00,0.14,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5133686166742792472,,,312679397,Teodelyn Baan,2026-06-18T09:01:27.486000-04:00,2026-06-18T09:44:14.307000-04:00,0.71,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149619020408453255,,,312679397,Teodelyn Baan,2026-06-29T08:49:11.119000-04:00,2026-06-29T09:03:24.195000-04:00,0.24,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149644090367442183,,,312679397,Teodelyn Baan,2026-06-29T09:14:05.631000-04:00,2026-06-29T09:16:51.433000-04:00,0.05,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5081983575499890561,86850x742,Miscellaneous Task,87414716,Divya Shah,2026-05-12T16:59:00-04:00,2026-05-12T17:29:00-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 5081984521734872981,86850x742,Miscellaneous Task,87414716,Divya Shah,2026-05-12T17:00:00-04:00,2026-05-12T17:15:00-04:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/86850x742,NA,Private
 5061572386227907564,868jf07xf,29 Apr MMR Website Analysis and Off page Strategy Planning (Based on Analysis) Prepared backlinks sheet,87410694,Kapil Chanda,2026-04-29T07:30:14.366000-04:00,2026-04-29T12:30:14.366000-04:00,5.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868jf07xf,NA,Private
@@ -68,6 +70,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5123887450716522585,,,87410694,Kapil Chanda,2026-06-11T14:47:09.184000-04:00,2026-06-11T14:47:13.006000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5126258507628837298,868hhnbhu,GMB Posts & Images Update,87410694,Kapil Chanda,2026-06-12T12:00:00-04:00,2026-06-12T12:30:00-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5135428171336412974,868hhnbhu,GMB Posts & Images Update,87410694,Kapil Chanda,2026-06-19T12:00:00-04:00,2026-06-19T12:30:00-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5149847315787963943,868hhnbhu,GMB Posts & Images Update,87410694,Kapil Chanda,2026-06-29T11:30:48.808000-04:00,2026-06-29T12:00:48.808000-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 4942673764556623308,,,87392683,Beverlette,2026-02-06T13:27:32.735000-05:00,2026-02-06T13:34:42.584000-05:00,0.12,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4942691057537798054,,,87392683,Beverlette,2026-02-06T13:44:43.549000-05:00,2026-02-06T13:57:45.378000-05:00,0.22,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4942734916938519747,,,87392683,Beverlette,2026-02-06T14:28:16.614000-05:00,2026-02-06T14:36:22.458000-05:00,0.13,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -418,6 +421,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5139338519865091772,868hkmjke,Update Variance,87376870,Shambhu Narula,2026-06-22T01:30:54.796000-04:00,2026-06-22T01:50:54.796000-04:00,0.33,False,9009011702,Variance Updates,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5139339059101591233,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-06-22T01:50:42.695000-04:00,2026-06-22T03:00:42.695000-04:00,1.17,False,9009011702,GMB Posts & Images Update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5145470519886314389,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-06-26T05:10:40.856000-04:00,2026-06-26T06:15:40.856000-04:00,1.08,False,9009011702,GMB Posts & Images Update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5149697366970484255,868hkmjke,Update Variance,87376870,Shambhu Narula,2026-06-29T04:35:37.906000-04:00,2026-06-29T04:55:37.906000-04:00,0.33,False,9009011702,Variance Updates,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5149711258824099979,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-06-29T04:55:13.375000-04:00,2026-06-29T06:05:13.375000-04:00,1.17,False,9009011702,GMB Posts & Images Update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 4794488200876415684,,,87357162,Virendra Singh Jaitawat,2025-10-27T08:58:30.407000-04:00,2025-10-27T11:57:09.180000-04:00,2.98,False,9009011702,"Time tracking training, Clickup training",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4794668392035022292,,,87357162,Virendra Singh Jaitawat,2025-10-27T11:57:30.359000-04:00,2025-10-27T14:05:09.367000-04:00,2.13,False,9009011702,Worked on Outreaching analysis for Bravura Security,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4794798365496461816,,,87357162,Virendra Singh Jaitawat,2025-10-27T14:06:37.215000-04:00,2025-10-27T16:37:54.946000-04:00,2.52,False,9009011702,"GA, GSC, & GTM Training - 1",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -1590,6 +1595,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5135089513165115053,,,87307283,Mayuri Devarukhkar,2026-06-19T04:45:19.664000-04:00,2026-06-19T05:08:19.664000-04:00,0.38,False,9009011702,,NA,NA,NA,,NA,Private
 5135428216852999984,,,87307283,Mayuri Devarukhkar,2026-06-19T11:30:00-04:00,2026-06-19T13:30:00-04:00,2.0,False,9009011702,https://mmr.clickup.com/t/9009011702/868hkg1x2,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5139358570752141212,,,87307283,Mayuri Devarukhkar,2026-06-22T06:56:20.100000-04:00,2026-06-22T08:02:39.645000-04:00,1.11,False,9009011702,,NA,NA,NA,,NA,Private
+5149826513432632177,,,87307283,Mayuri Devarukhkar,2026-06-29T11:59:18.302000-04:00,2026-06-29T12:46:44.022000-04:00,0.79,False,9009011702,,NA,NA,NA,,NA,Private
 4656603405019148183,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-07-24T06:02:10.751000-04:00,2025-07-24T06:54:44.108000-04:00,0.88,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4657974345946776662,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-07-25T04:44:03.989000-04:00,2025-07-25T05:32:30.246000-04:00,0.81,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 4662393897526905704,8684rt2ge,Lunch Break,81597989,Yukti Gautam,2025-07-28T05:54:30.604000-04:00,2025-07-28T06:36:34.129000-04:00,0.7,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
@@ -2845,6 +2851,13 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5145432697246676747,,,60764851,Samantha Ballard,2026-06-26T11:30:26.147000-04:00,2026-06-26T12:01:21.419000-04:00,0.52,False,9009011702,Kath 1 on 1 and Content meeting,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145599422541941356,,,60764851,Samantha Ballard,2026-06-26T14:16:03.618000-04:00,2026-06-26T14:16:07.042000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145718276786050940,,,60764851,Samantha Ballard,2026-06-26T16:14:07.473000-04:00,2026-06-26T16:31:56.708000-04:00,0.3,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149714798749567304,,,60764851,Samantha Ballard,2026-06-29T10:24:17.985000-04:00,2026-06-29T10:25:35.076000-04:00,0.02,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149716045464488305,,,60764851,Samantha Ballard,2026-06-29T10:25:33.212000-04:00,2026-06-29T10:51:47.906000-04:00,0.44,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149830137932045364,,,60764851,Samantha Ballard,2026-06-29T12:03:53.188000-04:00,2026-06-29T12:18:53.188000-04:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149870323374120957,,,60764851,Samantha Ballard,2026-06-29T12:28:21.092000-04:00,2026-06-29T12:58:21.092000-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149939065684650053,,,60764851,Samantha Ballard,2026-06-29T14:07:05.179000-04:00,2026-06-29T14:08:09.243000-04:00,0.02,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5150060177504499398,,,60764851,Samantha Ballard,2026-06-29T16:07:24.763000-04:00,2026-06-29T16:16:09.393000-04:00,0.15,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5150069049162102785,,,60764851,Samantha Ballard,2026-06-29T16:16:13.798000-04:00,2026-06-29T16:44:33.404000-04:00,0.47,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5088476188474240778,868jnd3kv,Brevard Sign Solutions LLC,81561933,Vaishnavi Sawant,2026-05-18T04:09:13.748000-04:00,2026-05-18T04:29:13.748000-04:00,0.33,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868jnd3kv,NA,Private
 4596089776113340778,,,132182726,Stephanie Hilchey,2025-06-12T11:21:05.965000-04:00,2025-06-12T12:06:05.965000-04:00,0.75,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4596295133767035314,,,132182726,Stephanie Hilchey,2025-06-12T15:10:41.468000-04:00,2025-06-12T15:30:41.468000-04:00,0.33,False,9009011702,,NA,NA,NA,,NA,Private
@@ -3010,6 +3023,10 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5145599377528670826,,,132182726,Stephanie Hilchey,2026-06-26T12:05:32.755000-04:00,2026-06-26T12:40:32.755000-04:00,0.58,False,9009011702,Qualifying leads in call rail & ring central,NA,NA,NA,,NA,Private
 5145715272036996894,,,132182726,Stephanie Hilchey,2026-06-26T14:50:10.210000-04:00,2026-06-26T15:35:10.210000-04:00,0.75,False,9009011702,"Task Clearing, Creating New Tasks, Follow Ups",NA,NA,NA,,NA,Private
 5145715945809991498,,,132182726,Stephanie Hilchey,2026-06-26T15:35:29.339000-04:00,2026-06-26T16:00:29.339000-04:00,0.42,False,9009011702,Last of CPS Review,NA,NA,NA,,NA,Private
+5149769096766313117,,,132182726,Stephanie Hilchey,2026-06-29T09:00:36.604000-04:00,2026-06-29T10:00:36.604000-04:00,1.0,False,9009011702,"Newsletter adjustments, Follow ups with clients on approval, Approved 2 to be sent",NA,NA,NA,,NA,Private
+5149770005755876054,,,132182726,Stephanie Hilchey,2026-06-29T10:00:28.032000-04:00,2026-06-29T10:45:28.032000-04:00,0.75,False,9009011702,"Task Clearing - Prachi sent a list and went through each task. Many have been closed, some have been sent to Brandon as a reminder",NA,NA,NA,,NA,Private
+5149771401217594124,,,132182726,Stephanie Hilchey,2026-06-29T11:15:04.599000-04:00,2026-06-29T11:45:04.599000-04:00,0.5,False,9009011702,Scrunch Training. Collected screenshots to share with Madison,NA,NA,NA,,NA,Private
+5150029652500837049,,,132182726,Stephanie Hilchey,2026-06-29T15:30:36.213000-04:00,2026-06-29T16:15:36.213000-04:00,0.75,False,9009011702,Qualifying leads - Call Rail & Ring Central,NA,NA,NA,,NA,Private
 4471285456030037645,,,176630444,Ayush Panchal,2025-03-18T09:45:20.999000-04:00,2025-03-18T10:01:41.115000-04:00,0.27,False,9009011702,,NA,NA,NA,,NA,Private
 4471287587910874831,,,176630444,Ayush Panchal,2025-03-17T08:30:00-04:00,2025-03-17T16:30:00-04:00,8.0,False,9009011702,,NA,NA,NA,,NA,Private
 4471301902986541236,,,176630444,Ayush Panchal,2025-03-18T10:01:41.490000-04:00,2025-03-18T10:01:41.490000-04:00,0.0,False,9009011702,,NA,NA,NA,,NA,Private
@@ -3059,7 +3076,6 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5022432870259124611,,,176630444,Ayush Panchal,2026-04-02T10:00:00-04:00,2026-04-02T10:30:00-04:00,0.5,True,9009011702,,NA,NA,NA,,NA,Private
 5029713318513372466,,,176630444,Ayush Panchal,2026-04-07T15:33:35.022000-04:00,2026-04-07T16:43:37.553000-04:00,1.17,True,9009011702,,NA,NA,NA,,NA,Private
 5042245553070164449,,,176630444,Ayush Panchal,2026-04-16T07:03:14.468000-04:00,2026-04-16T09:50:36.788000-04:00,2.79,False,9009011702,,NA,NA,NA,,NA,Private
-5149391542096129040,868k63nvn,Screaming Frog Audit and Issues Resolve,176630444,Ayush Panchal,2026-06-29T04:17:12.386000-04:00,2026-06-29T05:03:12.386000-04:00,0.77,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868k63nvn,NA,Private
 4694397684600691866,,,81510466,Jonah Mae Caliboso,2025-08-19T07:47:25.639000-04:00,2025-08-19T07:47:34.515000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4860233444703756237,,,81510466,Jonah Mae Caliboso,2025-12-11T16:30:27.210000-05:00,2025-12-11T16:30:30.585000-05:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4861696085229990379,,,81510466,Jonah Mae Caliboso,2025-12-12T16:43:27.421000-05:00,2025-12-12T16:43:30.146000-05:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -10022,6 +10038,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5139232639576335428,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-06-22T04:50:48.982000-04:00,2026-06-22T06:00:48.982000-04:00,1.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 5143748775962037115,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-06-25T06:45:14.101000-04:00,2026-06-25T07:55:14.101000-04:00,1.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 5149385813029186553,868hkmjke,Update Variance,75420487,Swati Rajput,2026-06-29T04:38:59.339000-04:00,2026-06-29T04:50:59.339000-04:00,0.2,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5149386459757308925,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-06-29T04:50:42.227000-04:00,2026-06-29T06:00:42.227000-04:00,1.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 4221895973112799812,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:10.641000-04:00,2024-09-27T08:39:14.738000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896495555306060,8689un8vn,Content Review,75418362,Ana,2024-09-27T07:59:39.028000-04:00,2024-09-27T08:39:39.028000-04:00,0.67,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896578266980941,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:46.769000-04:00,2024-09-27T08:39:47.734000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
@@ -10045,6 +10062,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5144271698430870609,868k0jfex,Chatbot,75418362,Ana,2026-06-25T15:46:54.854000-04:00,2026-06-25T16:16:54.854000-04:00,0.5,False,9009011702,Fix issues and requests from the client,NA,NA,NA,https://app.clickup.com/t/868k0jfex,NA,Private
 5145297756454217932,868jf2hup,Chatbot,75418362,Ana,2026-06-26T08:56:06.176000-04:00,2026-06-26T09:16:06.176000-04:00,0.33,False,9009011702,"make chatbot ask for direction, answer JC and give update",NA,NA,NA,https://app.clickup.com/t/868jf2hup,NA,Private
 5145581429715978304,868k0jfex,Chatbot,75418362,Ana,2026-06-26T13:43:09.375000-04:00,2026-06-26T13:58:09.375000-04:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868k0jfex,NA,Private
+5149952448265873882,868k67abv,SpeedPro Commercial Graphics - Knoxville,75418362,Ana,2026-06-29T13:20:17.248000-04:00,2026-06-29T14:20:17.248000-04:00,1.0,False,9009011702,Onboarding call,NA,NA,NA,https://app.clickup.com/t/868k67abv,NA,Private
 3831813172642871340,85zrvcun8,Huddle,75405712,Garima Batra,2024-01-02T04:54:34.829000-05:00,2024-01-02T05:09:34.829000-05:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrvcun8,NA,Private
 3831894615691786439,85zrv6gfm,Update Variance,75405712,Garima Batra,2024-01-02T05:27:24.872000-05:00,2024-01-02T06:27:24.872000-05:00,1.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 3831894991048440010,8684rt2ge,Lunch Break,75405712,Garima Batra,2024-01-02T05:57:49.071000-05:00,2024-01-02T06:27:49.071000-05:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
@@ -11602,6 +11620,9 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5139384658601601266,868hkmjke,Update Variance,75405712,Garima Batra,2026-06-22T03:45:37.413000-04:00,2026-06-22T04:00:37.413000-04:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5139384982485756160,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-06-22T04:00:59.015000-04:00,2026-06-22T05:10:59.015000-04:00,1.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5145312189255608847,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-06-26T08:15:35.069000-04:00,2026-06-26T09:25:35.069000-04:00,1.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5149478115701583365,868hkmjke,Update Variance,75405712,Garima Batra,2026-06-29T03:40:26.228000-04:00,2026-06-29T04:00:26.228000-04:00,0.33,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5149478393414839814,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-06-29T04:00:49.245000-04:00,2026-06-29T04:30:49.245000-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5149478777394982408,868hhnbhu,GMB Posts & Images Update,75405712,Garima Batra,2026-06-29T04:40:06.204000-04:00,2026-06-29T05:25:06.204000-04:00,0.75,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 3963655131849447240,,,75334893,Pallavi,2024-04-02T02:50:00-04:00,2024-04-02T02:57:00-04:00,0.12,False,9009011702,,NA,NA,NA,,NA,Private
 4099937312904465031,,,75400980,Abhishek Dwivedi,2024-07-01T06:30:45.206000-04:00,2024-07-01T08:30:45.206000-04:00,2.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4099969571246197450,,,75400980,Abhishek Dwivedi,2024-07-02T09:00:40.152000-04:00,2024-07-02T10:00:40.152000-04:00,1.0,False,9009011702,,NA,NA,NA,,NA,Private
@@ -14222,6 +14243,8 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5139413630018284311,868hkmjke,Update Variance,60765308,Harish Kewat,2026-06-22T07:35:49.702000-04:00,2026-06-22T07:50:49.702000-04:00,0.25,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5142608395421507299,860qmre73,Calls,60765308,Harish Kewat,2026-06-24T12:14:43.125000-04:00,2026-06-24T12:44:43.125000-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/860qmre73,NA,Private
 5143945753866100484,868hhnbhu,GMB Posts & Images Update,60765308,Harish Kewat,2026-06-25T09:38:00-04:00,2026-06-25T10:53:00-04:00,1.25,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5149746844356202136,868hhnbhu,GMB Posts & Images Update,60765308,Harish Kewat,2026-06-29T09:41:00-04:00,2026-06-29T10:56:00-04:00,1.25,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5149746921531395740,868hkmjke,Update Variance,60765308,Harish Kewat,2026-06-29T10:36:00-04:00,2026-06-29T10:56:00-04:00,0.33,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 3942612539452048844,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:35:59.453000-04:00,2024-03-18T16:36:04.612000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612646926894544,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:05.867000-04:00,2024-03-18T16:36:08.131000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612755962021332,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:12.359000-04:00,2024-03-18T16:36:45.104000-04:00,0.01,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
@@ -15938,6 +15961,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5145257011894642055,,,60765293,Olivia Impaz,2026-06-26T08:35:55.174000-04:00,2026-06-26T10:48:00.516000-04:00,2.2,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145390048338866904,,,60765293,Olivia Impaz,2026-06-26T10:48:04.384000-04:00,2026-06-26T11:39:18.668000-04:00,0.85,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145441658209400924,,,60765293,Olivia Impaz,2026-06-26T11:39:21.268000-04:00,2026-06-26T16:17:11.255000-04:00,4.63,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5149601729323103840,,,60765293,Olivia Impaz,2026-06-29T08:31:59.447000-04:00,2026-06-29T09:35:41.084000-04:00,1.06,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 3833542025425874504,86857gar2,Post SMCs,60762089,Veronique Deshaies,2024-01-02T09:00:00-05:00,2024-01-02T09:20:00-05:00,0.33,False,9009011702,Post remainder of SMCs,NA,NA,NA,https://app.clickup.com/t/86857gar2,NA,Private
 3833555215706648401,8684tjt9a,Review content,60762089,Veronique Deshaies,2024-01-02T12:15:00-05:00,2024-01-02T12:50:00-05:00,0.58,False,9009011702,Review and share content for City Beautiful,NA,NA,NA,https://app.clickup.com/t/8684tjt9a,NA,Private
 3840769802617113396,8684tjt9a,Review content,60762089,Veronique Deshaies,2024-01-03T14:30:00-05:00,2024-01-03T16:00:00-05:00,1.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684tjt9a,NA,Private
@@ -16141,4 +16165,5 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5103377432921658288,868jueb41,"May 25, 2026",60762089,Veronique Deshaies,2026-05-28T11:07:17.516000-04:00,2026-05-28T11:12:17.516000-04:00,0.08,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868jueb41,NA,Private
 5140195803759541668,868k3xnz0,"June 22, 2026",60762089,Veronique Deshaies,2026-06-22T20:42:54.170000-04:00,2026-06-22T20:47:54.170000-04:00,0.08,False,9009011702,internal notes,NA,NA,NA,https://app.clickup.com/t/868k3xnz0,NA,Private
 5143961898832716002,868k4rtza,Shamrock Signs,60692213,Surendra Singh,2026-06-24T09:49:19.258000-04:00,2026-06-24T11:09:19.258000-04:00,1.33,False,9009011702,4 pages icons created,NA,NA,NA,https://app.clickup.com/t/868k4rtza,NA,Private
+5149601085078009431,868ju5hv1,[MMR WEBSITE INDUSTRY PAGES & CASE STUDY TEMPLATE],60692213,Surendra Singh,2026-06-26T01:28:09.820000-04:00,2026-06-26T08:31:09.820000-04:00,7.05,False,9009011702,Case study listing and detail page design,NA,NA,NA,https://app.clickup.com/t/868ju5hv1,NA,Private
 4955630618538569816,85zryj520,GMBs Posts and Image Update,57023853,Arti Sharma,2026-02-15T11:59:01.530000-05:00,2026-02-15T11:59:03.121000-05:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zryj520,NA,Private

@@ -1218,13 +1218,14 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5135094999516073732,,,87335811,Farhan Emtiaz Ahmed,2026-06-19T07:15:00-04:00,2026-06-19T08:30:00-04:00,1.25,False,9009011702,Campaigns monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5135095946388590364,,,87335811,Farhan Emtiaz Ahmed,2026-06-18T07:15:00-04:00,2026-06-18T08:30:00-04:00,1.25,False,9009011702,High CPL Update,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5139452536013090487,,,87335811,Farhan Emtiaz Ahmed,2026-06-22T09:15:00-04:00,2026-06-22T10:30:00-04:00,1.25,False,9009011702,Campaigns monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
-5142509042157639294,,,87335811,Farhan Emtiaz Ahmed,2026-06-24T06:30:00-04:00,2026-06-24T08:00:00-04:00,1.5,False,9009011702,Accounts monitoring & leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5142509042157639294,,,87335811,Farhan Emtiaz Ahmed,2026-06-24T06:45:00-04:00,2026-06-24T08:15:00-04:00,1.5,False,9009011702,Accounts monitoring & leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5143596410302711870,,,87335811,Farhan Emtiaz Ahmed,2026-06-25T04:45:00-04:00,2026-06-25T05:30:00-04:00,0.75,False,9009011702,High CPL Sheet update,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5143929016395324589,,,87335811,Farhan Emtiaz Ahmed,2026-06-25T05:30:00-04:00,2026-06-25T06:00:00-04:00,0.5,False,9009011702,Paused the campaigns on several accounts that were about to overspend,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5143930199222607086,,,87335811,Farhan Emtiaz Ahmed,2026-06-25T10:00:00-04:00,2026-06-25T11:00:00-04:00,1.0,False,9009011702,Campaign's monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145123671547928661,,,87335811,Farhan Emtiaz Ahmed,2026-06-26T04:30:00-04:00,2026-06-26T05:00:00-04:00,0.5,False,9009011702,Budget pacing on campaigns,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145124169495699546,,,87335811,Farhan Emtiaz Ahmed,2026-06-26T05:30:00-04:00,2026-06-26T06:30:00-04:00,1.0,False,9009011702,Campaigns monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5145124711332667484,,,87335811,Farhan Emtiaz Ahmed,2026-06-26T06:30:00-04:00,2026-06-26T07:00:00-04:00,0.5,False,9009011702,PPC experiment sheet fillup,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5152486257779689419,,,87335811,Farhan Emtiaz Ahmed,2026-07-01T08:30:00-04:00,2026-07-01T09:45:00-04:00,1.25,False,9009011702,Campaigns daily budget adjustments,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4936584872652858735,,,87332930,Deepika Jha,2026-01-30T14:30:00-05:00,2026-01-30T15:30:00-05:00,1.0,False,9009011702,,NA,NA,NA,,NA,Private
 4936601859332401305,868gn8g0w,Steph POD,87332930,Deepika Jha,2026-01-27T14:30:00-05:00,2026-01-27T15:30:00-05:00,1.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868gn8g0w,NA,Private
 4936623089288637505,,,87332930,Deepika Jha,2026-01-28T08:45:00-05:00,2026-01-28T09:15:00-05:00,0.5,False,9009011702,,NA,NA,NA,,NA,Private
@@ -12913,6 +12914,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5149272320279996776,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-06-22T05:45:19.852000-04:00,2026-06-22T06:15:19.852000-04:00,0.5,False,9009011702,All Projects,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5149273095907469674,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-06-25T20:45:53.018000-04:00,2026-06-25T21:15:53.018000-04:00,0.5,False,9009011702,All Projects,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5149276200648730996,868hkmjke,Update Variance,60765319,Sandeep Malviya,2026-06-22T04:00:57.969000-04:00,2026-06-22T04:15:57.969000-04:00,0.25,False,9009011702,GMB Calls,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5153628271682410235,,,60765319,Sandeep Malviya,2026-06-22T04:30:52.396000-04:00,2026-06-22T04:48:52.396000-04:00,0.3,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 3831945689379273071,85zrv6gfm,Update Variance,60765308,Harish Kewat,2024-01-02T06:16:55.974000-05:00,2024-01-02T07:16:55.974000-05:00,1.0,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 3831946945304885624,8684rt2ge,Lunch Break,60765308,Harish Kewat,2024-01-02T06:48:11.787000-05:00,2024-01-02T07:18:11.787000-05:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 3835071374478173701,85zrzzadk,Monthly Ranking Update,60765308,Harish Kewat,2024-01-04T09:01:59.502000-05:00,2024-01-04T11:01:59.502000-05:00,2.0,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrzzadk,NA,Private

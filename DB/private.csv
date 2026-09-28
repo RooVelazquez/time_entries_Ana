@@ -88,6 +88,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5267113494645987235,,,87436482,Rishika soni,2026-09-18T08:40:00-04:00,2026-09-18T09:15:00-04:00,0.58,False,9009011702,,NA,NA,NA,,NA,Private
 5274131581568184453,,,87436482,Rishika soni,2026-09-23T05:05:00-04:00,2026-09-23T06:45:00-04:00,1.67,False,9009011702,,NA,NA,NA,,NA,Private
 5274543130266981196,,,87436482,Rishika soni,2026-09-23T12:10:00-04:00,2026-09-23T12:30:00-04:00,0.33,False,9009011702,,NA,NA,NA,,NA,Private
+5281373534852629649,868k56a3p,Content 2,87436482,Rishika soni,2026-09-28T06:00:00-04:00,2026-09-28T06:23:00-04:00,0.38,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868k56a3p,NA,Private
 5094843781510482595,,,312679397,Teodelyn Baan,2026-05-22T13:54:52.337000-04:00,2026-05-22T13:58:33.716000-04:00,0.06,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5094861951117970673,,,312679397,Teodelyn Baan,2026-05-22T14:12:53.371000-04:00,2026-05-22T14:25:28.056000-04:00,0.21,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5101778618209168457,,,312679397,Teodelyn Baan,2026-05-27T08:44:00.766000-04:00,2026-05-27T08:54:01.455000-04:00,0.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -419,6 +420,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5275590463175937110,,,87392683,Beverlette,2026-09-24T06:30:33.811000-04:00,2026-09-24T06:45:34.960000-04:00,0.25,False,9009011702,,NA,NA,NA,,NA,Private
 5275605566361324687,,,87392683,Beverlette,2026-09-24T06:45:34.007000-04:00,2026-09-24T07:02:20.379000-04:00,0.28,False,9009011702,,NA,NA,NA,,NA,Private
 5275802014306687216,,,87392683,Beverlette,2026-09-24T10:00:43.699000-04:00,2026-09-24T11:10:20.392000-04:00,1.16,False,9009011702,,NA,NA,NA,,NA,Private
+5277049442678759152,,,87392683,Beverlette,2026-09-25T06:39:56.201000-04:00,2026-09-25T07:41:10.974000-04:00,1.02,False,9009011702,,NA,NA,NA,,NA,Private
 4948303016291357673,868hdchft,Add banner to top of MMR website,300865768,Brandon Brown,2026-02-10T10:19:42.183000-05:00,2026-02-10T10:39:42.183000-05:00,0.33,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hdchft,NA,Private
 4950257793447388989,868hdchft,Add banner to top of MMR website,300865768,Brandon Brown,2026-02-09T19:01:00-05:00,2026-02-09T19:16:00-05:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hdchft,NA,Private
 4959864319652818876,868hdchft,Add banner to top of MMR website,300865768,Brandon Brown,2026-02-17T10:04:00-05:00,2026-02-17T10:29:00-05:00,0.42,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hdchft,NA,Private
@@ -586,6 +588,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5267054426363416955,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-09-18T03:40:36.366000-04:00,2026-09-18T05:00:36.366000-04:00,1.33,False,9009011702,GMB Posts & Images Update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5271416936482896627,868hkmjke,Update Variance,87376870,Shambhu Narula,2026-09-21T05:15:03.168000-04:00,2026-09-21T05:35:03.168000-04:00,0.33,False,9009011702,Variance Updates,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5271417334673341185,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-09-21T05:35:44.540000-04:00,2026-09-21T06:55:44.540000-04:00,1.33,False,9009011702,GMB Posts & Images Update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
+5277260208786795818,868hhnbhu,GMB Posts & Images Update,87376870,Shambhu Narula,2026-09-25T04:30:05.750000-04:00,2026-09-25T05:45:05.750000-04:00,1.25,False,9009011702,GMB Posts & Images Update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 4794488200876415684,,,87357162,Virendra Singh Jaitawat,2025-10-27T08:58:30.407000-04:00,2025-10-27T11:57:09.180000-04:00,2.98,False,9009011702,"Time tracking training, Clickup training",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4794668392035022292,,,87357162,Virendra Singh Jaitawat,2025-10-27T11:57:30.359000-04:00,2025-10-27T14:05:09.367000-04:00,2.13,False,9009011702,Worked on Outreaching analysis for Bravura Security,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4794798365496461816,,,87357162,Virendra Singh Jaitawat,2025-10-27T14:06:37.215000-04:00,2025-10-27T16:37:54.946000-04:00,2.52,False,9009011702,"GA, GSC, & GTM Training - 1",NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -754,6 +757,7 @@ entry_id,task_id,task_name,user_id,username,start_time,stop_time,duration_hours,
 5255629974417327192,,,87357162,Virendra Singh Jaitawat,2026-09-10T09:00:00-04:00,2026-09-10T09:45:00-04:00,0.75,False,9009011702,POD - Sign Resources NC,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5262922790331904544,,,87357162,Virendra Singh Jaitawat,2026-09-15T10:30:00-04:00,2026-09-15T11:30:00-04:00,1.0,False,9009011702,POD meeting - Speedpro,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5267269970404468831,85zrydjhy,GMB Post,87357162,Virendra Singh Jaitawat,2026-09-18T11:45:00-04:00,2026-09-18T12:30:00-04:00,0.75,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
+5277414838514646561,85zrydjhy,GMB Post,87357162,Virendra Singh Jaitawat,2026-09-25T11:30:00-04:00,2026-09-25T12:45:00-04:00,1.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 4758242510978579523,868fu5k5p,Arti's LinkedIn Reel,87345256,Prince Michael Fandiño,2025-10-02T08:51:33.020000-04:00,2025-10-02T09:54:08.537000-04:00,1.04,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868fu5k5p,NA,Private
 4758520809239763752,868fumy8t,Blog Graphic - 2 graphics needed for this blog - Manufacturing Content Marketing Strategy Checklist for 2025,87345256,Prince Michael Fandiño,2025-10-02T14:05:22.637000-04:00,2025-10-02T16:30:43.637000-04:00,2.42,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868fumy8t,NA,Private
 4758723067504128481,868fuwn7b,Thumbnail Graphic for Blog - Manufacturing Content Marketing Strategy Checklist for 2025: A Full-Funnel Blueprint to Fuel Growth in North American B2B Markets,87345256,Prince Michael Fandiño,2025-10-02T15:48:57.460000-04:00,2025-10-02T16:48:57.460000-04:00,1.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868fuwn7b,NA,Private
@@ -1128,6 +1132,7 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5265468759955109762,868kukunb,Add Branding & CTA to Speaker Reel Videos,87345256,Prince Michael Fandiño,2026-09-17T06:55:34.128000-04:00,2026-09-17T12:00:21.598000-04:00,5.08,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868kukunb,NA,Private
 5265939910267397238,868kr0rwa,YouTube Video Edit — Your Buyer Already Stopped Clicking.,87345256,Prince Michael Fandiño,2026-09-17T14:43:36.914000-04:00,2026-09-17T15:41:12.830000-04:00,0.96,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868kr0rwa,NA,Private
 5271517252624730879,868kr0rwa,YouTube Video Edit — Your Buyer Already Stopped Clicking.,87345256,Prince Michael Fandiño,2026-09-21T11:04:13.712000-04:00,2026-09-21T14:29:32.064000-04:00,3.42,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868kr0rwa,NA,Private
+5277371993883834750,868ma103f,Arti Reel 1 - Train Station Thoughts,87345256,Prince Michael Fandiño,2026-09-25T10:00:22.049000-04:00,2026-09-25T12:00:22.049000-04:00,2.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868ma103f,NA,Private
 4787519053697279756,,,87335811,Farhan Emtiaz Ahmed,2025-10-21T23:00:00-04:00,2025-10-22T00:00:00-04:00,1.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4787520061437536051,,,87335811,Farhan Emtiaz Ahmed,2025-10-22T13:06:10.615000-04:00,2025-10-22T13:36:10.615000-04:00,0.5,False,9009011702,Internal PPC Meeting,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4787521776421332838,,,87335811,Farhan Emtiaz Ahmed,2025-10-22T10:00:35.771000-04:00,2025-10-22T11:00:35.771000-04:00,1.0,False,9009011702,Variance Update,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
@@ -1558,6 +1563,7 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5274445891620194495,,,87335811,Farhan Emtiaz Ahmed,2026-09-23T07:00:00-04:00,2026-09-23T08:15:00-04:00,1.25,False,9009011702,Campaigns monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5275925039870011331,,,87335811,Farhan Emtiaz Ahmed,2026-09-24T06:30:00-04:00,2026-09-24T08:00:00-04:00,1.5,False,9009011702,Campaigns monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5275929243535698001,,,87335811,Farhan Emtiaz Ahmed,2026-09-24T08:30:00-04:00,2026-09-24T09:00:00-04:00,0.5,False,9009011702,High CPL List Update,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5277297073581617509,,,87335811,Farhan Emtiaz Ahmed,2026-09-25T10:30:00-04:00,2026-09-25T11:30:00-04:00,1.0,False,9009011702,Campaigns monitoring and leads analysis,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4936584872652858735,,,87332930,Deepika Jha,2026-01-30T14:30:00-05:00,2026-01-30T15:30:00-05:00,1.0,False,9009011702,,NA,NA,NA,,NA,Private
 4936601859332401305,868gn8g0w,Steph POD,87332930,Deepika Jha,2026-01-27T14:30:00-05:00,2026-01-27T15:30:00-05:00,1.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868gn8g0w,NA,Private
 4936623089288637505,,,87332930,Deepika Jha,2026-01-28T08:45:00-05:00,2026-01-28T09:15:00-05:00,0.5,False,9009011702,,NA,NA,NA,,NA,Private
@@ -2889,6 +2895,10 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5275926117990688754,,,81597988,Marisa Mehnke,2026-09-24T11:44:00-04:00,2026-09-24T12:04:00-04:00,0.33,False,9009011702,,NA,NA,NA,,NA,Private
 5276161149187539553,,,81597988,Marisa Mehnke,2026-09-24T15:47:30.469000-04:00,2026-09-24T15:57:30.469000-04:00,0.17,False,9009011702,,NA,NA,NA,,NA,Private
 5276161175544545890,,,81597988,Marisa Mehnke,2026-09-24T15:57:31.592000-04:00,2026-09-24T16:12:08.531000-04:00,0.24,False,9009011702,,NA,NA,NA,,NA,Private
+5277251040508013596,,,81597988,Marisa Mehnke,2026-09-25T09:45:00-04:00,2026-09-25T10:00:00-04:00,0.25,False,9009011702,,NA,NA,NA,,NA,Private
+5277499722536994623,,,81597988,Marisa Mehnke,2026-09-25T13:57:00-04:00,2026-09-25T14:07:00-04:00,0.17,False,9009011702,,NA,NA,NA,,NA,Private
+5277499946076620611,,,81597988,Marisa Mehnke,2026-09-25T13:32:00-04:00,2026-09-25T14:07:00-04:00,0.58,False,9009011702,,NA,NA,NA,,NA,Private
+5277500935043172183,,,81597988,Marisa Mehnke,2026-09-25T14:08:27.526000-04:00,2026-09-25T14:53:20.057000-04:00,0.75,False,9009011702,,NA,NA,NA,,NA,Private
 3832243442701453718,,,60764851,Samantha Ballard,2024-01-02T12:00:00-05:00,2024-01-02T12:15:00-05:00,0.25,False,9009011702,,NA,NA,NA,,NA,Private
 3872728583970123388,868638aah,Quad City 2024 plan,60764851,Samantha Ballard,2024-01-30T10:02:20.136000-05:00,2024-01-30T10:32:20.136000-05:00,0.5,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868638aah,NA,Private
 4769980998836975325,868fxz437,Content Meeting,60764851,Samantha Ballard,2025-10-10T10:00:41.575000-04:00,2025-10-10T11:12:41.575000-04:00,1.2,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868fxz437,NA,Private
@@ -4012,6 +4022,7 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 4861696085229990379,,,81510466,Jonah Mae Caliboso,2025-12-12T16:43:27.421000-05:00,2025-12-12T16:43:30.146000-05:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4861696096135180781,,,81510466,Jonah Mae Caliboso,2025-12-12T16:43:27.421000-05:00,2025-12-12T16:43:28.063000-05:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 5029778584114984259,,,81510466,Jonah Mae Caliboso,2026-04-07T16:38:25.187000-04:00,2026-04-07T16:38:27.904000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
+5281267171078062708,868mahgg6,Handover Notes,81510466,Jonah Mae Caliboso,2026-09-28T04:29:52.946000-04:00,2026-09-28T06:23:25.179000-04:00,1.89,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868mahgg6,NA,Private
 4434830133979401819,,,81508032,Tanya,2025-02-17T12:00:00-05:00,2025-02-17T13:30:00-05:00,1.5,False,9009011702,https://measuremarketinginc-my.sharepoint.com/:w:/g/personal/tanya_measuremarketing_com/Ed0CYg3oB1VArekUON3WXDsBrb_P_sb0OutWHxpQzYs9sg?e=koHpL9,NA,NA,NA,https://app.clickup.com/t/null,NA,Private
 4434833355959848543,,,81508032,Tanya,2025-02-18T10:30:00-05:00,2025-02-18T12:30:00-05:00,2.0,False,9009011702,,NA,NA,NA,,NA,Private
 4434839436123590282,,,81508032,Tanya,2025-02-19T04:30:00-05:00,2025-02-19T09:00:00-05:00,4.5,False,9009011702,,NA,NA,NA,,NA,Private
@@ -4115,6 +4126,7 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5265908233222643990,868kr0rwa,YouTube Video Edit — Your Buyer Already Stopped Clicking.,81508032,Tanya,2026-09-17T14:00:00-04:00,2026-09-17T14:15:00-04:00,0.25,False,9009011702,video review,NA,NA,NA,https://app.clickup.com/t/868kr0rwa,NA,Private
 5271112314887235834,868k8xh1k,Case Studies to be updated - Based on new Template,81508032,Tanya,2026-09-21T03:45:00-04:00,2026-09-21T04:20:00-04:00,0.58,False,9009011702,"reviewed case study, discussed with Dev, and assigned the comments",NA,NA,NA,https://app.clickup.com/t/868k8xh1k,NA,Private
 5271170878444038639,868k8xh1k,Case Studies to be updated - Based on new Template,81508032,Tanya,2026-09-21T05:00:00-04:00,2026-09-21T05:20:00-04:00,0.33,False,9009011702,review after live,NA,NA,NA,https://app.clickup.com/t/868k8xh1k,NA,Private
+5281302624925795083,868k8xh1k,Case Studies to be updated - Based on new Template,81508032,Tanya,2026-09-28T04:10:00-04:00,2026-09-28T04:20:00-04:00,0.17,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868k8xh1k,NA,Private
 5054043454955996274,868j0043p,1:1 Notes //  Larien.,75539501,Larien Ray Enriquez,2026-04-24T09:23:22.450000-04:00,2026-04-24T10:23:22.450000-04:00,1.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868j0043p,NA,Private
 4207507221024234398,8687u9hqb,Visual Signs and Graphics,75531883,Kathyrine Tadaoan,2024-09-17T08:30:08.478000-04:00,2024-09-17T10:00:08.478000-04:00,1.5,False,9009011702,Editing cps for October,NA,NA,NA,https://app.clickup.com/t/8687u9hqb,NA,Private
 4207515652531575916,8687u95ne,All American Signs and Graphics,75531883,Kathyrine Tadaoan,2024-09-17T10:33:35.444000-04:00,2024-09-17T12:00:44.188000-04:00,1.45,False,9009011702,Editing cps for October,NA,NA,NA,https://app.clickup.com/t/8687u95ne,NA,Private
@@ -7951,6 +7963,8 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5271154158807443892,868hkmjke,Update Variance,75420487,Swati Rajput,2026-09-21T05:30:15.597000-04:00,2026-09-21T05:50:15.597000-04:00,0.33,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5274042370047504071,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-09-23T04:00:35.359000-04:00,2026-09-23T04:30:35.359000-04:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 5274042581574643401,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-09-23T04:45:47.214000-04:00,2026-09-23T05:30:47.214000-04:00,0.75,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
+5281283940945642185,868hkmjke,Update Variance,75420487,Swati Rajput,2026-09-28T03:45:00.421000-04:00,2026-09-28T04:00:00.421000-04:00,0.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5281284384971440843,85zrydjhy,GMB Post,75420487,Swati Rajput,2026-09-28T04:00:40.780000-04:00,2026-09-28T05:15:40.780000-04:00,1.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 4221895973112799812,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:10.641000-04:00,2024-09-27T08:39:14.738000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896495555306060,8689un8vn,Content Review,75418362,Ana,2024-09-27T07:59:39.028000-04:00,2024-09-27T08:39:39.028000-04:00,0.67,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
 4221896578266980941,8689un8vn,Content Review,75418362,Ana,2024-09-27T08:39:46.769000-04:00,2024-09-27T08:39:47.734000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8689un8vn,NA,Private
@@ -10948,6 +10962,7 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5222066907603695051,868hhnbhu,GMB Posts & Images Update,60765319,Sandeep Malviya,2026-08-17T10:30:02.716000-04:00,2026-08-17T11:30:02.716000-04:00,1.0,False,9009011702,All ym and Kapil Projects and Images check and update,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5222067289721566670,868hkmjke,Update Variance,60765319,Sandeep Malviya,2026-08-17T07:59:45.670000-04:00,2026-08-17T08:19:45.670000-04:00,0.33,False,9009011702,All my projects,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
 5257155563779416471,85zrydjhy,GMB Post,60765319,Sandeep Malviya,2026-09-11T11:45:20.884000-04:00,2026-09-11T12:45:20.884000-04:00,1.0,False,9009011702,All ym projects posts and images update,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
+5277411814622789063,85zrydjhy,GMB Post,60765319,Sandeep Malviya,2026-09-25T11:38:36.145000-04:00,2026-09-25T12:38:36.145000-04:00,1.0,False,9009011702,All my projects posts and image update,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 3831945689379273071,85zrv6gfm,Update Variance,60765308,Harish Kewat,2024-01-02T06:16:55.974000-05:00,2024-01-02T07:16:55.974000-05:00,1.0,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrv6gfm,NA,Private
 3831946945304885624,8684rt2ge,Lunch Break,60765308,Harish Kewat,2024-01-02T06:48:11.787000-05:00,2024-01-02T07:18:11.787000-05:00,0.5,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8684rt2ge,NA,Private
 3835071374478173701,85zrzzadk,Monthly Ranking Update,60765308,Harish Kewat,2024-01-04T09:01:59.502000-05:00,2024-01-04T11:01:59.502000-05:00,2.0,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrzzadk,NA,Private
@@ -12352,6 +12367,7 @@ Getting Verified at the Business Location",87345256,Prince Michael Fandiño,2026
 5265794292203017121,85zrydjhy,GMB Post,60765308,Harish Kewat,2026-09-17T11:03:00-04:00,2026-09-17T12:18:00-04:00,1.25,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/85zrydjhy,NA,Private
 5271476989336372682,868hhnbhu,GMB Posts & Images Update,60765308,Harish Kewat,2026-09-21T08:54:07.603000-04:00,2026-09-21T10:24:07.603000-04:00,1.5,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 5271477309512762840,868hkmjke,Update Variance,60765308,Harish Kewat,2026-09-21T10:04:27.236000-04:00,2026-09-21T10:24:27.236000-04:00,0.33,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hkmjke,NA,Private
+5277252102086356022,868hhnbhu,GMB Posts & Images Update,60765308,Harish Kewat,2026-09-25T08:31:00-04:00,2026-09-25T10:01:00-04:00,1.5,True,9009011702,,NA,NA,NA,https://app.clickup.com/t/868hhnbhu,NA,Private
 3942612539452048844,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:35:59.453000-04:00,2024-03-18T16:36:04.612000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612646926894544,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:05.867000-04:00,2024-03-18T16:36:08.131000-04:00,0.0,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private
 3942612755962021332,8687u9gj0,Pure Image Signs & Graphics,60765293,Olivia Impaz,2024-03-18T16:36:12.359000-04:00,2024-03-18T16:36:45.104000-04:00,0.01,False,9009011702,,NA,NA,NA,https://app.clickup.com/t/8687u9gj0,NA,Private

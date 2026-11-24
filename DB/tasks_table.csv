@@ -1,4 +1,5 @@
 task_id,tasks_project_id,tasks_project_name
+1gaaamgthad,90118269445,SpeedPro - Boston North
 1gaaamgte1q,90119271384,SpeedPro - Fort Worth West
 1gaaamgtd34,90118595207,SpeedPro - Boca Raton
 1gaaamgtcqx,90118265649,99signs
@@ -98,7 +99,8 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrj6d,90118595207,SpeedPro - Boca Raton
 1gaaamgrj6c,90118595207,SpeedPro - Boca Raton
 1gaaamgrj6a,90118595207,SpeedPro - Boca Raton
-1gaaamgrj6b,90118595207,SpeedPro - Boca Raton
+1gaaamgtfq3,90118265620,Circle City Custom Signs
+1gaaamgtfq2,90119275398,Equinox Custom Signs
 1gaaamgte1v,90119266955,Windy City Signs and Graphics
 1gaaamgte1a,90119217773,VizComm Signage Group
 1gaaamgte0z,90119217874,Vital Sign Solutions
@@ -197,8 +199,9 @@ task_id,tasks_project_id,tasks_project_name
 868mqw9nx,90119217971,SpeedPro - Blountville
 868mqw8bg,90119217963,SpeedPro - Addison
 868mqw6c5,90119217977,SpeedPro - North Indianapolis
-868mqw66g,90119220733,SpeedPro - Knoxville
-868mqw5uu,90119272198,SpeedPro - Columbus
+1gaaamgtjwb,90119266969,First Impression Signs
+1gaaamgtjw9,90119266969,First Impression Signs
+1gaaamgtjw8,90119266969,First Impression Signs
 1gaaamgtd7v,90118269441,City Beautiful Signs and Graphics
 1gaaamgtd7t,90118269441,City Beautiful Signs and Graphics
 1gaaamgtd7r,90118269441,City Beautiful Signs and Graphics
@@ -296,9 +299,7 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrq81,90119217696,Captivating Signs
 1gaaamgrmx4,90119217818,Langstaff & Sloan Inc.
 1gaaamgrmxf,90119217818,Langstaff & Sloan Inc.
-1gaaamgrmxe,90119217818,Langstaff & Sloan Inc.
-1gaaamgrmxd,90119217818,Langstaff & Sloan Inc.
-1gaaamgrmxc,90119217818,Langstaff & Sloan Inc.
+1gaaamgtj6n,90119268134,Elite Custom Signs
 1gaaamgte1n,90119268134,Elite Custom Signs
 1gaaamgte1k,90119268134,Elite Custom Signs
 1gaaamgte1j,90119268134,Elite Custom Signs
@@ -310,9 +311,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgt7xm,90119271365,Sign Resources NC Inc.
 1gaaamgt3xw,90118281177,Madison Sign Studios
 1gaaamgt130,90119383107,hidden
-1gaaamgrv32,90119266925,Sign Source Solution
-1gaaamgrv31,90119266925,Sign Source Solution
-1gaaamgrv30,90119266925,Sign Source Solution
 1gaaamgru4j,90119267138,"Pacesetter Signs & Graphics, Inc"
 1gaaamgrtaa,90118595466,Excel SignWorks
 1gaaamgrmcf,90119271360,Total SignWorks Ltd
@@ -399,6 +397,8 @@ task_id,tasks_project_id,tasks_project_name
 868mrr9df,90119266955,Windy City Signs and Graphics
 868mrr7c1,90119383107,hidden
 868mrr769,90119266955,Windy City Signs and Graphics
+868mrr766,90119266955,Windy City Signs and Graphics
+868mrr763,90119266955,Windy City Signs and Graphics
 1gaaamgtaf5,90119217773,VizComm Signage Group
 1gaaamgt8y4,90119272631,Chesapeake Signworks
 1gaaamgt8yg,90119272631,Chesapeake Signworks
@@ -445,6 +445,9 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrvwz,90119217773,VizComm Signage Group
 1gaaamgrvwx,90119217773,VizComm Signage Group
 1gaaamgrvww,90119217773,VizComm Signage Group
+1gaaamgrv32,90119266925,Sign Source Solution
+1gaaamgrv31,90119266925,Sign Source Solution
+1gaaamgrv30,90119266925,Sign Source Solution
 1gaaamgru6a,90119280995,Daylite
 1gaaamgru69,90119280995,Daylite
 1gaaamgru68,90119280995,Daylite
@@ -496,9 +499,7 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgr6u5,90119217773,VizComm Signage Group
 1gaaamgr6u4,90119217773,VizComm Signage Group
 868mu378q,90119217773,VizComm Signage Group
-868mtdpwj,90119280995,Daylite
-868mtdpwh,90119280995,Daylite
-868mtdpvw,90119280995,Daylite
+1gaaamgtj6k,90119268134,Elite Custom Signs
 1gaaamgte1m,90119268134,Elite Custom Signs
 1gaaamgt7xr,90119271365,Sign Resources NC Inc.
 1gaaamgt17p,1700200000000826,SpeedPro - Eden Prairie
@@ -598,7 +599,9 @@ task_id,tasks_project_id,tasks_project_name
 868mqweev,90119266955,Windy City Signs and Graphics
 868mqweep,90119266955,Windy City Signs and Graphics
 868mqwedw,90119266955,Windy City Signs and Graphics
-868mqu9ty,90119275398,Equinox Custom Signs
+1gaaamgtjm8,90119271564,SpeedPro - Lake County
+1gaaamgtfq1,90119275398,Equinox Custom Signs
+1gaaamgteap,90119266969,First Impression Signs
 1gaaamgte1w,90119266955,Windy City Signs and Graphics
 1gaaamgtdzu,90119271360,Total SignWorks Ltd
 1gaaamgtdzc,90119280765,Toronto Custom Signs
@@ -669,8 +672,6 @@ task_id,tasks_project_id,tasks_project_name
 868mu36u9,90119267033,Touchstone Signs and Graphics
 868mt20gc,90119376758,SpeedPro - Central PA
 868mt1znb,90119375838,SpeedPro - Tulsa
-868mt1f3k,90119375838,SpeedPro - Tulsa
-868mt1f11,90119375838,SpeedPro - Tulsa
 868mt1ewn,90119375838,SpeedPro - Tulsa
 868mt1e3p,90119375838,SpeedPro - Tulsa
 868mt13cb,90119376758,SpeedPro - Central PA
@@ -698,7 +699,21 @@ task_id,tasks_project_id,tasks_project_name
 868mqw6y9,90119217749,Signs Unlimited
 868mqw6bq,90118281177,Madison Sign Studios
 868mqw66k,90119220733,SpeedPro - Knoxville
-868mqw5v1,90119272198,SpeedPro - Columbus
+1gaaamgtk7f,90119271564,SpeedPro - Lake County
+1gaaamgtjwa,90119266969,First Impression Signs
+1gaaamgtjuy,90119271564,SpeedPro - Lake County
+1gaaamgtjme,90119271564,SpeedPro - Lake County
+1gaaamgtjmc,90119271564,SpeedPro - Lake County
+1gaaamgtjm7,90119271564,SpeedPro - Lake County
+1gaaamgtjm9,90119271564,SpeedPro - Lake County
+1gaaamgtjk8,90119271564,SpeedPro - Lake County
+1gaaamgtjjn,90119271564,SpeedPro - Lake County
+1gaaamgtjj2,90119271564,SpeedPro - Lake County
+1gaaamgtjj0,90119271564,SpeedPro - Lake County
+1gaaamgtgdj,90119271564,SpeedPro - Lake County
+1gaaamgtgdg,90119271564,SpeedPro - Lake County
+1gaaamgtfxp,90119271564,SpeedPro - Lake County
+1gaaamgtfuu,90119271564,SpeedPro - Lake County
 1gaaamgtd7u,90118269441,City Beautiful Signs and Graphics
 1gaaamgtd7p,90118269441,City Beautiful Signs and Graphics
 1gaaamgtd78,90118269441,City Beautiful Signs and Graphics
@@ -709,6 +724,7 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgt7tr,90119271564,SpeedPro - Lake County
 1gaaamgt7tk,90119271564,SpeedPro - Lake County
 1gaaamgt7th,90119271564,SpeedPro - Lake County
+1gaaamgt7rm,90119271564,SpeedPro - Lake County
 1gaaamgt7rk,90119271564,SpeedPro - Lake County
 1gaaamgt7rj,90119271564,SpeedPro - Lake County
 1gaaamgt7rh,90119271564,SpeedPro - Lake County
@@ -783,22 +799,9 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgr514,90119267033,Touchstone Signs and Graphics
 868mu36u2,90119267033,Touchstone Signs and Graphics
 868mtx7pz,90118594914,"LGL Sign Company, LLC"
-868mtm5d2,90119266969,First Impression Signs
-868mtk32p,90119271373,InceptionPoint Signworks
-868mtcruv,90119220733,SpeedPro - Knoxville
-868mtbb5g,90119220733,SpeedPro - Knoxville
-868mtb55h,90119220733,SpeedPro - Knoxville
-868mtb2je,90119220733,SpeedPro - Knoxville
-868mtb2j9,90119220733,SpeedPro - Knoxville
-868mtaphn,90119271373,InceptionPoint Signworks
-868mtaphk,90119271373,InceptionPoint Signworks
-868mrrkug,90119272198,SpeedPro - Columbus
-868mrrkub,90119272198,SpeedPro - Columbus
-868mrrkgq,90119272198,SpeedPro - Columbus
-868mrr16n,90119272198,SpeedPro - Columbus
-868mrr16h,90119272198,SpeedPro - Columbus
-868mrqzk2,90119272198,SpeedPro - Columbus
-868mrqzjz,90119272198,SpeedPro - Columbus
+1gaaamgtk76,90116468367,hidden
+1gaaamgtjm6,90119271564,SpeedPro - Lake County
+1gaaamgtjky,90116199068,hidden
 1gaaamgtd4n,90116468367,hidden
 1gaaamgtd4m,90116468367,hidden
 1gaaamgt7xz,90116468367,hidden
@@ -896,10 +899,8 @@ task_id,tasks_project_id,tasks_project_name
 868m68213,90116468367,hidden
 868m5tc5j,90116468367,hidden
 868m5fhqu,90116468367,hidden
-868m5fgqg,90116468367,hidden
-868m5f6pw,90116468367,hidden
-868m5afc8,90116468367,hidden
 868m642kb,90118131764,hidden
+1gaaamgthak,90118269445,SpeedPro - Boston North
 1gaaamgte13,90119217874,Vital Sign Solutions
 1gaaamgte0y,90119217874,Vital Sign Solutions
 1gaaamgte0d,90119267033,Touchstone Signs and Graphics
@@ -999,8 +1000,9 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrn7t,90119217874,Vital Sign Solutions
 1gaaamgrn7g,90118265649,99signs
 1gaaamgrgaj,90119217963,SpeedPro - Addison
-1gaaamgr6tr,90119220733,SpeedPro - Knoxville
-1gaaamgt9r1,90119217788,Celco/Celcook
+1gaaamgtjqf,90118265654,Baltimore Signs
+1gaaamgtjqe,90118265654,Baltimore Signs
+1gaaamgtjqd,90118265654,Baltimore Signs
 1gaaamgt9r0,90119275395,Brevard Sign Solutions
 1gaaamgt9qy,90119275395,Brevard Sign Solutions
 1gaaamgt9qu,90119275395,Brevard Sign Solutions
@@ -1067,11 +1069,8 @@ task_id,tasks_project_id,tasks_project_name
 868mrj149,90118265655,Clarity Signworks
 868mrh0nh,90119217843,Louisville Custom Signs
 868mr8g73,90118281177,Madison Sign Studios
-868mr8g6w,90118281177,Madison Sign Studios
 868mr8g6n,90118281177,Madison Sign Studios
-868mr8g6b,90118281177,Madison Sign Studios
 868mr8g63,90118281177,Madison Sign Studios
-868mr8g5u,90118281177,Madison Sign Studios
 868mr7z29,90118281177,Madison Sign Studios
 868mr7z27,90118281177,Madison Sign Studios
 868mqyccm,90118277516,Kingdom Signs and Graphics
@@ -1100,6 +1099,11 @@ task_id,tasks_project_id,tasks_project_name
 868mqm0ut,90119217874,Vital Sign Solutions
 868mqm0pv,90119217874,Vital Sign Solutions
 868mqm0hu,90119217874,Vital Sign Solutions
+868mqm08a,90119217874,Vital Sign Solutions
+1gaaamgtejr,90119375838,SpeedPro - Tulsa
+1gaaamgtehp,90119375838,SpeedPro - Tulsa
+1gaaamgtehh,90119375838,SpeedPro - Tulsa
+1gaaamgteh5,90119375838,SpeedPro - Tulsa
 1gaaamgrrkg,1700200000000464,SpeedPro - Chattanooga
 1gaaamgrrk6,1700200000000464,SpeedPro - Chattanooga
 1gaaamgrrk5,1700200000000464,SpeedPro - Chattanooga
@@ -1196,10 +1200,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrbd1,90119272198,SpeedPro - Columbus
 1gaaamgrbd0,90119272198,SpeedPro - Columbus
 1gaaamgrbcz,90119272198,SpeedPro - Columbus
-1gaaamgrbd2,90119272198,SpeedPro - Columbus
-1gaaamgrbcy,90119272198,SpeedPro - Columbus
-1gaaamgrbcv,90119272198,SpeedPro - Columbus
-1gaaamgrbcx,90119272198,SpeedPro - Columbus
 1gaaamgtd36,90118595207,SpeedPro - Boca Raton
 1gaaamgtd2r,90119217974,SpeedPro - Chicago Loop
 1gaaamgt8q7,90119217973,SpeedPro - Greater San Diego
@@ -1398,7 +1398,6 @@ task_id,tasks_project_id,tasks_project_name
 868mfbkk9,90119267896,Northeast Sign Company
 868mfb6r7,90119219805,Fresh Coast Signs | Muskegon Signs
 868mem2c4,90119268068,Quad City
-868mem1u9,90119267896,Northeast Sign Company
 1gaaamgrbb5,90117116243,hidden
 1gaaamgr6jj,90117116243,hidden
 1gaaamgr6jh,90117116243,hidden
@@ -1499,6 +1498,35 @@ task_id,tasks_project_id,tasks_project_name
 868hhbcdk,90117116243,hidden
 868hhbbfp,90117116243,hidden
 868hhbag5,90117116243,hidden
+1gaaamgtjqc,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjqb,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjqa,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjq6,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjq9,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjq7,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjq8,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjq5,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjq4,90119266942,Major League Signs (Miami Signs)
+1gaaamgtjmf,90119267798,Pure Image Signs and Graphics
+1gaaamgtjk0,90119267798,Pure Image Signs and Graphics
+1gaaamgtjk1,90119267798,Pure Image Signs and Graphics
+1gaaamgtjjx,90119267798,Pure Image Signs and Graphics
+1gaaamgtjjz,90119267798,Pure Image Signs and Graphics
+1gaaamgtjjw,90119267798,Pure Image Signs and Graphics
+1gaaamgtjju,90119267798,Pure Image Signs and Graphics
+1gaaamgtjjy,90119267798,Pure Image Signs and Graphics
+1gaaamgtjjv,90119267798,Pure Image Signs and Graphics
+1gaaamgtjjt,90119267798,Pure Image Signs and Graphics
+1gaaamgtj6g,90119268134,Elite Custom Signs
+1gaaamgtehf,90119271365,Sign Resources NC Inc.
+1gaaamgtehe,90119271365,Sign Resources NC Inc.
+1gaaamgteh8,90119271365,Sign Resources NC Inc.
+1gaaamgtehd,90119271365,Sign Resources NC Inc.
+1gaaamgtehc,90119271365,Sign Resources NC Inc.
+1gaaamgteh9,90119271365,Sign Resources NC Inc.
+1gaaamgtehb,90119271365,Sign Resources NC Inc.
+1gaaamgteha,90119271365,Sign Resources NC Inc.
+1gaaamgteh7,90119271365,Sign Resources NC Inc.
 1gaaamgtdy6,90118595466,Excel SignWorks
 1gaaamgtdy7,90118595466,Excel SignWorks
 1gaaamgtdy2,90118595466,Excel SignWorks
@@ -1570,35 +1598,7 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgt7m8,90119217718,Jacksonville Signs & Graphics
 1gaaamgt7m6,90119217718,Jacksonville Signs & Graphics
 1gaaamgt7m1,90119217718,Jacksonville Signs & Graphics
-1gaaamgt7m0,90119217718,Jacksonville Signs & Graphics
-1gaaamgt1ku,90118277500,SKY Custom Signs
-1gaaamgt1kq,90118277500,SKY Custom Signs
-1gaaamgt1kn,90118277500,SKY Custom Signs
-1gaaamgt1kt,90118277500,SKY Custom Signs
-1gaaamgt1km,90118277500,SKY Custom Signs
-1gaaamgt1kr,90118277500,SKY Custom Signs
-1gaaamgt1kp,90118277500,SKY Custom Signs
-1gaaamgt1kk,90118277500,SKY Custom Signs
-1gaaamgt1kj,90118277500,SKY Custom Signs
-1gaaamgrwxd,90119219810,QC Signs
-1gaaamgrwxa,90119219810,QC Signs
-1gaaamgrwxc,90119219810,QC Signs
-1gaaamgrwx7,90119219810,QC Signs
-1gaaamgrwx8,90119219810,QC Signs
-1gaaamgrwx9,90119219810,QC Signs
-1gaaamgrwxb,90119219810,QC Signs
-1gaaamgrwx6,90119219810,QC Signs
-1gaaamgrwx5,90119219810,QC Signs
-1gaaamgrwwa,90119267798,Pure Image Signs and Graphics
-1gaaamgrwwb,90119267798,Pure Image Signs and Graphics
-1gaaamgrwwd,90119267798,Pure Image Signs and Graphics
-1gaaamgrwwc,90119267798,Pure Image Signs and Graphics
-1gaaamgrww9,90119267798,Pure Image Signs and Graphics
-1gaaamgrww8,90119267798,Pure Image Signs and Graphics
-1gaaamgrww7,90119267798,Pure Image Signs and Graphics
-1gaaamgrww6,90119267798,Pure Image Signs and Graphics
-1gaaamgrww5,90119267798,Pure Image Signs and Graphics
-1gaaamgrwha,90119217718,Jacksonville Signs & Graphics
+1gaaamgtjqg,90118265654,Baltimore Signs
 1gaaamgtd4f,90119219802,Amazing Signs
 1gaaamgtcrd,90118265610,3Sixty Sign Solutions
 1gaaamgtcqy,90119217696,Captivating Signs
@@ -1698,7 +1698,24 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgra9q,90119219802,Amazing Signs
 1gaaamgra7b,90119217696,Captivating Signs
 1gaaamgr8df,90119219802,Amazing Signs
-1gaaamgr83x,90118277516,Kingdom Signs and Graphics
+1gaaamgtk7g,90119271564,SpeedPro - Lake County
+1gaaamgtk7e,90119271564,SpeedPro - Lake County
+1gaaamgtk7d,90119271564,SpeedPro - Lake County
+1gaaamgtjmd,90119271564,SpeedPro - Lake County
+1gaaamgtjk9,90119271564,SpeedPro - Lake County
+1gaaamgtjk7,90119271564,SpeedPro - Lake County
+1gaaamgtjk6,90119271564,SpeedPro - Lake County
+1gaaamgtjjm,90119271564,SpeedPro - Lake County
+1gaaamgtjjk,90119271564,SpeedPro - Lake County
+1gaaamgtjjj,90119271564,SpeedPro - Lake County
+1gaaamgtjj3,90119271564,SpeedPro - Lake County
+1gaaamgtjj1,90119271564,SpeedPro - Lake County
+1gaaamgthaf,90118269445,SpeedPro - Boston North
+1gaaamgtgdh,90119271564,SpeedPro - Lake County
+1gaaamgtgdk,90119271564,SpeedPro - Lake County
+1gaaamgtfuv,90119271564,SpeedPro - Lake County
+1gaaamgtfuw,90119271564,SpeedPro - Lake County
+1gaaamgtfut,90119271564,SpeedPro - Lake County
 1gaaamgt847,90119271392,Graphicworks Sign Company
 1gaaamgt849,90119271392,Graphicworks Sign Company
 1gaaamgt7tq,90119271564,SpeedPro - Lake County
@@ -1731,8 +1748,6 @@ task_id,tasks_project_id,tasks_project_name
 868mtk32u,90119271373,InceptionPoint Signworks
 868mtaphp,90119271373,InceptionPoint Signworks
 868mtaphm,90119271373,InceptionPoint Signworks
-868mt1f4t,90119375838,SpeedPro - Tulsa
-868mt1f1a,90119375838,SpeedPro - Tulsa
 868mt1ewz,90119375838,SpeedPro - Tulsa
 868mt1e41,90119375838,SpeedPro - Tulsa
 868mrwjhw,90119271373,InceptionPoint Signworks
@@ -1783,22 +1798,6 @@ task_id,tasks_project_id,tasks_project_name
 868mqkb2e,90118269444,Lighthouse Sign Co.
 868mqkb1g,90118269444,Lighthouse Sign Co.
 868mqkb10,90118269444,Lighthouse Sign Co.
-868mqkaxr,90118269444,Lighthouse Sign Co.
-868mqkafy,90118594914,"LGL Sign Company, LLC"
-868mqkac4,90118594914,"LGL Sign Company, LLC"
-868mqka79,90118594914,"LGL Sign Company, LLC"
-868mqk8jp,90119271373,InceptionPoint Signworks
-868mqk8hn,90119271373,InceptionPoint Signworks
-868mqk84v,90119268449,Horizon Sign Solutions
-868mqk83q,90119268449,Horizon Sign Solutions
-868mqk7xg,90119268449,Horizon Sign Solutions
-868mqk7bx,90119271392,Graphicworks Sign Company
-868mqk6wf,90119271392,Graphicworks Sign Company
-868mqk6t7,90119271392,Graphicworks Sign Company
-868mpqumw,90119217949,Paragon Signs and Graphics
-868mpmewk,90118594914,"LGL Sign Company, LLC"
-868mpmewj,90118594914,"LGL Sign Company, LLC"
-868mpmdm3,90118594914,"LGL Sign Company, LLC"
 1gaaamgt3xy,90118281177,Madison Sign Studios
 1gaaamgt3f6,90118281177,Madison Sign Studios
 1gaaamgt3f7,90118281177,Madison Sign Studios
@@ -1870,12 +1869,15 @@ task_id,tasks_project_id,tasks_project_name
 868mr8g75,90118281177,Madison Sign Studios
 868mr8g74,90118281177,Madison Sign Studios
 868mr8g6x,90118281177,Madison Sign Studios
+868mr8g6w,90118281177,Madison Sign Studios
 868mr8g6p,90118281177,Madison Sign Studios
 868mr8g6m,90118281177,Madison Sign Studios
 868mr8g6g,90118281177,Madison Sign Studios
+868mr8g6b,90118281177,Madison Sign Studios
 868mr8g64,90118281177,Madison Sign Studios
 868mr8g62,90118281177,Madison Sign Studios
 868mr8g5x,90118281177,Madison Sign Studios
+868mr8g5u,90118281177,Madison Sign Studios
 868mr7z28,90118281177,Madison Sign Studios
 868mqw6c3,90118281177,Madison Sign Studios
 868mqw6c0,90118281177,Madison Sign Studios
@@ -1896,9 +1898,7 @@ task_id,tasks_project_id,tasks_project_name
 868mqqn8w,90119217962,Boston Signs and Graphics
 868mqqn8v,90119217962,Boston Signs and Graphics
 868mqqn8u,90119217962,Boston Signs and Graphics
-868mqqn8t,90119217962,Boston Signs and Graphics
-868mqqn8r,90119217962,Boston Signs and Graphics
-868mqqn8q,90119217962,Boston Signs and Graphics
+1gaaamgtj6m,90119268134,Elite Custom Signs
 1gaaamgt9kf,90118265654,Baltimore Signs
 1gaaamgt015,90119280796,Tadera
 1gaaamgr5fa,90119217788,Celco/Celcook
@@ -1998,7 +1998,10 @@ task_id,tasks_project_id,tasks_project_name
 868mrdazr,90119267354,Envision Orlando
 868mrdaz7,90119267354,Envision Orlando
 868mrd97u,90119268134,Elite Custom Signs
-868mrd97f,90119268134,Elite Custom Signs
+1gaaamgtjt6,90119271564,SpeedPro - Lake County
+1gaaamgtjmb,90119271564,SpeedPro - Lake County
+1gaaamgtjma,90119271564,SpeedPro - Lake County
+1gaaamgthae,90118269445,SpeedPro - Boston North
 1gaaamgte0m,90119268319,Vibrant Sign Studio
 1gaaamgte0k,90119268319,Vibrant Sign Studio
 1gaaamgte0c,90119267033,Touchstone Signs and Graphics
@@ -2095,10 +2098,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgr850,90119271384,SpeedPro - Fort Worth West
 1gaaamgr851,90119271384,SpeedPro - Fort Worth West
 1gaaamgr84z,90119271384,SpeedPro - Fort Worth West
-1gaaamgr84y,90119271384,SpeedPro - Fort Worth West
-1gaaamgr5xz,90119271392,Graphicworks Sign Company
-1gaaamgr5xy,90119271392,Graphicworks Sign Company
-1gaaamgr5xv,90119271392,Graphicworks Sign Company
 868ku589y,90116368871,hidden
 868khhkvk,90116199068,hidden
 868kgemtb,90116199068,hidden
@@ -2199,6 +2198,7 @@ task_id,tasks_project_id,tasks_project_name
 868hx99ay,90116368871,hidden
 868hx91jk,90116368871,hidden
 868hx8c1k,90116199068,hidden
+1gaaamgtj6q,90119268134,Elite Custom Signs
 1gaaamgt6d5,90119271564,SpeedPro - Lake County
 1gaaamgt6ck,90119271384,SpeedPro - Fort Worth West
 1gaaamgt6bq,90119272631,Chesapeake Signworks
@@ -2236,7 +2236,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrb9w,90118213938,hidden
 1gaaamgr9e1,1700200000000464,SpeedPro - Chattanooga
 1gaaamgr9bv,1700200000000464,SpeedPro - Chattanooga
-1gaaamgr99n,90119266969,First Impression Signs
 1gaaamgr8dn,90119219802,Amazing Signs
 1gaaamgr7rh,90119268251,All American Signs and Graphics
 1gaaamgr5w0,90119271365,Sign Resources NC Inc.
@@ -2398,6 +2397,7 @@ task_id,tasks_project_id,tasks_project_name
 868mqw34r,90118265654,Baltimore Signs
 868mqw348,90118265654,Baltimore Signs
 868mqw33e,90118265654,Baltimore Signs
+1gaaamgtjqt,90119217773,VizComm Signage Group
 1gaaamgtdze,90119280765,Toronto Custom Signs
 1gaaamgtdzd,90119280765,Toronto Custom Signs
 1gaaamgtaf8,90119217773,VizComm Signage Group
@@ -2438,12 +2438,6 @@ task_id,tasks_project_id,tasks_project_name
 868mtt1nu,90119375838,SpeedPro - Tulsa
 868mtn7ah,90119217823,Majestic Sign Studio
 868mthu5e,90119266932,SSK Signs
-868mt1f4w,90119375838,SpeedPro - Tulsa
-868mt1f4r,90119375838,SpeedPro - Tulsa
-868mt1f35,90119375838,SpeedPro - Tulsa
-868mt1f1c,90119375838,SpeedPro - Tulsa
-868mt1f19,90119375838,SpeedPro - Tulsa
-868mt1f0m,90119375838,SpeedPro - Tulsa
 868mt1ex1,90119375838,SpeedPro - Tulsa
 868mt1ewx,90119375838,SpeedPro - Tulsa
 868mt1ew9,90119375838,SpeedPro - Tulsa
@@ -2498,6 +2492,33 @@ task_id,tasks_project_id,tasks_project_name
 868mrj1n6,90119217823,Majestic Sign Studio
 868mrj1mg,90118265648,Genesis Signs & Graphics
 868mrj1mm,90119217773,VizComm Signage Group
+868mrj1mf,90119376758,SpeedPro - Central PA
+868mrf5mx,90119271642,Redheaded Sign Company
+868mqwe19,90119280765,Toronto Custom Signs
+868mqwe0y,90119280765,Toronto Custom Signs
+868mqwckg,90119217773,VizComm Signage Group
+1gaaamgtjrz,90119280796,Tadera
+1gaaamgtjq3,90119280796,Tadera
+1gaaamgtjnc,90119280796,Tadera
+1gaaamgtjn9,90119280796,Tadera
+1gaaamgtjna,90119280796,Tadera
+1gaaamgtjnb,90119280796,Tadera
+1gaaamgtjn8,90119280796,Tadera
+1gaaamgtjn7,90119280796,Tadera
+1gaaamgtjn6,90119280796,Tadera
+1gaaamgtjn4,90119280796,Tadera
+1gaaamgtjn5,90119280796,Tadera
+1gaaamgtjn3,90119280796,Tadera
+1gaaamgtjn2,90119280796,Tadera
+1gaaamgtjn0,90119280796,Tadera
+1gaaamgtjn1,90119280796,Tadera
+1gaaamgtjmz,90119280796,Tadera
+1gaaamgtjmy,90119280796,Tadera
+1gaaamgtjmx,90119280796,Tadera
+1gaaamgtjmw,90119280796,Tadera
+1gaaamgtjmu,90119280796,Tadera
+1gaaamgtjmk,90119280796,Tadera
+1gaaamgthx5,90119329136,Trapeze MoD
 1gaaamgt9r4,90119217788,Celco/Celcook
 1gaaamgt9j3,90119329136,Trapeze MoD
 1gaaamgt05j,90119220732,Momentm - Tripspark
@@ -2576,28 +2597,6 @@ task_id,tasks_project_id,tasks_project_name
 868mr8p93,90119280702,Measure Marketing
 868mr8p8z,90119280702,Measure Marketing
 868mr8p8t,90119280702,Measure Marketing
-868mr8p8u,90119280702,Measure Marketing
-868mr8p8m,90119280702,Measure Marketing
-868mr8p8e,90119280702,Measure Marketing
-868mr8p8j,90119280702,Measure Marketing
-868mr8p8b,90119280702,Measure Marketing
-868mr8p86,90119280702,Measure Marketing
-868mr8p88,90119280702,Measure Marketing
-868mr8p7x,90119280702,Measure Marketing
-868mr8p80,90119280702,Measure Marketing
-868mr8p7w,90119280702,Measure Marketing
-868mr8p7p,90119280702,Measure Marketing
-868mr8mp6,90119220732,Momentm - Tripspark
-868mr8mp4,90119220732,Momentm - Tripspark
-868mr8mnx,90119220732,Momentm - Tripspark
-868mr8mnz,90119220732,Momentm - Tripspark
-868mr8mnv,90119220732,Momentm - Tripspark
-868mr8mnq,90119220732,Momentm - Tripspark
-868mr8mnk,90119220732,Momentm - Tripspark
-868mr8mnf,90119220732,Momentm - Tripspark
-868mr8mnb,90119220732,Momentm - Tripspark
-868mr8mnc,90119220732,Momentm - Tripspark
-868mr8mn5,90119220732,Momentm - Tripspark
 1gaaamgtaf7,90119217773,VizComm Signage Group
 1gaaamgt6br,90119272631,Chesapeake Signworks
 1gaaamgt6b7,90118269441,City Beautiful Signs and Graphics
@@ -2698,6 +2697,7 @@ task_id,tasks_project_id,tasks_project_name
 868m5fg9g,90119280995,Daylite
 868m0ywa7,90119280796,Tadera
 868m0yudb,90119280796,Tadera
+1gaaamgtfq0,90118265620,Circle City Custom Signs
 1gaaamgte1b,90119217773,VizComm Signage Group
 1gaaamgte10,90119217874,Vital Sign Solutions
 1gaaamgte0j,90119268319,Vibrant Sign Studio
@@ -2796,7 +2796,7 @@ task_id,tasks_project_id,tasks_project_name
 868mqm01p,90119217966,Victory Sign Company
 868mqkzyg,90119217966,Victory Sign Company
 868mqkzye,90119217966,Victory Sign Company
-868mqkwax,90119280765,Toronto Custom Signs
+1gaaamgthaj,90118269445,SpeedPro - Boston North
 1gaaamgtd38,90118595207,SpeedPro - Boca Raton
 1gaaamgtd2v,90119217974,SpeedPro - Chicago Loop
 1gaaamgtafb,90119217773,VizComm Signage Group
@@ -2893,7 +2893,7 @@ task_id,tasks_project_id,tasks_project_name
 868mu1zr9,90119217696,Captivating Signs
 868mrh0nn,90119217843,Louisville Custom Signs
 868mrggfa,90119217843,Louisville Custom Signs
-868mrggf8,90119217843,Louisville Custom Signs
+1gaaamgthah,90118269445,SpeedPro - Boston North
 1gaaamgtd85,1700200000000742,SpeedPro - SF Peninsula
 1gaaamgtd84,1700200000000742,SpeedPro - SF Peninsula
 1gaaamgtd80,1700200000000742,SpeedPro - SF Peninsula
@@ -2944,8 +2944,6 @@ task_id,tasks_project_id,tasks_project_name
 868mu378v,90119217773,VizComm Signage Group
 868mu2fqg,90119217823,Majestic Sign Studio
 868mu20a5,90119217818,Langstaff & Sloan Inc.
-868mt1f34,90119375838,SpeedPro - Tulsa
-868mt1f0n,90119375838,SpeedPro - Tulsa
 868mt1ew7,90119375838,SpeedPro - Tulsa
 868mt1e38,90119375838,SpeedPro - Tulsa
 868mt1dbv,90119217788,Celco/Celcook
@@ -2993,6 +2991,9 @@ task_id,tasks_project_id,tasks_project_name
 868mqkqxr,90119217974,SpeedPro - Chicago Loop
 868mqkqw9,90119217974,SpeedPro - Chicago Loop
 868mqkqjp,90118269445,SpeedPro - Boston North
+868mqkqeu,90118269445,SpeedPro - Boston North
+1gaaamgtj6j,90119268134,Elite Custom Signs
+1gaaamgtean,90119266969,First Impression Signs
 1gaaamgt9m3,90118265610,3Sixty Sign Solutions
 1gaaamgt6bh,90119272631,Chesapeake Signworks
 1gaaamgt6b4,90118269441,City Beautiful Signs and Graphics
@@ -3088,8 +3089,8 @@ task_id,tasks_project_id,tasks_project_name
 868mqk32y,90119266969,First Impression Signs
 868mqk319,90119266969,First Impression Signs
 868mqk2xp,90119266969,First Impression Signs
-868mqk2vd,90118595466,Excel SignWorks
-868mqk2u9,90118595466,Excel SignWorks
+1gaaamgtfqg,90118265620,Circle City Custom Signs
+1gaaamgtfq6,90118265620,Circle City Custom Signs
 1gaaamgtdz7,90119217958,Super Custom Sign
 1gaaamgtdz6,90119217958,Super Custom Sign
 1gaaamgtdxh,90119217969,SpeedPro - Orlando
@@ -3187,8 +3188,6 @@ task_id,tasks_project_id,tasks_project_name
 868mqvhm2,90119217718,Jacksonville Signs & Graphics
 868mqvhkz,90119217718,Jacksonville Signs & Graphics
 868mqvh6n,90119217965,Indy Sign Factory
-868mqvh6a,90119217965,Indy Sign Factory
-868mqvg4u,90118594182,ImageTEK Signs and Graphics LLC
 1gaaamgt7kz,90116468367,hidden
 1gaaamgr992,90116468367,hidden
 868mte7hk,90116468367,hidden
@@ -3202,6 +3201,9 @@ task_id,tasks_project_id,tasks_project_name
 868m9dvq8,90116199068,hidden
 868m6874j,90116468367,hidden
 868m5g9rp,90116199068,hidden
+868m5fgqg,90116468367,hidden
+868m5f6pw,90116468367,hidden
+868m5afc8,90116468367,hidden
 868m5aey9,90116468367,hidden
 868m4tex5,90116468367,hidden
 868m4t5k6,90116468367,hidden
@@ -3242,7 +3244,6 @@ task_id,tasks_project_id,tasks_project_name
 868kefnxv,90116468367,hidden
 868kcke8j,90116199068,hidden
 868kckdvg,90116199068,hidden
-868kc3a9x,90116468367,hidden
 1gaaamgt9k3,90119217961,Southlake Signs Tampa
 1gaaamgt268,90118277516,Kingdom Signs and Graphics
 1gaaamgt265,90118277516,Kingdom Signs and Graphics
@@ -3419,7 +3420,6 @@ task_id,tasks_project_id,tasks_project_name
 868kw54hp,90119267557,Saltwater Signworks
 868ktrz0b,90118250459,hidden
 868ke9kk0,90118213938,hidden
-868kay991,90116468367,hidden
 1gaaamgt6d2,90119271564,SpeedPro - Lake County
 1gaaamgt6cm,90119271384,SpeedPro - Fort Worth West
 1gaaamgt6b5,90118269441,City Beautiful Signs and Graphics
@@ -3520,6 +3520,18 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgr9ay,90119271384,SpeedPro - Fort Worth West
 1gaaamgr8dk,90119219802,Amazing Signs
 1gaaamgr7rf,90119268251,All American Signs and Graphics
+1gaaamgtjkm,90119267557,Saltwater Signworks
+1gaaamgtjkj,90119267557,Saltwater Signworks
+1gaaamgtjkh,90119267557,Saltwater Signworks
+1gaaamgtjkn,90119267557,Saltwater Signworks
+1gaaamgtjkk,90119267557,Saltwater Signworks
+1gaaamgtjkg,90119267557,Saltwater Signworks
+1gaaamgtjkd,90119267557,Saltwater Signworks
+1gaaamgtjke,90119267557,Saltwater Signworks
+1gaaamgtjkf,90119267557,Saltwater Signworks
+1gaaamgtjkb,90119267557,Saltwater Signworks
+1gaaamgtjkc,90119267557,Saltwater Signworks
+1gaaamgtjka,90119267557,Saltwater Signworks
 1gaaamgtd91,90118277500,SKY Custom Signs
 1gaaamgtd90,90118277500,SKY Custom Signs
 1gaaamgtd8y,90118277500,SKY Custom Signs
@@ -3608,18 +3620,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgru0k,90118265648,Genesis Signs & Graphics
 1gaaamgru0u,90118265648,Genesis Signs & Graphics
 1gaaamgru0m,90118265648,Genesis Signs & Graphics
-1gaaamgru0j,90118265648,Genesis Signs & Graphics
-1gaaamgru0h,90118265648,Genesis Signs & Graphics
-1gaaamgrn6z,90118277500,SKY Custom Signs
-1gaaamgrn6y,90118277500,SKY Custom Signs
-1gaaamgrn6x,90118277500,SKY Custom Signs
-1gaaamgrn5w,90118265614,Caliber Signs & Imaging
-1gaaamgrn5x,90118265614,Caliber Signs & Imaging
-1gaaamgrn5y,90118265614,Caliber Signs & Imaging
-1gaaamgrn5v,90118265614,Caliber Signs & Imaging
-1gaaamgrn5u,90118265614,Caliber Signs & Imaging
-1gaaamgrn5n,90118265614,Caliber Signs & Imaging
-1gaaamgrn5q,90118265614,Caliber Signs & Imaging
 1gaaamgtd2p,90119217974,SpeedPro - Chicago Loop
 1gaaamgt9m0,90118265610,3Sixty Sign Solutions
 1gaaamgt9kk,90118265654,Baltimore Signs
@@ -3715,6 +3715,10 @@ task_id,tasks_project_id,tasks_project_name
 868eguk8x,90116049321,hidden
 868egu1ht,90116049321,hidden
 868egtygx,90116049321,hidden
+1gaaamgtjrw,90119280796,Tadera
+1gaaamgtjq0,90119280796,Tadera
+1gaaamgtjmr,90119280796,Tadera
+1gaaamgtjmh,90119280796,Tadera
 1gaaamgtd7z,1700200000000742,SpeedPro - SF Peninsula
 1gaaamgtd37,90118595207,SpeedPro - Boca Raton
 1gaaamgtd2q,90119217974,SpeedPro - Chicago Loop
@@ -3797,7 +3801,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrq29,90119217788,Celco/Celcook
 1gaaamgrpay,90119220732,Momentm - Tripspark
 1gaaamgrpb0,90119220732,Momentm - Tripspark
-1gaaamgrpax,90119220732,Momentm - Tripspark
 1gaaamgrgxw,90119220732,Momentm - Tripspark
 1gaaamgrgxv,90119220732,Momentm - Tripspark
 1gaaamgrgvq,90119220732,Momentm - Tripspark
@@ -3812,8 +3815,9 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrbyt,90119220732,Momentm - Tripspark
 1gaaamgrbyq,90119220732,Momentm - Tripspark
 1gaaamgrbyp,90119220732,Momentm - Tripspark
-1gaaamgr99v,90119217970,Red Robin Masonry
-1gaaamgr99x,90119217970,Red Robin Masonry
+1gaaamgtjnp,90119280796,Tadera
+1gaaamgtgnc,90119329136,Trapeze MoD
+1gaaamgtgnb,90119329136,Trapeze MoD
 1gaaamgte1d,90119217773,VizComm Signage Group
 1gaaamgte1c,90119217773,VizComm Signage Group
 1gaaamgtdmt,90119217823,Majestic Sign Studio
@@ -3908,9 +3912,8 @@ task_id,tasks_project_id,tasks_project_name
 868mqkvk2,90119280796,Tadera
 868mqkvjz,90119280796,Tadera
 868mqkvj1,90119280796,Tadera
-868mqkvhz,90119280796,Tadera
-868mqkvhx,90119280796,Tadera
-868mqkvhv,90119280796,Tadera
+1gaaamgtfqh,90119275398,Equinox Custom Signs
+1gaaamgtfq7,90119275398,Equinox Custom Signs
 1gaaamgtdyy,90119266932,SSK Signs
 1gaaamgtdyx,90119266932,SSK Signs
 1gaaamgtdyp,90119376758,SpeedPro - Central PA
@@ -4009,8 +4012,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrec6,90119268068,Quad City
 1gaaamgrec5,90119268068,Quad City
 1gaaamgrec3,90119268068,Quad City
-1gaaamgrec4,90119268068,Quad City
-1gaaamgrec2,90119268068,Quad City
 1gaaamgrtar,1700200000000628,hidden
 1gaaamgrtan,1700200000000628,hidden
 1gaaamgrtaj,1700200000000742,SpeedPro - SF Peninsula
@@ -4081,8 +4082,7 @@ task_id,tasks_project_id,tasks_project_name
 868hvhqen,90116199068,hidden
 868httkd8,90116199068,hidden
 868hq4drk,90116199068,hidden
-868hq38k3,90116199068,hidden
-868hn6ent,90113842485,hidden
+1gaaamgthac,90118269445,SpeedPro - Boston North
 1gaaamgtd33,90118595207,SpeedPro - Boca Raton
 1gaaamgtd2m,90119217974,SpeedPro - Chicago Loop
 1gaaamgt6cq,90119217968,SpeedPro - Raleigh Clayton
@@ -4182,7 +4182,9 @@ task_id,tasks_project_id,tasks_project_name
 868mrujj8,90119268319,Vibrant Sign Studio
 868mrujj4,90119268319,Vibrant Sign Studio
 868mrujj3,90119268319,Vibrant Sign Studio
-868mrujj2,90119268319,Vibrant Sign Studio
+1gaaamgthag,90118269445,SpeedPro - Boston North
+1gaaamgteaq,90119266969,First Impression Signs
+1gaaamgtear,90119266969,First Impression Signs
 1gaaamgtaf6,90119217773,VizComm Signage Group
 1gaaamgt9m4,90118265610,3Sixty Sign Solutions
 1gaaamgt6c5,90118269445,SpeedPro - Boston North
@@ -4280,9 +4282,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgt4r7,90118269445,SpeedPro - Boston North
 1gaaamgt4r0,90118269445,SpeedPro - Boston North
 1gaaamgt4qv,90119217977,SpeedPro - North Indianapolis
-1gaaamgt4qr,90119217977,SpeedPro - North Indianapolis
-1gaaamgt4qq,90119217977,SpeedPro - North Indianapolis
-1gaaamgt4qw,90119217977,SpeedPro - North Indianapolis
 1gaaamgt7xf,90119219810,QC Signs
 1gaaamgt7xe,90119219810,QC Signs
 1gaaamgt7xd,90119219810,QC Signs
@@ -4383,6 +4382,11 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgrrw9,90118265648,Genesis Signs & Graphics
 1gaaamgrrwa,90118265648,Genesis Signs & Graphics
 1gaaamgrrw6,90118265648,Genesis Signs & Graphics
+1gaaamgtj6p,90119268134,Elite Custom Signs
+1gaaamgtfqq,90118265620,Circle City Custom Signs
+1gaaamgtfqp,90119275398,Equinox Custom Signs
+1gaaamgtfpw,90118265620,Circle City Custom Signs
+1gaaamgtfpx,90119275398,Equinox Custom Signs
 1gaaamgte1z,90119266955,Windy City Signs and Graphics
 1gaaamgte1u,90119266955,Windy City Signs and Graphics
 1gaaamgte1e,90119217773,VizComm Signage Group
@@ -4478,11 +4482,9 @@ task_id,tasks_project_id,tasks_project_name
 868mrf5n6,90119271642,Redheaded Sign Company
 868mr3fqj,90119217965,Indy Sign Factory
 868mr2r7v,90118594549,Shamrock Signs
-868mqznym,90119217974,SpeedPro - Chicago Loop
-868mqwt25,90119266955,Windy City Signs and Graphics
-868mqwt1j,90119266955,Windy City Signs and Graphics
-868mqwr5b,90119217773,VizComm Signage Group
-868mqwr50,90119217773,VizComm Signage Group
+1gaaamgtj6h,90119268134,Elite Custom Signs
+1gaaamgtj6f,90119268134,Elite Custom Signs
+1gaaamgtgbb,90119268134,Elite Custom Signs
 1gaaamgte1y,90119266955,Windy City Signs and Graphics
 1gaaamgte1x,90119266955,Windy City Signs and Graphics
 1gaaamgtdzw,90119271360,Total SignWorks Ltd
@@ -4580,9 +4582,6 @@ task_id,tasks_project_id,tasks_project_name
 1gaaamgr5u1,90119271365,Sign Resources NC Inc.
 1gaaamgr5u2,90119271365,Sign Resources NC Inc.
 1gaaamgr5tz,90119271365,Sign Resources NC Inc.
-1gaaamgr4ky,90119271365,Sign Resources NC Inc.
-1gaaamgr4kx,90119271365,Sign Resources NC Inc.
-1gaaamgr4kw,90119271365,Sign Resources NC Inc.
 1gaaamgt132,90119383107,hidden
 1gaaamgt108,90119219810,QC Signs
 1gaaamgt107,90119219810,QC Signs
